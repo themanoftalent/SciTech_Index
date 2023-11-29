@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 直尺 |  |
+| cmn-Latn-CN | zhí chǐ |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Lineal [n] |  |
+| eng-Latn-US | line gauge, rule, ruler, scale |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | règle [f] |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? じょ↓うぎ |  |
+| jpn-Jpan-JP | 定規 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | лине́йка |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

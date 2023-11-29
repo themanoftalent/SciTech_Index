@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 相对速度 |  |
+| cmn-Latn-CN | xiāngduì sùdù |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Relativgeschwindigkeit |  |
+| eng-Latn-US | relative velocity | [[velocity]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | vitesse relative |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? そ↑うたいそ↓くど |  |
+| jpn-Jpan-JP | 相対速度 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | относи́тельная ско́рость |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ | 𝑣⃗_{𝐵𝐴}, 𝐯_{𝐵𝐴} |  |
+|  |  |  |

@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 电桥电路、桥式电路 |  |
+| cmn-Latn-CN | diànqiáo diànlù, qiáoshì diànlù |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Brückenschaltung, H-Brücke, H-Schaltung, Vollbrücke |  |
+| eng-Latn-US | bridge circuit |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | montage en pont [m] |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ブ↑リッジか↓いろ |  |
+| jpn-Jpan-JP | ブリッジ回路 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU |  |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

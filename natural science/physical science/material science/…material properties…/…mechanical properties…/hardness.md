@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 硬度 |  |
+| cmn-Latn-CN | yìng dù |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Härte |  |
+| eng-Latn-US | hardness | [plastic deformation](plastic_deformation) |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | dureté |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? か↑たさ |  |
+| jpn-Jpan-JP | 硬さ |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | твёрдость |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

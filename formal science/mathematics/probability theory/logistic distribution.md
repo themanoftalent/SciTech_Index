@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 逻辑斯谛分布 |  |
+| cmn-Latn-CN | luójísīdì fēnbù |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | logistische Verteilung |  |
+| eng-Latn-US | logistic distribution | [[continuous probability distribution]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | loi [f] logistique |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ロ↑ジスティックぶ↓んぷ |  |
+| jpn-Jpan-JP | ロジスティック分布 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | логисти́ческое распределе́ние |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

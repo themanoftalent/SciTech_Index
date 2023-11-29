@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 凝华 |  |
+| cmn-Latn-CN | nínghuá |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Deposition, Desublimation, Resublimation, Solidifikation |  |
+| eng-Latn-US | deposition, desublimation |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | condensation solide, déposition, désublimation |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ぎょ↓うか |  |
+| jpn-Jpan-JP | 凝華 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | десублима́ция, дпози́ция |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 冲量 |  |
+| cmn-Latn-CN | chōngliàng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Kraftstoß [m] |  |
+| eng-Latn-US | impulse | [[force]]; [[integral]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | percussion, impulsion |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? りきせき |  |
+| jpn-Jpan-JP | 力積 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | и́мпульс си́лы |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

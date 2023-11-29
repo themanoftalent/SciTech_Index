@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 表面硬化 |  |
+| cmn-Latn-CN | biǎomiàn yìnghuà |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Einsatzhärten |  |
+| eng-Latn-US | case hardening, surface hardening |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | traitement thermique superficiel |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? は↑だやき |  |
+| jpn-Jpan-JP | 肌焼 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU |  |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

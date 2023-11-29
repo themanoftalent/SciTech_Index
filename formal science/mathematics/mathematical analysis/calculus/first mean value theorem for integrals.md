@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 积分第一中值定理 |  |
+| cmn-Latn-CN | jīfēn dìyī zhōngzhí dìnglǐ |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | erster Mittelwertsatz der Integralrechnung |  |
+| eng-Latn-US | first mean value theorem for integrals |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | première formule [f] de la moyenne |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? せ↑きぶんのだ↓いい↑ちへいきんちて↓いり |  |
+| jpn-Jpan-JP | 積分の第一平均値定理 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | пе́рвая теоре́ма о сре́днем |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

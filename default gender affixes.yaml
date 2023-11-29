@@ -1,0 +1,23 @@
+---
+deu-Latn-DE:
+  m: [ -ant, -ast, -el, -en, -er, -ich, -ig, -ismus, -ling, -or, -us ]
+  f: [ -a, -anz, -e, -ei, -enz, -heit, -ie, -ik, -in, -ion, -keit, -schaft, -tät, -ung, -ur ]
+  n: [ -chen, -lein, -ma, -ment, -nis, -sel, -tel, -tum, -um ]
+fra-Latn-FR:
+  m: [ -ard, -age, -ail, -al, -am, -asme, -eau, -eil, -em, -ent, -er, -est, -et, -eu, -eur, -euil, -é, -ège, -ème, -ien, -ier, -il, -in, -ing, -isme, -it, -ment, -oir, -om, -on, -ond, -ont, -um, -_consonne_ ]
+  f: [ -ade, -aille, -ance, -elle, -ence, -enne, -esse, -ette, -euse, -ée, -ère, -ie, -ienne, -ière, -ine, -ion, -ise, -onne, -son, -té, -tié, -trice, -ude, -ure ]
+ita-Latn-IT:
+  m: [ -o, -tore, -_consonante_ ]
+  f: [ -a, -i, -ione, -tà, -trice, -tù, -zione ]
+nld-Latn-NL:
+  m: [ -aar, -aard, -aris, -er, -erd, -eur, -ier, -ist, -loog, -maan, -noom, -or, -teur, -us ]
+  f: [ -a, -arij, -atie, -e, -ege, -egge, -ente, -erij, -es, -esse, -euse, -heid, -ica, -in, -ing, -ogie, -ster, -suur, -teit, -theek, -trice ]
+  n: [ -aat, -isme, -ma, -ment, -um ]
+rus-Cyrl-RU:
+  м: [ -арь, -ия, -й, -тель, -_согла́сный_ ]
+  ж: [ -а, -бь, -вь, -дь, -зь, -ость, -сь, -ть, -чь, -шь, -щь, -я ]
+  с: [ -ие, -o, -e, -мя ]
+spa-Latn-ES:
+  m: [ -ma, -o, -ta ]
+  f: [ -a, –ción, –dad, –sión, -sis, -tad, -tis, –tud, –umbre ]
+  

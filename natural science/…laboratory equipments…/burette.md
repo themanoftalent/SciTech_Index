@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 滴定管 |  |
+| cmn-Latn-CN | dīdìng guǎn |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Bürette |  |
+| eng-Latn-US | burette |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | burette |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ビュ↑レ↓ット |  |
+| jpn-Jpan-JP | ビュレット |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | бюре́тка |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

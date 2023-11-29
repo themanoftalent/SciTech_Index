@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 纯净物、纯物质 |  |
+| cmn-Latn-CN | chúnjìng wù, chún wùzhì |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Reinstoff |  |
+| eng-Latn-US | pure substance |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | corps pur |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? じゅ↑んぶ↓っしつ |  |
+| jpn-Jpan-JP | 純物質 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU |  |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

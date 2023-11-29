@@ -1,0 +1,26 @@
+| | |
+|-|-|
+| arb-Arab-ZZ |  |
+| cmn-Hans-CN | _微积分学_ |
+| cmn-Latn-CN | _wēijīfēn xué_ |
+| dan-Latn-DK |  |
+| deu-Latn-DE | _Infinitesimalrechnung_ |
+| eng-Latn-US | _calculus_ |
+| fin-Latn-FI |  |
+| fra-Latn-FR | _calcul infinitésimal_ |
+| heb-Hebr-IL |  |
+| hin-Deva-IN |  |
+| ita-Latn-IT |  |
+| jpn-Hrkt-JP | ? _び↑ぶんせきぶ↓んがく_ |
+| jpn-Jpan-JP | _微分積分学_ |
+| kor-Hang-KR |  |
+| kor-Kore-KR |  |
+| nld-Latn-NL |  |
+| nob-Latn-NO |  |
+| pes-Aran-IR |  |
+| por-Latn-PT |  |
+| rus-Cyrl-RU | _математи́ческий ана́ли_ |
+| swe-Latn-SE |  |
+| spa-Latn-ES |  |
+| zxx-Zsym-ZZ |  |
+|  |  |

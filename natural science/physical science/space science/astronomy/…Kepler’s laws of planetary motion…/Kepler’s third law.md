@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 开普勒第三定律、周期定律 |  |
+| cmn-Latn-CN | Kāipǔlè dìsān dìnglǜ, zhōuqī dìnglǜ |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | drittes keplersches Gesetz |  |
+| eng-Latn-US | Kepler’s third law |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | loi des périodes, troisième loi de Kepler |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ケ↓プラーの↑だ↓いさ↑んほ↓うそく、ちょ↑うわのほうそく  |  |
+| jpn-Jpan-JP | ケプラーの第三法則、調和の法則 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | гармони́ческий зако́н, тре́тий зако́н Ке́плера |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

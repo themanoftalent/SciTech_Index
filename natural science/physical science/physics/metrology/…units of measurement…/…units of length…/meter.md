@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 米 |  |
+| cmn-Latn-CN | mǐ |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Meter |  |
+| eng-Latn-US | meter |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | mètre [m] |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? メ↓ートル |  |
+| jpn-Jpan-JP | メートル |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | киломе́тр |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

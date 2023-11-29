@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 质量 |  |
+| cmn-Latn-CN | zhì liàng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Masse |  |
+| eng-Latn-US | mass |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | masse [f] |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? し↑つ↓りょう |  |
+| jpn-Jpan-JP | 質量 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | ма́сса |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

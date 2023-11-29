@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 变速直线运动 |  |
+| cmn-Latn-CN | biànsù zhíxiàn yùndòng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | ungleichförmige geradlineare Bewegung |  |
+| eng-Latn-US | non-uniform linear motion, non-uniform rectilinear motion | [[linear motion, rectilinear motion]]; [[uniform motion]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | mouvement rectiligne non uniforme |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ひ↑とうそくちょくせんう↓んどう、ふ↑とうそくちょくせんう↓んどう |  |
+| jpn-Jpan-JP | 非等速直線運動、不等速直線運動 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | неравноме́рное прямолине́йное движе́ние |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

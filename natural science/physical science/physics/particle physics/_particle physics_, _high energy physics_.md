@@ -1,0 +1,26 @@
+| | |
+|-|-|
+| arb-Arab-ZZ |  |
+| cmn-Hans-CN | _高能物理学_、_粒子物理学_ |
+| cmn-Latn-CN | _gǎonéng wùlǐxué_, _lìzǐ wùlǐxué_ |
+| dan-Latn-DK |  |
+| deu-Latn-DE | _Teilchenphysik_ |
+| eng-Latn-US | _high energy physics_, _particle physics_ |
+| fin-Latn-FI |  |
+| fra-Latn-FR | _physique [f] des hautes énergies [f-pl]_, _physique [f] des particules [f-pl]_, _physique [f] subatomique_ |
+| heb-Hebr-IL |  |
+| hin-Deva-IN |  |
+| ita-Latn-IT |  |
+| jpn-Hrkt-JP | ? _そ↑りゅ↓うしぶ↑つり↓がく_ |
+| jpn-Jpan-JP | _素粒子物理学_ |
+| kor-Hang-KR |  |
+| kor-Kore-KR |  |
+| nld-Latn-NL |  |
+| nob-Latn-NO |  |
+| pes-Aran-IR |  |
+| por-Latn-PT |  |
+| rus-Cyrl-RU | _фи́зика элемента́рных части́ц_ |
+| swe-Latn-SE |  |
+| spa-Latn-ES |  |
+| zxx-Zsym-ZZ |  |
+|  |  |

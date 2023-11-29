@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 力 |  |
+| cmn-Latn-CN | lì |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Kraft [f] |  |
+| eng-Latn-US | force | [[motion]]; [[physical body, physical object]]; [[velocity]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | force |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ち↑から |  |
+| jpn-Jpan-JP | 力 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | си́ла |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ | 𝐹⃗, 𝐅 |  |
+|  |  |  |

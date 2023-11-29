@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 等温过程 |  |
+| cmn-Latn-CN | děngwēn guòchéng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | isotherme Zustandsänderung |  |
+| eng-Latn-US | isothermal process |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | processus isotherme |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? と↑うおんか↓てい |  |
+| jpn-Jpan-JP | 等温過程 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | изотермический процесс, изотермный процесс |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

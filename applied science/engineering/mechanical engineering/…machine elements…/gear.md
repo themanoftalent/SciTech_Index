@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 齿轮 |  |
+| cmn-Latn-CN | chǐ lún |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Zahnrad [n] |  |
+| eng-Latn-US | gear bearing |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | engrenage [m] |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | は↑ぐ↓るま |  |
+| jpn-Jpan-JP | 歯車 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU |  |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

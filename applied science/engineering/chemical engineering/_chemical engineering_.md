@@ -1,0 +1,26 @@
+| | |
+|-|-|
+| arb-Arab-ZZ |  |
+| cmn-Hans-CN | _化学工程_ |
+| cmn-Latn-CN | _huàxué gōngchéng_ |
+| dan-Latn-DK |  |
+| deu-Latn-DE | _Chemieingenieurwesen [n]_, _Chemietechnik_ |
+| eng-Latn-US | _chemical engineering_ |
+| fin-Latn-FI |  |
+| fra-Latn-FR | _génie chimique_ |
+| heb-Hebr-IL |  |
+| hin-Deva-IN |  |
+| ita-Latn-IT |  |
+| jpn-Hrkt-JP | ? _か↑がくこ↓うがく_ |
+| jpn-Jpan-JP | _化学工学_ |
+| kor-Hang-KR |  |
+| kor-Kore-KR |  |
+| nld-Latn-NL |  |
+| nob-Latn-NO |  |
+| pes-Aran-IR |  |
+| por-Latn-PT |  |
+| rus-Cyrl-RU | _хими́ческая техноло́гия_ |
+| swe-Latn-SE |  |
+| spa-Latn-ES |  |
+| zxx-Zsym-ZZ |  |
+|  |  |

@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 定积分 |  |
+| cmn-Latn-CN | dìng jīfēn |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | bestimmte Integral |  |
+| eng-Latn-US | definite integral |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | intégrale [f] définie |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? て↑いせ↓きぶん |  |
+| jpn-Jpan-JP | 定積分 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | определённый интегра́л |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

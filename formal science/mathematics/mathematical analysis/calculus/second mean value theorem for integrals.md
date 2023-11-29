@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 积分第二中值定理 |  |
+| cmn-Latn-CN | jīfēn dì'èr zhōngzhí dìnglǐ |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | zweiter Mittelwertsatz der Integralrechnung |  |
+| eng-Latn-US | second mean value theorem for integrals |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | deuxième formule [f] de la moyenne |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? せ↑きぶんのだ↓いにへ↑いきんちて↓いり |  |
+| jpn-Jpan-JP | 積分の第二平均値定理 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | Втора́я теоре́ма о сре́днем |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 前提 |  |
+| cmn-Latn-CN | qiántí |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Prämisse, Vordersatz [m] |  |
+| eng-Latn-US | premise, premiss |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | prémisse [f] |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ぜ↑んてい |  |
+| jpn-Jpan-JP | 前提 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | посы́лка |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

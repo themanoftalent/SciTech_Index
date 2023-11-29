@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 标量 |  |
+| cmn-Latn-CN | biāo liàng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Skalar [m] (Algebra) |  |
+| eng-Latn-US | scalar (algebra) |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | scalaire (algèbre) |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ス↑カ↓ラー（だ↑いす↓うがく） |  |
+| jpn-Jpan-JP | スカラー（代数学） |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | скаля́р |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

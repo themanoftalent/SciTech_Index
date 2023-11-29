@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 静摩擦力 |  |
+| cmn-Latn-CN | jìngmócā lì |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Haftreibung |  |
+| eng-Latn-US | static friction |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | frottement sec statique |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? せ↑いしまさつ↓りょく |  |
+| jpn-Jpan-JP | 静止摩擦力 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | стати́ческое тре́ние |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

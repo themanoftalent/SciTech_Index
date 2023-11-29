@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 光电二极管 |  |
+| cmn-Latn-CN | guāngdiàn èrjíguǎn |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Fotodiode |  |
+| eng-Latn-US | photodiode |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR |  |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? フォ↑トダイオ↓ード |  |
+| jpn-Jpan-JP | フォトダイオード |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU |  |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

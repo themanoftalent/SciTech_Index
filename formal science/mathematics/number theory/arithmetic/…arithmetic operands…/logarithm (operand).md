@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 对数 |  |
+| cmn-Latn-CN | duì shù |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Logarithmus |  |
+| eng-Latn-US | logarithm (operand) |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | logarithme [m] (opérande [m]) |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? た↑いす↓う（ひ↑えんざ↓んし） |  |
+| jpn-Jpan-JP | 対数（被演算子） |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | логари́фм (опера́нд) |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

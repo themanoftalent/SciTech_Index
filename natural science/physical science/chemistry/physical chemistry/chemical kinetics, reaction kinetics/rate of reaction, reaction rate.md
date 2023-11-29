@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 反应速率 |  |
+| cmn-Latn-CN | fǎnyìng sùlǜ |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Reaktionsrate |  |
+| eng-Latn-US | rate of reaction, reaction rate |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | réaction en chaîne [f] |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? は↑んのうそ↓くど |  |
+| jpn-Jpan-JP | 反応速度 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | ско́рость хими́ческой реа́кции |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

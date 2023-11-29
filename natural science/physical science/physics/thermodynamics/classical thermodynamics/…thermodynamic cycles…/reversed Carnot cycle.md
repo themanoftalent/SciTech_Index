@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 逆卡诺循环 |  |
+| cmn-Latn-CN | nì Kǎnuò xúnhuán |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | umgekehrter Carnot-Prozess, umgekehrter Carnot-Zyklus |  |
+| eng-Latn-US | reversed Carnot cycle |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | cycle [m] de Carnot inversé |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ぎゃ↑くカルノーサ↓イクル |  |
+| jpn-Jpan-JP | 逆カルノーサイクル |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | обра́тный цикл Карно́ |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

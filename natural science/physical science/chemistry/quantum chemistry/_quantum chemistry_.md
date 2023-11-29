@@ -1,0 +1,26 @@
+| | |
+|-|-|
+| arb-Arab-ZZ |  |
+| cmn-Hans-CN | _量子化学_ |
+| cmn-Latn-CN | _liàngzǐ huàxué_ |
+| dan-Latn-DK |  |
+| deu-Latn-DE | _Quantenchemie_ |
+| eng-Latn-US | _quantum chemistry_ |
+| fin-Latn-FI |  |
+| fra-Latn-FR | _chimie quantique_ |
+| heb-Hebr-IL |  |
+| hin-Deva-IN |  |
+| ita-Latn-IT |  |
+| jpn-Hrkt-JP | ? _りょ↑うしか↓がく_ |
+| jpn-Jpan-JP | _量子化学_ |
+| kor-Hang-KR |  |
+| kor-Kore-KR |  |
+| nld-Latn-NL |  |
+| nob-Latn-NO |  |
+| pes-Aran-IR |  |
+| por-Latn-PT |  |
+| rus-Cyrl-RU | _ква́нтовая хи́мия_ |
+| swe-Latn-SE |  |
+| spa-Latn-ES |  |
+| zxx-Zsym-ZZ |  |
+|  |  |

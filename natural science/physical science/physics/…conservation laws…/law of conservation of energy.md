@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 能量守恒定律 |  |
+| cmn-Latn-CN | néngliàng shǒuhéng dìnglǜ |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Energieerhaltungssatz [m] |  |
+| eng-Latn-US | law of conservation of energy |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | loi de conservation de l'énergie |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? エ↑ネルギーほぞ↓んのほ↑うそく、エ↑ネルギーほぞ↓んそく |  |
+| jpn-Jpan-JP | エネルギー保存の法則、エネルギー保存則 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | зако́н сохране́ния эне́ргии |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

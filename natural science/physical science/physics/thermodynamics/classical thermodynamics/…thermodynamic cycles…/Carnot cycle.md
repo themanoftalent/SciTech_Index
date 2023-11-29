@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 卡诺循环 |  |
+| cmn-Latn-CN | Kǎnuò xúnhuán |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Carnot-Prozess [m], Carnot-Zyklus |  |
+| eng-Latn-US | Carnot cycle |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | cycle [m] de Carnot |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? カ↑ルノーサ↓イクル |  |
+| jpn-Jpan-JP | カルノーサイクル |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | проце́сс Карно́, цикл Карно́ |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

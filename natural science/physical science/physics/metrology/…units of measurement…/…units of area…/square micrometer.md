@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 平方微米 |  |
+| cmn-Latn-CN | píngfāng wēimǐ |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Quadratmikrometer |  |
+| eng-Latn-US | square micrometer |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | micromètre carré |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? へ↑いほうマイクロメ↓ートル |  |
+| jpn-Jpan-JP | 平方マイクロメートル |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | микроме́тр |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

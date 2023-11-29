@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 凝结、凝析 |  |
+| cmn-Latn-CN | níngjié, níngxī |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Kondensation |  |
+| eng-Latn-US | condensation |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | condensation |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ぎょ↑うしゅく |  |
+| jpn-Jpan-JP | 凝縮 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | конденса́ция |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

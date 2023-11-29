@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 加工硬化 |  |
+| cmn-Latn-CN | jiāgōng yìnghuà |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Kaltumformung |  |
+| eng-Latn-US | strain hardening, work hardening |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | écrouissage |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? か↑こうこ↓うか |  |
+| jpn-Jpan-JP | 加工硬化 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | нагарто́вка, наклёп |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

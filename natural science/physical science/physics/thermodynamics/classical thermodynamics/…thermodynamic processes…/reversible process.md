@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 可逆过程 |  |
+| cmn-Latn-CN | kěnì guòchéng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | reversibler Prozess |  |
+| eng-Latn-US | reversible process |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | processus réversible |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? か↑ぎゃくか↓てい |  |
+| jpn-Jpan-JP | 可逆過程 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | обрати́мый проце́сс |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

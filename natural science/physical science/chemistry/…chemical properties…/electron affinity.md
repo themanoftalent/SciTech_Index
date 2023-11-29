@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 电子亲合能、电子亲和势 |  |
+| cmn-Latn-CN | diànzǐqínhé néng, diànzǐqínhé shì |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Elektronenaffinität |  |
+| eng-Latn-US | electron affinity |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | affinité électronique |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? で↓んしし↑んわ↓りょく |  |
+| jpn-Jpan-JP | 電子親和力 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | сродство́ к электро́ну, эне́ргия сродства́ к электро́ну |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

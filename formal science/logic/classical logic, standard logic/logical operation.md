@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 逻辑运算 |  |
+| cmn-Latn-CN | luóji yùnsuàn |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | logische Operation |  |
+| eng-Latn-US | logical operation |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | opération logique |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ろ↑んりえ↓んざん |  |
+| jpn-Jpan-JP | 論理演算 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | логи́ческая опера́ция |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

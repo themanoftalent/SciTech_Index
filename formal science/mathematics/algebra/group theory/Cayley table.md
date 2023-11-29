@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 凯莱表 |  |
+| cmn-Latn-CN | Kǎilái biǎo |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Verknüpfungstafel [f] |  |
+| eng-Latn-US | Cayley table |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | table [f] de Cayley |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? じょうせきひょう、せきひょう |  |
+| jpn-Jpan-JP | 積表、乗積表 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | табли́ца Кэли |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

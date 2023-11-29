@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 持续论、持续理论 |  |
+| cmn-Latn-CN | chíxù lùn, chíxù lǐlùn |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE |  |  |
+| eng-Latn-US | endurance theory, endurantism | [[identity (metaphysics)]]; [[peristence]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | endurance |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP |  |  |
+| jpn-Jpan-JP |  |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | эндуранти́зм |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

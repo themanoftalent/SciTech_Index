@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 白口铸铁 |  |
+| cmn-Latn-CN | báikǒu zhùtiě |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE |  |  |
+| eng-Latn-US | white cast iron, white iron |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR |  |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? し↑ろちゅ↓うてつ |  |
+| jpn-Jpan-JP | 白鋳鉄 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU |  |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 焦尔定律 |  |
+| cmn-Latn-CN | Jiāo'ěr dìnglǜ |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | joulesches Gesetz |  |
+| eng-Latn-US | Joule’s first law, Joule’s law |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | loi [f] de Joule |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ジ↓ュールのほ↑うそく |  |
+| jpn-Jpan-JP | ジュールの法則 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | закон Джоуля — Ле́нца |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

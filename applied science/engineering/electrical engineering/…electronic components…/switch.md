@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 开关 |  |
+| cmn-Latn-CN | kāiguān |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Schalt |  |
+| eng-Latn-US | switch |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | commutateur, interrupteur |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? か↑いへ↓いき、ス↓イッチ |  |
+| jpn-Jpan-JP | 開閉器、スイッチ |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU |  |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

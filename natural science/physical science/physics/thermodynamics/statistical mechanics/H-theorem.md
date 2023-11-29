@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | H定理 |  |
+| cmn-Latn-CN | H-dìnglǐ |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | H-Theorem [n] |  |
+| eng-Latn-US | H-theorem |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | théorème H |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? エ↑イチて↓いり |  |
+| jpn-Jpan-JP | H定理 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | H-теоре́ма |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

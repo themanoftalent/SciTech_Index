@@ -1,0 +1,26 @@
+| | |
+|-|-|
+| arb-Arab-ZZ |  |
+| cmn-Hans-CN | _丢番图逼近_ |
+| cmn-Latn-CN | _Diūfāntú bījìn_ |
+| dan-Latn-DK |  |
+| deu-Latn-DE | _diophantische Approximation_ |
+| eng-Latn-US | _Diophantine approximation_ |
+| fin-Latn-FI |  |
+| fra-Latn-FR | _approximation diophantienne_ |
+| heb-Hebr-IL |  |
+| hin-Deva-IN |  |
+| ita-Latn-IT |  |
+| jpn-Hrkt-JP | ? _ディ↑オファントスき↓んじ_ |
+| jpn-Jpan-JP | _ディオファントス近似_ |
+| kor-Hang-KR |  |
+| kor-Kore-KR |  |
+| nld-Latn-NL |  |
+| nob-Latn-NO |  |
+| pes-Aran-IR |  |
+| por-Latn-PT |  |
+| rus-Cyrl-RU | _диофа́нтово приближе́ние_ |
+| swe-Latn-SE |  |
+| spa-Latn-ES |  |
+| zxx-Zsym-ZZ |  |
+|  |  |

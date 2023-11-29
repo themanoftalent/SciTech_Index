@@ -1,0 +1,26 @@
+| | |
+|-|-|
+| arb-Arab-ZZ |  |
+| cmn-Hans-CN | _…输运现象…_ |
+| cmn-Latn-CN | _…shūyùn xiànxiàng…_ |
+| dan-Latn-DK |  |
+| deu-Latn-DE | _…Transportphänomene [n-pl]…_ |
+| eng-Latn-US | _…transport phenomena [pl]…_ |
+| fin-Latn-FI |  |
+| fra-Latn-FR | _…phénomènes [m-pl] de transfert…_, _…phénomènes [m-pl] de transport…_ |
+| heb-Hebr-IL |  |
+| hin-Deva-IN |  |
+| ita-Latn-IT |  |
+| jpn-Hrkt-JP | ? _…い↑どうげんしょ↓うろん…_、_…い↑どうそくど↓ろん…_、_…ゆ↑そうげんしょ↓うろん…_ |
+| jpn-Jpan-JP | _…移動現象論…_、_…移動速度論…_、_…輸送現象論…_ |
+| kor-Hang-KR |  |
+| kor-Kore-KR |  |
+| nld-Latn-NL |  |
+| nob-Latn-NO |  |
+| pes-Aran-IR |  |
+| por-Latn-PT |  |
+| rus-Cyrl-RU | _…проце́ссы перено́са [м-мн]…_, _…явле́ний перено́са [м-мн]…_ |
+| swe-Latn-SE |  |
+| spa-Latn-ES |  |
+| zxx-Zsym-ZZ |  |
+|  |  |

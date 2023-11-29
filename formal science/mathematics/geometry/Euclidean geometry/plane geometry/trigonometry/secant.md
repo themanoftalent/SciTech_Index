@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 正割 |  |
+| cmn-Latn-CN | zhèng gē |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Sekans [m] |  |
+| eng-Latn-US | secant |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | sécante [m] |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? せ↑いかつ |  |
+| jpn-Jpan-JP | 正割 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | се́канс |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

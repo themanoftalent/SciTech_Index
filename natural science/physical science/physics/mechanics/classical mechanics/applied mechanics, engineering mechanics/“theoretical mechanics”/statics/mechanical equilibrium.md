@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 力学平衡 |  |
+| cmn-Latn-CN | lìxué pínghéng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Kräftegleichgewicht [f], mechanische Gleichgewicht |  |
+| eng-Latn-US | mechanical equilibrium |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | équilibre [m] statique |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? り↑きがくてきへいこう |  |
+| jpn-Jpan-JP | 力学的平衡 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | механи́ческое равнове́сие |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

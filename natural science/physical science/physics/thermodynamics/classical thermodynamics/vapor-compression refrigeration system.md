@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 蒸汽压缩制冷系统 |  |
+| cmn-Latn-CN | zhēngqì yāsuō zhìlěng xìtǒng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Kompressionskältemaschine |  |
+| eng-Latn-US | vapor-compression refrigeration system |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | réfrigérateur à compression de vapeur [f] |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? じょうきあっしゅくれいとうき |  |
+| jpn-Jpan-JP | 蒸気圧縮冷凍機 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU |  |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

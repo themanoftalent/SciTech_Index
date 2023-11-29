@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 正角、直角 |  |
+| cmn-Latn-CN | zhèng jiǎo, zhí jiǎo |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | rechter Winkel |  |
+| eng-Latn-US | right angle | [[angle]]; [[perpendicularity]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | angle droit |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ちょ↑っかく |  |
+| jpn-Jpan-JP | 直角 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | прямо́й у́гол |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

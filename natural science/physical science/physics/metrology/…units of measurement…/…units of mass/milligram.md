@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 毫克 |  |
+| cmn-Latn-CN | háokè |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Milligramm [n] |  |
+| eng-Latn-US | milligram |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | milligramme [f] |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ミ↑リグ↓ラム |  |
+| jpn-Jpan-JP | ミリグラム |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | миллигра́мм |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

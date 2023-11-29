@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 石棉网 |  |
+| cmn-Latn-CN | shímián wǎng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Keramikdrahtnetz [n] |  |
+| eng-Latn-US | wire gauze, wire mesh |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR |  |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? か↑なあみ |  |
+| jpn-Jpan-JP | 金網 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU |  |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

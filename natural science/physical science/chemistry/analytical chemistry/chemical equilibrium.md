@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 化学平衡 |  |
+| cmn-Latn-CN | huàxué pínghéng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | chemisches Gleichgewicht |  |
+| eng-Latn-US | chemical equilibrium |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | équilibre [m] chimique |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? か↑がくへ↓いこう |  |
+| jpn-Jpan-JP | 化学平衡 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | хими́ческое равнове́сие |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

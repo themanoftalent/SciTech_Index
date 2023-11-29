@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 本生灯 |  |
+| cmn-Latn-CN | Běnshēng dēng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Bunsenbrenner |  |
+| eng-Latn-US | Bunsen burner |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | bec [m] Bunsen |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ブ↑ンゼンバ↓ーナー |  |
+| jpn-Jpan-JP | ブンゼンバーナー |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | горе́лка Бунзена |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

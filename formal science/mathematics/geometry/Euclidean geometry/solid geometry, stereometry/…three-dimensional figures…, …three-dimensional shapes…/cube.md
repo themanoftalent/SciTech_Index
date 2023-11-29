@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 立方体、正方体、正六面体 |  |
+| cmn-Latn-CN | lìfāng tǐ, zhèngfāng tǐ, zhèngliùmiàn tǐ |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | regelmäßiges Hexaeder, Würfel [m] |  |
+| eng-Latn-US | cube |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | cube |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? せ↓いろ↑くめんたい、り↑っぽうたい |  |
+| jpn-Jpan-JP | 正六面体、立方体 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| pes-Aran-IR | مُکَعَّب |  |
+| rus-Cyrl-RU | куб, пра́вильный гекса́эдр |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

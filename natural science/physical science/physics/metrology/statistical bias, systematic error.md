@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 系统误差 |  |
+| cmn-Latn-CN | xìtǒng wùchā |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | systematische Messabweichung |  |
+| eng-Latn-US | statistical bias, systematic error | [[measurement error, observational error]]; [[time-invariant system]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | erreur [f] systématique |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? け↑いとうご↓さ |  |
+| jpn-Jpan-JP | 系統誤差 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | системати́ческая погре́шность |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

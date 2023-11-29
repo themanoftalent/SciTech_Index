@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 偶函数 |  |
+| cmn-Latn-CN | ǒu hánshù |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | gerade Funktion |  |
+| eng-Latn-US | even function | [[function]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | fonction paire |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ぐ↑うかんす↓う |  |
+| jpn-Jpan-JP | 偶関数 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | чётная фу́нкция |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

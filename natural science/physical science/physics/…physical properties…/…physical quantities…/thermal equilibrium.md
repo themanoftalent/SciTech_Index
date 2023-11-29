@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 热平衡 |  |
+| cmn-Latn-CN | rè pínghéng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | thermisches Gleichgewich |  |
+| eng-Latn-US | thermal equilibrium |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | équilibre [m] thermique |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ね↑つへ↓いこう |  |
+| jpn-Jpan-JP | 熱平衡 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU |  |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

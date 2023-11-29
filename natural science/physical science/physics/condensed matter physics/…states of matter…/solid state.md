@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 固态 |  |
+| cmn-Latn-CN | gù tài |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Festzustand [m], fester Zustand |  |
+| eng-Latn-US | solid state |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | état solide |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? こ↑たいじょ↓うたい |  |
+| jpn-Jpan-JP | 固态状態 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | твёрдое состоя́ние |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

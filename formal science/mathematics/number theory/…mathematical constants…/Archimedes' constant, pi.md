@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 圆周率 |  |
+| cmn-Latn-CN | yuánzhōu lǜ |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Archimedes-Konstante [f], Kreiszahl [f], Ludolfsche Zahl, Ludolphsche Zahl |  |
+| eng-Latn-US | Archimedes' constant, pi | [[circumference]]; [[diameter]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | constante [f] d'Archimède, pi |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? え↑んし↓ゅうりつ |  |
+| jpn-Jpan-JP | 円周率 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | пи |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ | π |  |
+|  |  |  |

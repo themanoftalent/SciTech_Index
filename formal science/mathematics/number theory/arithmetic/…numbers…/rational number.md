@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 有理数 |  |
+| cmn-Latn-CN | yǒulǐ shù |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | rationale Zahl |  |
+| eng-Latn-US | rational number | [[denominator]]; [[integer]]; [[numerator]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | nombre rationnel |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ゆ↑うり↓すう |  |
+| jpn-Jpan-JP | 有理数 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | рационáльное числó |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ | ℚ, ن |  |
+|  |  |  |

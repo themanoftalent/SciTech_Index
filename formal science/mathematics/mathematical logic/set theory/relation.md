@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 关系 |  |
+| cmn-Latn-CN | guānxi |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Relation |  |
+| eng-Latn-US | relation |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | relation |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? か↑んけい |  |
+| jpn-Jpan-JP | 関係 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | отноше́ние |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

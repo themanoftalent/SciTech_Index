@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 既约分数、最简分数 |  |
+| cmn-Latn-CN | jìyuē fēnshù, zuìjiǎn fēnshù |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | gekürzter Bruch |  |
+| eng-Latn-US | fraction in lowest terms, irreducible fraction, reduced fraction, simplest form | [[divisor]]; [[integer]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | fraction irréductible |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? き↑やくぶ↓んすう |  |
+| jpn-Jpan-JP | 既約分数 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | несократи́мая дробь |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

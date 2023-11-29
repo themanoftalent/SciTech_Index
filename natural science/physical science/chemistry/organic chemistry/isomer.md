@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 同分异构体 |  |
+| cmn-Latn-CN | tóngfènyìgòu tǐ |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Isomer [n] |  |
+| eng-Latn-US | isomer |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | isomère [m] |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? い↑せいたい |  |
+| jpn-Jpan-JP | 異性体 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | изоме́р |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

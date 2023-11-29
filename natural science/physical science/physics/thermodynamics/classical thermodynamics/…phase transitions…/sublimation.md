@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 升华 |  |
+| cmn-Latn-CN | shēnghuá |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Sublimation |  |
+| eng-Latn-US | sublimation |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | sublimation |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? しょ↑うか |  |
+| jpn-Jpan-JP | 昇華 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | возго́нка, сублима́ция |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

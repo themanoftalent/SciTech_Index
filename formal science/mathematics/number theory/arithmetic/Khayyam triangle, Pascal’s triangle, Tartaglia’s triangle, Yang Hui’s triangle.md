@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 海亚姆三角形、贾宪三角形、帕斯卡三角形、杨辉三角形 |  |
+| cmn-Latn-CN | Hǎiyàmǔ sānjiǎoxíng, Jiǎ Xiàn sānjiǎoxíng, Pàsīkǎ sānjiǎoxíng, Yáng Huī sānjiǎoxíng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Chayyām-Dreieck [n], Pascal’sches Dreieck, Tartaglia-Dreieck [n], Yang-Hui-Dreieck [n] |  |
+| eng-Latn-US | Khayyam triangle, Pascal’s triangle, Tartaglia’s triangle, Yang Hui’s triangle | [[number (symbol)]]; [[triangle (polygon)]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR |  |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP |  |  |
+| jpn-Jpan-JP |  |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU |  |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

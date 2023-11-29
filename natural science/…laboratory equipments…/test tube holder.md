@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 试管夹 |  |
+| cmn-Latn-CN | shìguǎn jiá |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Reagenzglashalter |  |
+| eng-Latn-US | test tube holder |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR |  |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP |  |  |
+| jpn-Jpan-JP |  |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU |  |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 现象 |  |
+| cmn-Latn-CN | xiànxiàng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Phänomen |  |
+| eng-Latn-US | phenomenon [pl phenomena] |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | phénomène [m] |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? げ↑んしょう |  |
+| jpn-Jpan-JP | 現象 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | фено́мен |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 势能、位能 |  |
+| cmn-Latn-CN | shì néng, wèi néng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Lageenergie, potentielle Energie, potenzielle Energie |  |
+| eng-Latn-US | potential energy | [[energy]]; [[physical body, physical object]]; [[position]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | énergie potentielle |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? い↑ちエネル↓ギー |  |
+| jpn-Jpan-JP | 位置エネルギー |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | потенциа́льная эне́ргия |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ | 𝐸_𝑝, 𝑃𝐸, 𝑈, 𝑉 |  |
+|  |  |  |

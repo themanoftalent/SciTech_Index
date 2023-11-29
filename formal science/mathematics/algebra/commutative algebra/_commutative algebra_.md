@@ -1,0 +1,26 @@
+| | |
+|-|-|
+| arb-Arab-ZZ |  |
+| cmn-Hans-CN | _交换代数_ |
+| cmn-Latn-CN | _jiāohuàn dàishù_ |
+| dan-Latn-DK |  |
+| deu-Latn-DE | _kommutative Algebra_ |
+| eng-Latn-US | _commutative algebra_ |
+| fin-Latn-FI |  |
+| fra-Latn-FR | _algèbre commutative_ |
+| heb-Hebr-IL |  |
+| hin-Deva-IN |  |
+| ita-Latn-IT |  |
+| jpn-Hrkt-JP | ? _か↑かんか↓んろん_ |
+| jpn-Jpan-JP | _可換環論_ |
+| kor-Hang-KR |  |
+| kor-Kore-KR |  |
+| nld-Latn-NL |  |
+| nob-Latn-NO |  |
+| pes-Aran-IR |  |
+| por-Latn-PT |  |
+| rus-Cyrl-RU | _коммутати́вная а́лгебр_ |
+| swe-Latn-SE |  |
+| spa-Latn-ES |  |
+| zxx-Zsym-ZZ |  |
+|  |  |

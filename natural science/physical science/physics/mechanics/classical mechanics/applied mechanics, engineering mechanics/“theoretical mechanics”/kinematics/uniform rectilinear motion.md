@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 匀速直线运动 |  |
+| cmn-Latn-CN | yúnsù zhíxiàn yùndòng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | gleichförmige geradlinige Bewegung |  |
+| eng-Latn-US | uniform rectilinear motion | [[linear motion, rectilinear motion]]; [[uniform motion]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | mouvement rectiligne uniforme |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? と↑うそくちょくせんう↓んどう |  |
+| jpn-Jpan-JP | 等速直線運動 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | равноме́рное прямолине́йное движе́ние |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

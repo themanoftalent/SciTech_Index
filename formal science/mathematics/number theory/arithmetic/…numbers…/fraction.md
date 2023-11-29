@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 分数 |  |
+| cmn-Latn-CN | fēn shù |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Bruch [m] |  |
+| eng-Latn-US | fraction | [[integer]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | fraction |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ぶ↑んす↓う |  |
+| jpn-Jpan-JP | 分数 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | дробь |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

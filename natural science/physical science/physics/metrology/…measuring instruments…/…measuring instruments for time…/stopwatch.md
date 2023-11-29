@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 计时器、秒表、停表 |  |
+| cmn-Latn-CN | jìshí qì, miǎo biǎo, tíng biǎo |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Chronograf [m], Chronograph [m], Stoppuhr [f] |  |
+| eng-Latn-US | stopwatch |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | règle [f] |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ストップウオッチ |  |
+| jpn-Jpan-JP | ス↑トップウオ↓ッチ |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| pes-Aran-IR | کُرُنومِتر |  |
+| rus-Cyrl-RU | секундоме́р |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

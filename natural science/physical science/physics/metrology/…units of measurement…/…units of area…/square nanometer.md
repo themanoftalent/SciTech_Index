@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 平方纳米 |  |
+| cmn-Latn-CN | píngfāng nàmǐ |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Quadratnanometer |  |
+| eng-Latn-US | square nanometer |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | nanomètre carré |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? へ↑いほうナノメ↓ートル |  |
+| jpn-Jpan-JP | 平方ナノメートル |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | наноме́тр |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

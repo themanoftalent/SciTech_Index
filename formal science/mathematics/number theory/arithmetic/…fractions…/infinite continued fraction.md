@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 无限连分数 |  |
+| cmn-Latn-CN | wúxiàn liánfēnshù |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | unendlicher Kettenbruch |  |
+| eng-Latn-US | infinite continued fraction | [[continued fraction]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | fraction continue infinie |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? む↑げんれんぶ↓んすう |  |
+| jpn-Jpan-JP | 無限連分数 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | бесконе́чная цепна́я дробь |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

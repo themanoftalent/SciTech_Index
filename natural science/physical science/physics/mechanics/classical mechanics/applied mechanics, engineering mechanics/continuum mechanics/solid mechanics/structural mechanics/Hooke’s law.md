@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 胡克定律 |  |
+| cmn-Latn-CN | Húkè dìnglǜ |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | hookesche Gesetz |  |
+| eng-Latn-US | Hooke’s law | [[direct proportinality]]; [[force]]; [[spring]]; [[displacement]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | loi [f] de Hooke |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? だ↑んせいのほうそく、フ↓ックのほ↑うそく |  |
+| jpn-Jpan-JP | 弾性の法則、フックの法則 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | зако́н Гу́ка |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

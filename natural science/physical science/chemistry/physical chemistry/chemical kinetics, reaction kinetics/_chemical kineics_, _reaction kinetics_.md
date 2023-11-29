@@ -1,0 +1,26 @@
+| | |
+|-|-|
+| arb-Arab-ZZ |  |
+| cmn-Hans-CN | _反应动力学_、_化学动力学_ |
+| cmn-Latn-CN | _fǎnyìng dònglìxué_, _huàxué dònglìxué_ |
+| dan-Latn-DK |  |
+| deu-Latn-DE | _chemische Kinetik_ |
+| eng-Latn-US | _chemical kinetics_, _reaction kinetics_ |
+| fin-Latn-FI |  |
+| fra-Latn-FR | _cinétique [f] chimique_ |
+| heb-Hebr-IL |  |
+| hin-Deva-IN |  |
+| ita-Latn-IT |  |
+| jpn-Hrkt-JP | ? _か↑がくどうりょく↓がく_、_は↑んのうそくど↓ろん_ |
+| jpn-Jpan-JP | _化学動力学_、_反応速度論_ |
+| kor-Hang-KR |  |
+| kor-Kore-KR |  |
+| nld-Latn-NL |  |
+| nob-Latn-NO |  |
+| pes-Aran-IR |  |
+| por-Latn-PT |  |
+| rus-Cyrl-RU | _хими́ческая кине́тика_ |
+| swe-Latn-SE |  |
+| spa-Latn-ES |  |
+| zxx-Zsym-ZZ |  |
+|  |  |

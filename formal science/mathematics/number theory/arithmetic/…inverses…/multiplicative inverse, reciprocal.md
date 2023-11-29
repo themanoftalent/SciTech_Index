@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 乘法逆元、倒数 |  |
+| cmn-Latn-CN | chéngfǎ nìyuán, dào shù |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Kehrwert [m], reziprokes Wert, Reziproke [n] |  |
+| eng-Latn-US | multiplicative inverse, reciprocal | [[multiplication]]; [[reciprocation]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | inverse [m] |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ぎゃ↑くす↓う |  |
+| jpn-Jpan-JP | 逆数 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | обра́тное число́ |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

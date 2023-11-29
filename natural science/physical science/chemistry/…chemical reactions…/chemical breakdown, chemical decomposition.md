@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 分解反应 |  |
+| cmn-Latn-CN | fēnjiě fǎnyìng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Abbau [m], Degradierung, Zersetzung |  |
+| eng-Latn-US | chemical breakdown, chemical decomposition |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | décomposition chimique |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? か↑がくぶ↓んかい |  |
+| jpn-Jpan-JP | 化学分解 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | реа́кции разложе́ния |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

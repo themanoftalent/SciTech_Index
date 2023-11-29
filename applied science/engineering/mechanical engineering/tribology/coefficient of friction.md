@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 摩擦系数 |  |
+| cmn-Latn-CN | mócā xìshù |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Haftreibbeiwert [m], Reibungskoeffizient [m], Reibungszahl [f], Reibwert [m] |  |
+| eng-Latn-US | coefficient of friction |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR |  |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ま↑さつけ↓いすう |  |
+| jpn-Jpan-JP | 摩擦係数 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU |  |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

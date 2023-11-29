@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 机械零件 |  |
+| cmn-Latn-CN | jīxiè língjiàn |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Maschinenelement |  |
+| eng-Latn-US | machine element |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | pièce [f] métallique |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? き↑かいよ↓うそ |  |
+| jpn-Jpan-JP | 機械要素 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | дета́ль [ж] |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

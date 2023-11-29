@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 渗碳 |  |
+| cmn-Latn-CN | shèn tàn |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Aufkohlen |  |
+| eng-Latn-US | carburizing |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | cémentation |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? し↑んたん |  |
+| jpn-Jpan-JP | 浸炭／滲炭 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | цемента́ция ста́ли |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

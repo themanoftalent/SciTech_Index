@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 塑性变形 |  |
+| cmn-Latn-CN | sùxìng biànxíng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | plastische Verformbarkeit |  |
+| eng-Latn-US | plastic deformation | [[plasticity]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | déformation plastique |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? そ↑せいへ↓んけい |  |
+| jpn-Jpan-JP | 塑性変形 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU |  |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

@@ -1,0 +1,26 @@
+| | |
+|-|-|
+| arb-Arab-ZZ |  |
+| cmn-Hans-CN | _…机构…_ |
+| cmn-Latn-CN | _…jī gòu…_ |
+| dan-Latn-DK |  |
+| deu-Latn-DE | _…Mechanismen [m-pl]…_ |
+| eng-Latn-US | _…mechanisms…_ |
+| fin-Latn-FI |  |
+| fra-Latn-FR | _…mécanismes [m-pl]…_ |
+| heb-Hebr-IL |  |
+| hin-Deva-IN |  |
+| ita-Latn-IT |  |
+| jpn-Hrkt-JP | ? _…き↑こう…_ |
+| jpn-Jpan-JP | _…機構…_ |
+| kor-Hang-KR |  |
+| kor-Kore-KR |  |
+| nld-Latn-NL |  |
+| nob-Latn-NO |  |
+| pes-Aran-IR |  |
+| por-Latn-PT |  |
+| rus-Cyrl-RU | _…механи́змы [м-мн]…_ |
+| swe-Latn-SE |  |
+| spa-Latn-ES |  |
+| zxx-Zsym-ZZ |  |
+|  |  |

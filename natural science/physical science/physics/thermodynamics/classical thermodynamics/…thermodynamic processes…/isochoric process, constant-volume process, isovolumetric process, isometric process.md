@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 等容过程 |  |
+| cmn-Latn-CN | děngróng guòchéng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | isochore Zustandsänderung |  |
+| eng-Latn-US | constant-volume process, isochoric process, isometric process, isovolumetric process |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | processus isochore |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? て↑いせきか↓てい |  |
+| jpn-Jpan-JP | 定積過程 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | изохо́рный проце́сс, изохори́ческий проце́сс |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

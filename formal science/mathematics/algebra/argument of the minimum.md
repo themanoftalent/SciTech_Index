@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 最小值自变量点集 |  |
+| cmn-Latn-CN | zuìxiǎozhí zìbiànliàng diǎn jí |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Argument des Minimums [n] |  |
+| eng-Latn-US | argument of the minimum |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | argument du minimum |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? さ↑いしょうてんさ↓ようそしゅうごう |  |
+| jpn-Jpan-JP | 最小点作用素集合 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | аргуме́нт минимиза́ции |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

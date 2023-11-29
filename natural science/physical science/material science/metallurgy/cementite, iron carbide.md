@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 渗碳体、碳化三铁 |  |
+| cmn-Latn-CN | shèntàn tǐ, tànhuà sāntiě |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Zementit [m] |  |
+| eng-Latn-US | cementite, iron carbide |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | cémentite [f] |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? セ↑メンタ↓イト |  |
+| jpn-Jpan-JP | セメンタイト |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | цементи́т |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

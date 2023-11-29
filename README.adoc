@@ -1,0 +1,53 @@
+This is a collection of scientific and technical terms with their prerequisites.
+
+Simple ways of the visualisation are
+
+* https://logseq.com/[Logseq]
+* https://foambubble.github.io/[Foam] for https://vscodium.com/[VSCodium]
+* https://mdsilo.com/[mdSilo]
+
+== Content
+* Only basic definitions are included for an entry;
+* Synonyms are sorted in alphabetic order;
+* Diacritics are included;
+* Pitch accents are included;
+* Transcriptions for ideograms are included;
+* Noun genders are included and omitted if indicated by the affix or the inflection;
+* Proper names are excluded;
+* Names of non-basic chemical substances are excluded;
+* Names of non-basic materials are excluded;
+* Names of non-basic taxonomic ranks are excluded;
+
+== Format
+* An entry can be a concept or a subject;
+* An entry is in a Markdown file;
+* A concept has three and only three fields;
+* A subject has two and only two fields;
+* A set of concept has two and only two fields;
+* The filename is the concept or subect or set of concept;
+* The first field in a table is the locale;
+* The second field in a table is the concept or subject or set of concept;
+* The third field in a table is the prerequisite;
+* The subject file begins with an underline;
+* The set-of-concept directory begins with an ellipsis;
+* The set-of-concept file begins with an underline and an ellipsis following;
+* The Locale name consists of ISO 639-3, ISO 15924, ISO 3166 alpha-2;
+* Locale attributes have one and only one hyphen-minus inbetween;
+* Locale names are sorted in alphabetic order of ISO 639-3, ISO 3166 alpha-2, ISO 15924;
+* The content is listed in a conventional Markdown table;
+* Vertical lines in the first row have one and only one space inbetween;
+* Vertical lines in the second row have one and only one hyphen-minus inbetween;
+* The last row and only the last row is empty;
+* Vertical lines in the last row have two and only two spaces inbetween;
+* The content of a row is separated from the vertical line with a space;
+* Noun genders are marked right after the noun with a space inbetween;
+* Change of pitch accents are marked at the position of change in the transcription;
+* Synonyms are sorted in alphabetic order;
+
+== Punctuation
+* Commas are used to separate synonyms;
+* Upward arrows, downward arrows are used to indicate pitch changes;
+* Round brackets with text inside are used to indicate a specific meaning of a polyseme;
+* Square brackets with text inside are used to indicate gender and plural form of a word;
+* Curly brackets with text inside are used to indicate the text escaped from other punctuation rules;
+* Question marks are used to indicate unverified entries

@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 等压过程 |  |
+| cmn-Latn-CN | děngyā guòchéng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | isobare Zustandsänderung |  |
+| eng-Latn-US | isobaric process |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | processus isobare |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? て↑いあつか↓てい 、と↑うあつか↓てい |  |
+| jpn-Jpan-JP | 定圧過程、等圧過程 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | изоба́рный проце́сс, изобари́ческий проце́сс |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

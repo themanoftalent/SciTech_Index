@@ -1,0 +1,23 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 克劳修斯-克拉佩龙方程 |  |
+| cmn-Latn-CN | Kèláuxiūsī-Kèlāpèilóng fāngchéng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Clausius-Clapeyron-Gleichung |  |
+| eng-Latn-US | Clausius–Clapeyron equation |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | équation de Clausius-Clapeyron, formule [f] de Clausius-Clapeyron |  |
+| ita-Latn-IT | equazione di Clapeyron, equazione di Clausius–Clapeyron |  |
+| jpn-Hrkt-JP | ? ク↑ラウジウス・クラペイロンのしき |  |
+| jpn-Jpan-JP | クラウジウス・クラペイロンの式 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL | Clausius-Clapeyron-vergelijking |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | уравне́ние Клапейрона — Клаузиуса |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

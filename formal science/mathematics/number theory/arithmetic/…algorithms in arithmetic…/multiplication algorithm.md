@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 乘法算法 |  |
+| cmn-Latn-CN | chéngfǎ suànfǎ |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE |  |  |
+| eng-Latn-US | multiplication algorithm | [[algorithm]]; [[multiplication]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | algorithme [m] de multiplication |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP |  |  |
+| jpn-Jpan-JP |  |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU |  |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

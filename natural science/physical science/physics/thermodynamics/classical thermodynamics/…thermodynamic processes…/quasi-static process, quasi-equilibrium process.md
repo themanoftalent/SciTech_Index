@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 准静态过程 |  |
+| cmn-Latn-CN | zhǔn jìngtài guòchéng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | quasistationärer Prozess, quasistatischer Prozess |  |
+| eng-Latn-US | quasi-equilibrium process, quasi-static process |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | processus quasi statique |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? じゅ↓んせ↑いてきか↓てい |  |
+| jpn-Jpan-JP | 準静的過程 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | квазистати́ческий проце́сс |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

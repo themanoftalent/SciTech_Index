@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 暗盒、暗箱 |  |
+| cmn-Latn-CN | àn hé, àn xiāng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Camera [f] obscura |  |
+| eng-Latn-US | camera obscura [pl camerae obscurae] | [[electromagnetic radiation]]; [[visual perception]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | chambre noire |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? カ↑メラ・オブス↓クラ |  |
+| jpn-Jpan-JP | カメラ・オブスクラ |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | ка́мера-обску́ра |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

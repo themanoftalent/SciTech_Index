@@ -1,0 +1,25 @@
+- | | | |
+  |-|-|-|
+  | arb-Arab-ZZ |  |  |
+  | cmn-Hans-CN | 耀斑 |  |
+  | cmn-Latn-CN | yào bān |  |
+  | dan-Latn-DK |  |  |
+  | deu-Latn-DE | Sonneneruption |  |
+  | eng-Latn-US | solar flare |  |
+  | fin-Latn-FI |  |  |
+  | fra-Latn-FR | éruption chromosphérique, éruption solaire |  |
+  | heb-Hebr-IL |  |  |
+  | hin-Deva-IN |  |  |
+  | ita-Latn-IT |  |  |
+  | jpn-Hrkt-JP | ? た↑いようフレ↓ア |  |
+  | jpn-Jpan-JP | 太陽フレア |  |
+  | kor-Hang-KR |  |  |
+  | kor-Kore-KR |  |  |
+  | nld-Latn-NL |  |  |
+  | nob-Latn-NO |  |  |
+  | pes-Aran-IR | شرارهٔ خورشیدی |  |
+  | rus-Cyrl-RU | со́лнечная вспы́шка |  |
+  | spa-Latn-ES |  |  |
+  | swe-Latn-SE |  |  |
+  | zxx-Zsym-ZZ |  |  |
+  |  |  |  |

@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 电场 |  |
+| cmn-Latn-CN | diàn chǎng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | elektrisches Feld |  |
+| eng-Latn-US | electric field |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | champ [m] électrique |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? で↑んかい、で↓んば |  |
+| jpn-Jpan-JP | 電界、電場 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | Электри́ческое по́ле |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

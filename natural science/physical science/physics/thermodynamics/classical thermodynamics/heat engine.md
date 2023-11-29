@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 热机 |  |
+| cmn-Latn-CN | rè jī |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Wärmekraftmaschine |  |
+| eng-Latn-US | heat engine |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | machine thermique |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ねつきかん |  |
+| jpn-Jpan-JP | 熱機関 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | теплово́й дви́гатель |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

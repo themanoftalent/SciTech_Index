@@ -1,0 +1,26 @@
+| | |
+|-|-|
+| arb-Arab-ZZ |  |
+| cmn-Hans-CN | _生物学_ |
+| cmn-Latn-CN | _shēngwù xué_ |
+| dan-Latn-DK |  |
+| deu-Latn-DE | _Biologie_ |
+| eng-Latn-US | _biology_ |
+| fin-Latn-FI |  |
+| fra-Latn-FR | _biologie_ |
+| heb-Hebr-IL |  |
+| hin-Deva-IN |  |
+| ita-Latn-IT |  |
+| jpn-Hrkt-JP | ? _せ↑いぶつ↓がく_ |
+| jpn-Jpan-JP | _生物学_ |
+| kor-Hang-KR |  |
+| kor-Kore-KR |  |
+| nld-Latn-NL |  |
+| nob-Latn-NO |  |
+| pes-Aran-IR |  |
+| por-Latn-PT |  |
+| rus-Cyrl-RU | _биоло́ги_ |
+| swe-Latn-SE |  |
+| spa-Latn-ES |  |
+| zxx-Zsym-ZZ |  |
+|  |  |

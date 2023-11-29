@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 洗瓶 |  |
+| cmn-Latn-CN | xǐ píng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Spritzflasche |  |
+| eng-Latn-US | wash bottle |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | pissette |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? せ↑んびん |  |
+| jpn-Jpan-JP | 洗瓶 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | спирто́вка |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

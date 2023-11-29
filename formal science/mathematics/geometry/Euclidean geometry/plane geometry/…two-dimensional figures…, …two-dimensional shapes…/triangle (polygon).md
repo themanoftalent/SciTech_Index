@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 三角形 |  |
+| cmn-Latn-CN | sānjiǎo xíng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Dreieck [n] |  |
+| eng-Latn-US | triangle (polygon) | [[edge (geometry)]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | triangle [m] |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? さ↑んかくけい |  |
+| jpn-Jpan-JP | 三角形 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | треуго́льник |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

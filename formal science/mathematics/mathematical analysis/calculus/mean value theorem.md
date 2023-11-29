@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 中值定理 |  |
+| cmn-Latn-CN | zhōngzhí dìnglǐ |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Mittelwertsatz [m] |  |
+| eng-Latn-US | mean value theorem |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | théorème [m-pl] des accroissements [m-pl] finis |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? へ↑いき↓んちの↑て↓いり |  |
+| jpn-Jpan-JP | 平均値の定理 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU |  |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

@@ -1,0 +1,26 @@
+| | |
+|-|-|
+| arb-Arab-ZZ |  |
+| cmn-Hans-CN | _仿射几何_ |
+| cmn-Latn-CN | _fǎngshè jǐhé_ |
+| dan-Latn-DK |  |
+| deu-Latn-DE | _affine Geometrie_ |
+| eng-Latn-US | _affine geometry_ |
+| fin-Latn-FI |  |
+| fra-Latn-FR | _géométrie affine_ |
+| heb-Hebr-IL |  |
+| hin-Deva-IN |  |
+| ita-Latn-IT |  |
+| jpn-Hrkt-JP | ? _ア↓フィンき↑か↓がく_ |
+| jpn-Jpan-JP | _アフィン幾何学_ |
+| kor-Hang-KR |  |
+| kor-Kore-KR |  |
+| nld-Latn-NL |  |
+| nob-Latn-NO |  |
+| pes-Aran-IR |  |
+| por-Latn-PT |  |
+| rus-Cyrl-RU | _аффи́нная геоме́три_ |
+| swe-Latn-SE |  |
+| spa-Latn-ES |  |
+| zxx-Zsym-ZZ |  |
+|  |  |

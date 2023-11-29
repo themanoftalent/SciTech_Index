@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 动力系统 |  |
+| cmn-Latn-CN | dònglì xìtǒng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | dynamisches System |  |
+| eng-Latn-US | dynamical system |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | système [m] dynamique |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? り↑きがくけい |  |
+| jpn-Jpan-JP | 力学系 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | динами́ческая систе́ма |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

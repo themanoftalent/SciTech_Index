@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 埃及分数 |  |
+| cmn-Latn-CN | Āijí fēnshù |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Stammbruchzerlegung |  |
+| eng-Latn-US | Egyptian fraction | [[unit fraction]]; [[sum]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | fraction égyptienne |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? エ↑ジプトしきぶ↓んすう、エ↑ジプトぶ↓んすう |  |
+| jpn-Jpan-JP | エジプト式分数、エジプト分数 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | еги́петская дробь |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

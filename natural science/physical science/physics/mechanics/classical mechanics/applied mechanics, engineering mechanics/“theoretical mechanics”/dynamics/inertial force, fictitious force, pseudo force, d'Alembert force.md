@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 惯性力、假想力 |  |
+| cmn-Latn-CN | guànxìng lì, jiǎxiǎng lì |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Trägheitskraft [f] |  |
+| eng-Latn-US | d'Alembert force, fictitious force, inertial force, pseudo force |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | force [f] d'inertie, force fictive, force inertielle, pseudo-force [f] |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? か↑んせ↓いりょく、 み↑かけのちから |  |
+| jpn-Jpan-JP | 慣性力、見掛けの力 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | инерцио́нная си́ла, си́ла ине́рции |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

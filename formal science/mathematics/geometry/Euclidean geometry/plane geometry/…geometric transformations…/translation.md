@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 平移 |  |
+| cmn-Latn-CN | píng yí |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Parallelverschiebung Translation |  |
+| eng-Latn-US | translation | [[direction]]; [[distance]]; [[geometric transformation]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | translation |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? へいこういどう |  |
+| jpn-Jpan-JP | 平行移動 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | паралле́льный перено́с, трансля́ция |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

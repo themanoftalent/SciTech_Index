@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 列线图、诺莫图 |  |
+| cmn-Latn-CN | lièxiàn tú, Nuòmò tú |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Nomogramm [n] |  |
+| eng-Latn-US | abac, alignment chart, nomogram, nomograph | [[analog computer]]; [[function]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | nomogramme [m] |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? け↑いさんず↓ひょう、ノ↑モグ↓ラフ、ノ↑モグ↓ラム |  |
+| jpn-Jpan-JP | 計算図表、ノモグラフ、ノモグラム |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | номогра́мма |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

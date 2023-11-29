@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 价层电子对互斥理论 |  |
+| cmn-Latn-CN | jiàcéngdiànzǐduì hùchì lǐlùn |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | VEPR-Theorie |  |
+| eng-Latn-US | valence shell electron pair repulsion theory |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | théorie VSEPR |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? げ↑んしか↓か↑くでんしつ↓いは↑んぱつ↓そく |  |
+| jpn-Jpan-JP | 原子価殻電子対反発則 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | тео́рия отта́лкивания электро́нных пар вале́нтной оболо́чки |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

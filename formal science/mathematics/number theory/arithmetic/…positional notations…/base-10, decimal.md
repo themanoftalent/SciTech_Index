@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 十进制 |  |
+| cmn-Latn-CN | shíjìn zhì |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Dezimalsystem [n], Zehnersystem [n], dekadisches System |  |
+| eng-Latn-US | base-10, decimal |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | système décimal |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? じ↑っしんほう、じゅ↑っしんほう |  |
+| jpn-Jpan-JP | 十進法 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | десяти́чная систе́ма счисле́ния |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 温度 |  |
+| cmn-Latn-CN | wēn dù |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Temperatur |  |
+| eng-Latn-US | temperature |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | température |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? お↓んど |  |
+| jpn-Jpan-JP | 温度 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | температу́ра |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

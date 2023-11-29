@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 合取、与 |  |
+| cmn-Latn-CN | héqǔ, yǔ |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Konjunktion |  |
+| eng-Latn-US | conjunction | [[logical connective, logical operator, sentential connective, sentential operator]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | conjonction |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ろ↓んりせき |  |
+| jpn-Jpan-JP | 論理積 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | конъю́нкция |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ | ∧ |  |
+|  |  |  |

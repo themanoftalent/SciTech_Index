@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 制冷 |  |
+| cmn-Latn-CN | zhì lěng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Abkühlung, Entwärmung, Kühlung |  |
+| eng-Latn-US | refrigeration |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | réfrigération |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? れ↑いぞう |  |
+| jpn-Jpan-JP | 冷蔵 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | иску́сственное охлажде́ние |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 圆底烧瓶 |  |
+| cmn-Latn-CN | yuándǐ shāopíng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Rundkolben |  |
+| eng-Latn-US | round-bottom flask, round-bottomed flask |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | ballon |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ま↑るぞこフ↓ラスコ |  |
+| jpn-Jpan-JP | 丸底フラスコ |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU |  |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

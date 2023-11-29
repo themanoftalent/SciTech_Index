@@ -1,0 +1,21 @@
+| | |
+|-|-|
+| cmn-Hans-CN | 鲁布·戈德堡机械 |  |
+| cmn-Latn-CN | Rǔbù Gēdébǎo jīxiè |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Rube-Goldberg-Maschine |  |
+| eng-Latn-US | Rube Goldberg machine |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | machine de Rube Goldberg |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ルーブ・ゴールドバーグ・マシン |  |
+| jpn-Jpan-JP | ル↑ーブ・ゴールドバーグ↓・マシン |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | зау́мная маши́на, маши́на Робинсона Го́лдберга, маши́на Руба Го́лдберга |  |
+|  |  |

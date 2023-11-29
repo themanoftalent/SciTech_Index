@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 三角恒等式 |  |
+| cmn-Latn-CN | sānjiǎo héngděngshì |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE |  |  |
+| eng-Latn-US | trigonometric identities | [[identity]]; [[trigonometric function]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | identités [f-pl] trigonométriques |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP |  |  |
+| jpn-Jpan-JP |  |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | тригонометри́ческие то́ждества [с-мн] |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

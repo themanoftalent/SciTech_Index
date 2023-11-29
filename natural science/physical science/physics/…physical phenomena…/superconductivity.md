@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 超导现象 |  |
+| cmn-Latn-CN | chāodǎo xiànxiàng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Supraleitung |  |
+| eng-Latn-US | superconductivity | [[electrical conductor]]; [[electrical resistance]]; [[temperature]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | supraconduction, supraconductivité |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ちょ↑うでんどう |  |
+| jpn-Jpan-JP | 超伝導 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| pes-Aran-IR | اَبَررسانایی |  |
+| rus-Cyrl-RU | сверхпроводи́мость |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

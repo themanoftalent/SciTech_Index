@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 显微镜 |  |
+| cmn-Latn-CN | xiǎnwēi jìng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Mikroskop |  |
+| eng-Latn-US | microscope |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | microscope |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? け↑んびきょう |  |
+| jpn-Jpan-JP | 顕微鏡 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | микроско́п |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

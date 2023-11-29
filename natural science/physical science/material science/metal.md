@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 金属 |  |
+| cmn-Latn-CN | jīn shǔ |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Metalle |  |
+| eng-Latn-US | metal | [[electrical conductivity]]; [[material]]; [[thermal conductivity]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | métal |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? き↓んぞく |  |
+| jpn-Jpan-JP | 金属 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | мета́ллы |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

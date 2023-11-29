@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 奇数 |  |
+| cmn-Latn-CN | jī shù |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | ungerade Zahl |  |
+| eng-Latn-US | odd number | [[parity]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | nombre impair |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? き↑す↓う |  |
+| jpn-Jpan-JP | 奇数 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | нечётное число́ |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 星际物质 |  |
+| cmn-Latn-CN | xīngjì wùzhì |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | interstellares Medium |  |
+| eng-Latn-US | interstellar medium |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | milieu [m] interstellaire |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? せ↑いかんぶ↓っしつ |  |
+| jpn-Jpan-JP | 星間物質 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | межзвёздная среда |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

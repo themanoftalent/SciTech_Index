@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 有限连分数 |  |
+| cmn-Latn-CN | yǒuxiàn liánfēnshù |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | endlicher Kettenbruch |  |
+| eng-Latn-US | finite continued fraction, terminated continued fraction | [[continued fraction]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | fraction continue finie |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ゆ↑うげんれんぶ↓んすう |  |
+| jpn-Jpan-JP | 有限連分数 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | коне́чная цепна́я дробь |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

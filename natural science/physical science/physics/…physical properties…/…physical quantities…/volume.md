@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 体积 |  |
+| cmn-Latn-CN | tǐjī |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Volumen |  |
+| eng-Latn-US | volume |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | volume [m] |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? た↓いせき |  |
+| jpn-Jpan-JP | 体積 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | объём |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ | 𝘝 |  |
+|  |  |  |

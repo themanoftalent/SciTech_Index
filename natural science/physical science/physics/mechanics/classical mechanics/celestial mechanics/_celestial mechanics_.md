@@ -1,0 +1,26 @@
+| | |
+|-|-|
+| arb-Arab-ZZ |  |
+| cmn-Hans-CN | _天体力学_ |
+| cmn-Latn-CN | _tiāntǐ lìxué_ |
+| dan-Latn-DK |  |
+| deu-Latn-DE | _Himmelsmechanik_ |
+| eng-Latn-US | _celestial mechanics_ |
+| fin-Latn-FI |  |
+| fra-Latn-FR | _mécanique [f] céleste_ |
+| heb-Hebr-IL |  |
+| hin-Deva-IN |  |
+| ita-Latn-IT |  |
+| jpn-Hrkt-JP | ? _て↑んたいりき↓がく_ |
+| jpn-Jpan-JP | _天体力学_ |
+| kor-Hang-KR |  |
+| kor-Kore-KR |  |
+| nld-Latn-NL |  |
+| nob-Latn-NO |  |
+| pes-Aran-IR |  |
+| por-Latn-PT |  |
+| rus-Cyrl-RU | _небе́сная меха́ник_ |
+| swe-Latn-SE |  |
+| spa-Latn-ES |  |
+| zxx-Zsym-ZZ |  |
+|  |  |

@@ -1,0 +1,26 @@
+| | |
+|-|-|
+| arb-Arab-ZZ |  |
+| cmn-Hans-CN | _…机床…_ |
+| cmn-Latn-CN | _…jī chuáng…_ |
+| dan-Latn-DK |  |
+| deu-Latn-DE | _…Werkzeugmaschinen [f-pl]…_ |
+| eng-Latn-US | _…machine tools…_ |
+| fin-Latn-FI |  |
+| fra-Latn-FR | _…machine-outils [m-pl]…_ |
+| heb-Hebr-IL |  |
+| hin-Deva-IN |  |
+| ita-Latn-IT |  |
+| jpn-Hrkt-JP | ? _…こ↑うさくき↓かい…_ |
+| jpn-Jpan-JP | _…工作機械…_ |
+| kor-Hang-KR |  |
+| kor-Kore-KR |  |
+| nld-Latn-NL |  |
+| nob-Latn-NO |  |
+| pes-Aran-IR |  |
+| por-Latn-PT |  |
+| rus-Cyrl-RU | _…металлоре́жущий станки́ [м-мн]…_ |
+| swe-Latn-SE |  |
+| spa-Latn-ES |  |
+| zxx-Zsym-ZZ |  |
+|  |  |

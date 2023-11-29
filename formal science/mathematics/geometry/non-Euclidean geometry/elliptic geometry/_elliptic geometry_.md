@@ -1,0 +1,26 @@
+| | |
+|-|-|
+| arb-Arab-ZZ |  |
+| cmn-Hans-CN | _椭圆几何_ |
+| cmn-Latn-CN | _tuǒyuán jǐhé_ |
+| dan-Latn-DK |  |
+| deu-Latn-DE | _elliptische Geometrie_ |
+| eng-Latn-US | _elliptic geometry_ |
+| fin-Latn-FI |  |
+| fra-Latn-FR | _géométrie elliptique_ |
+| heb-Hebr-IL |  |
+| hin-Deva-IN |  |
+| ita-Latn-IT |  |
+| jpn-Hrkt-JP | ? _だ↑えんきかが↓く_ |
+| jpn-Jpan-JP | _楕円幾何学_ |
+| kor-Hang-KR |  |
+| kor-Kore-KR |  |
+| nld-Latn-NL |  |
+| nob-Latn-NO |  |
+| pes-Aran-IR |  |
+| por-Latn-PT |  |
+| rus-Cyrl-RU | _эллиптическая геометри_ |
+| swe-Latn-SE |  |
+| spa-Latn-ES |  |
+| zxx-Zsym-ZZ |  |
+|  |  |

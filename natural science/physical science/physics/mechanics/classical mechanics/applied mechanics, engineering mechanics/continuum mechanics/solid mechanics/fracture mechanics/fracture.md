@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 断裂 |  |
+| cmn-Latn-CN | duàn liè |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Bruch |  |
+| eng-Latn-US | fracture |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | rupture |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? は↑かい |  |
+| jpn-Jpan-JP | 破壊 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU |  |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

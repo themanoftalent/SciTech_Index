@@ -1,0 +1,26 @@
+| | |
+|-|-|
+| arb-Arab-ZZ |  |
+| cmn-Hans-CN | _…电子元件…_ |
+| cmn-Latn-CN | _…diànzǐ yuánjiàn…_ |
+| dan-Latn-DK |  |
+| deu-Latn-DE | _…elektronische Komponente [f-pl]…_ |
+| eng-Latn-US | _…electronic component…_ |
+| fin-Latn-FI |  |
+| fra-Latn-FR | _…composants [m-pl] électroniques…_ |
+| heb-Hebr-IL |  |
+| hin-Deva-IN |  |
+| ita-Latn-IT |  |
+| jpn-Hrkt-JP | ? _…で↑んしぶ↓ひん…_ |
+| jpn-Jpan-JP | _…電子部品…_ |
+| kor-Hang-KR |  |
+| kor-Kore-KR |  |
+| nld-Latn-NL |  |
+| nob-Latn-NO |  |
+| pes-Aran-IR |  |
+| por-Latn-PT |  |
+| rus-Cyrl-RU | _…электро́нные компоне́нты…_ |
+| swe-Latn-SE |  |
+| spa-Latn-ES |  |
+| zxx-Zsym-ZZ |  |
+|  |  |

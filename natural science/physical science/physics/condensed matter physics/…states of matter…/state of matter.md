@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 物质状态、物态 |  |
+| cmn-Latn-CN | wù tài, wùzhì zhuàngtài |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Aggregatzustand [m] |  |
+| eng-Latn-US | state of matter |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | état de la matière |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ぶ↑っしつ↓のじ↑ょうたい |  |
+| jpn-Jpan-JP | 物質の状態 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | агрега́тное состоя́ние |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

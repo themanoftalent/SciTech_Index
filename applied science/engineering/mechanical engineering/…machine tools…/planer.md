@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 刨床 |  |
+| cmn-Latn-CN | bào chuáng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Hobelmaschine |  |
+| eng-Latn-US | planer |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | raboteuse |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ひ↑ら↓け↑ずり↓ばん |  |
+| jpn-Jpan-JP | 平削り盤 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU |  |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 匀速圆周运动 |  |
+| cmn-Latn-CN | yúnsù yuánzhōu yùndòng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | gleichförmige Kreisbewegung |  |
+| eng-Latn-US | uniform circular motion | [[circular motion]]; [[uniform motion]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | mouvement circulaire uniforme |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? と↑うそくえんう↓んどう |  |
+| jpn-Jpan-JP | 等速円運動 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | равноме́рное кругово́е движе́ние |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

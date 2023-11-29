@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 电离能、游离能 |  |
+| cmn-Latn-CN | diànlí néng, yóulí néng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Ionisierungsenergie, Ionisierungspotential, Ionisationsenergie |  |
+| eng-Latn-US | ionization energy |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | énergie d'ionisation, potentiel d'ionisation |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? イ↑オンかエネル↓ギー |  |
+| jpn-Jpan-JP | イオン化エネルギー |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | эне́ргия иониза́ции |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 加法 |  |
+| cmn-Latn-CN | jiā fǎ |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Addition |  |
+| eng-Latn-US | addition | [[operation (mathematics)]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | addition |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? か↑さん、か↓ほう、た↑し↓ざん、よ↑せ↓ざん |  |
+| jpn-Jpan-JP | 加算、加法、足し算、寄せ算 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | прибавле́ние, сложе́ние |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ | + |  |
+|  |  |  |

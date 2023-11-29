@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 冪 |  |
+| cmn-Latn-CN | mì |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Potenzwert [m] |  |
+| eng-Latn-US | power (arithmetic) | [[exponentiation]] |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | puissance (arithmétique) |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? べ↓き |  |
+| jpn-Jpan-JP | 冪 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | сте́пень [ж] |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

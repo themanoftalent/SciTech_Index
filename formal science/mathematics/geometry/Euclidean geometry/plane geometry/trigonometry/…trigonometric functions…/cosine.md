@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 余弦 |  |
+| cmn-Latn-CN | yú xián |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Kosinus |  |
+| eng-Latn-US | cosine |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | cosinus |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? よ↑げん |  |
+| jpn-Jpan-JP | 余弦 |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | ко́синус |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

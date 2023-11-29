@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 达林顿晶体管 |  |
+| cmn-Latn-CN | Dálíndùn jīngtǐguǎn |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | Darlinton-Transistor |  |
+| eng-Latn-US | Darlington transistor |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR |  |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? ダ↑ーリントントランジ↓スタ |  |
+| jpn-Jpan-JP | ダーリントントランジスタ |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU |  |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |

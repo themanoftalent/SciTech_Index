@@ -1,0 +1,25 @@
+| | | |
+|-|-|-|
+| arb-Arab-ZZ |  |  |
+| cmn-Hans-CN | 凸透镜 |  |
+| cmn-Latn-CN | tū tòujìng |  |
+| dan-Latn-DK |  |  |
+| deu-Latn-DE | konvexe Linse, Konvexlinse |  |
+| eng-Latn-US | convex lens |  |
+| fin-Latn-FI |  |  |
+| fra-Latn-FR | lentille [f] convexe |  |
+| heb-Hebr-IL |  |  |
+| hin-Deva-IN |  |  |
+| ita-Latn-IT |  |  |
+| jpn-Hrkt-JP | ? と↑つレ↓ンズ |  |
+| jpn-Jpan-JP | 凸レンズ |  |
+| kor-Hang-KR |  |  |
+| kor-Kore-KR |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
+| por-Latn-PT |  |  |
+| rus-Cyrl-RU | вы́пуклая ли́нза |  |
+| spa-Latn-ES |  |  |
+| swe-Latn-SE |  |  |
+| zxx-Zsym-ZZ |  |  |
+|  |  |  |
