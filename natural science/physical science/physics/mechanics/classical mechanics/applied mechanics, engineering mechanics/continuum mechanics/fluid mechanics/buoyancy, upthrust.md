@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ふ↓りょく |  |
+| jpn-Hrkt-JP | ふりょく |  |
 | jpn-Jpan-JP | 浮力 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _さ↑いぼうせいぶつ↓がく_ |
+| jpn-Hrkt-JP | _さいぼうせいぶつがく_ |
 | jpn-Jpan-JP | _細胞生物学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

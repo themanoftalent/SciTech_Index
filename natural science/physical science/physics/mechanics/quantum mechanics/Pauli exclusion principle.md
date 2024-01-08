@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? パ↓ウリの↑て↓いり、パ↓ウリのは↑いたげ↓んり、パ↓ウリのは↑いた↓りつ |  |
+| jpn-Hrkt-JP | パウリのていり、パウリのはいたげんり、パウリのはいたりつ |  |
 | jpn-Jpan-JP | パウリの定理、パウリの排他原理、パウリの排他律 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

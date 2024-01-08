@@ -5,13 +5,13 @@
 | cmn-Latn-CN | xīng yún |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Nebel |  |
-| eng-Latn-US | nebula [pl nebulae] |  |
+| eng-Latn-US | nebula [nebulae] |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | nébuleuse |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? せ↑いうん |  |
+| jpn-Hrkt-JP | せいうん |  |
 | jpn-Jpan-JP | 星雲 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

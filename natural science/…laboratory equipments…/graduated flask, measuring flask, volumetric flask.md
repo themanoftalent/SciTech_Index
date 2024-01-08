@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? か↑くは↓んし |  |
-| jpn-Jpan-JP | メ↑スフ↓ラスコ |  |
+| jpn-Hrkt-JP | かくはんし |  |
+| jpn-Jpan-JP | メスフラスコ |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

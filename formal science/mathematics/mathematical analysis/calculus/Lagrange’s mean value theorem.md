@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ラ↑グラ↓ンジュのへ↑いき↓んちの↑て↓いり |  |
+| jpn-Hrkt-JP | ラグランジュのへいきんちのていり |  |
 | jpn-Jpan-JP | ラグランジュの平均値の定理 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

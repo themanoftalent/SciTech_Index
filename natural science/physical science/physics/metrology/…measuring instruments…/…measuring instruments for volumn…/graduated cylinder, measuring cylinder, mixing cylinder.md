@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? メスシリンダー |  |
-| jpn-Jpan-JP | メ↑スシリ↓ンダー |  |
+| jpn-Hrkt-JP | メスシリンダー |  |
+| jpn-Jpan-JP | メスシリンダー |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

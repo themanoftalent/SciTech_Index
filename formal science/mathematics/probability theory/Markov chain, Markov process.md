@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? マ↑ルコフれ↓んさ |  |
+| jpn-Hrkt-JP | マルコフれんさ |  |
 | jpn-Jpan-JP | マルコフ連鎖 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

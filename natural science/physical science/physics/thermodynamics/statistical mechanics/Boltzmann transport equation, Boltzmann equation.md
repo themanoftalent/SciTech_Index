@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ボ↑ルツマンほうて↓いしき |  |
+| jpn-Hrkt-JP | ボルツマンほうていしき |  |
 | jpn-Jpan-JP | ボルツマン方程式 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

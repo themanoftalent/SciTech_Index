@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _き↑かいこ↓うがく_ |
+| jpn-Hrkt-JP | _きかいこうがく_ |
 | jpn-Jpan-JP | _機械工学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

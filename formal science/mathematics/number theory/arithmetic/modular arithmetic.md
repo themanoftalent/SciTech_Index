@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ご↑うどうさ↓んじゅつ |  |
+| jpn-Hrkt-JP | ごうどうさんじゅつ |  |
 | jpn-Jpan-JP | 合同算術 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

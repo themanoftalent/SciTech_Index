@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _け↑いそく↓がく_、_け↑いりょ↓うがく_、_そ↑くて↓いがく_、_ど↑りょうこ↓うがく_ |
+| jpn-Hrkt-JP | _けいそくがく_、_けいりょうがく_、_そくていがく_、_どりょうこうがく_ |
 | jpn-Jpan-JP | _計測学_、_計量学_、_測定学_、_度量衡学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

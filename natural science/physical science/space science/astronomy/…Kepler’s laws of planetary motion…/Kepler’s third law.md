@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ケ↓プラーの↑だ↓いさ↑んほ↓うそく、ちょ↑うわのほうそく  |  |
+| jpn-Hrkt-JP | ケプラーのだいさんほうそく、ちょうわのほうそく  |  |
 | jpn-Jpan-JP | ケプラーの第三法則、調和の法則 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

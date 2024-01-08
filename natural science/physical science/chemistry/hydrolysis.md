@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? か↑すいぶ↓んかい |  |
+| jpn-Hrkt-JP | かすいぶんかい |  |
 | jpn-Jpan-JP | 加水分解 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

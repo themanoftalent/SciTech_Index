@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _モ↑デルり↓ろん_ |
+| jpn-Hrkt-JP | _モデルりろん_ |
 | jpn-Jpan-JP | _モデル理論_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

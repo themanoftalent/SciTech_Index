@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ジェ↑フィメ↓ンコほ↑うて↓いしき |  |
+| jpn-Hrkt-JP | ジェフィメンコほうていしき |  |
 | jpn-Jpan-JP | ジェフィメンコ方程式 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

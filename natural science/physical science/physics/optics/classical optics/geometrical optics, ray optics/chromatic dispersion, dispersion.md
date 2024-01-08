@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ぶ↑んさん（こ↑うがく） |  |
+| jpn-Hrkt-JP | ぶんさん（こうがく） |  |
 | jpn-Jpan-JP | 分散（光学） |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? む↑むじゅ↓んりつ、む↑じゅ↓んりつ |  |
+| jpn-Hrkt-JP | むむじゅんりつ、むじゅんりつ |  |
 | jpn-Jpan-JP | 無矛盾律、矛盾律 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? か↑くゆうごうは↓んのう |  |
+| jpn-Hrkt-JP | かくゆうごうはんのう |  |
 | jpn-Jpan-JP | 核融合反応 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

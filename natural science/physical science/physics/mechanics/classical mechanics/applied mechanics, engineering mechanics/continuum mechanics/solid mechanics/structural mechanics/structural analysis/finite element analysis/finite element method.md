@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ゆ↑うげんようそほう |  |
+| jpn-Hrkt-JP | ゆうげんようそほう |  |
 | jpn-Jpan-JP | 有限要素法 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

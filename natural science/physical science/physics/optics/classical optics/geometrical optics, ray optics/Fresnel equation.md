@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? フ↓レネルのし↑き |  |
+| jpn-Hrkt-JP | フレネルのしき |  |
 | jpn-Jpan-JP | フレネルの式 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _デ↑ータか↓がく_、_デ↑ータサ↓イエンス_ |
+| jpn-Hrkt-JP | _データかがく_、_データサイエンス_ |
 | jpn-Jpan-JP | _データ科学_、_データサイエンス_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

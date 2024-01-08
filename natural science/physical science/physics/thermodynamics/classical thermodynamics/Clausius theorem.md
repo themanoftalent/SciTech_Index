@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ク↑ラウジウ↓スの↑て↓いり |  |
+| jpn-Hrkt-JP | クラウジウスのていり |  |
 | jpn-Jpan-JP | クラウジウスの定理 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

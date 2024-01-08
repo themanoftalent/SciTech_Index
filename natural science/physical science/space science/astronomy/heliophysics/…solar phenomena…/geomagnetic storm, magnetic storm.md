@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? 磁気嵐 |  |
-| jpn-Jpan-JP | じ↑きあ↓らし |  |
+| jpn-Hrkt-JP | 磁気嵐 |  |
+| jpn-Jpan-JP | じきあらし |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

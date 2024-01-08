@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _…ざ↑いりょうと↓くせい…_ |
+| jpn-Hrkt-JP | _…ざいりょうとくせい…_ |
 | jpn-Jpan-JP | _…材料特性…_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

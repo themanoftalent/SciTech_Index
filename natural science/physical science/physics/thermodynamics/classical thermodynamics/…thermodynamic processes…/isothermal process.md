@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? と↑うおんか↓てい |  |
+| jpn-Hrkt-JP | とうおんかてい |  |
 | jpn-Jpan-JP | 等温過程 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

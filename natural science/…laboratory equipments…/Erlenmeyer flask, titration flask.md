@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? さ↑んかくフ↓ラスコ |  |
+| jpn-Hrkt-JP | さんかくフラスコ |  |
 | jpn-Jpan-JP | 三角フラスコ |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

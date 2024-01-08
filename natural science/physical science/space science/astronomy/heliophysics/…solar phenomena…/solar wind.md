@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? た↑いようふう |  |
+| jpn-Hrkt-JP | たいようふう |  |
 | jpn-Jpan-JP | 太陽風 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

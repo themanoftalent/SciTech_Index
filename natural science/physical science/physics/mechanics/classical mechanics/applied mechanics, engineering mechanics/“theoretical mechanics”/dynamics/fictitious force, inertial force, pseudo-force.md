@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? か↑んせ↓いりょく、み↑かけのちから |  |
+| jpn-Hrkt-JP | かんせいりょく、みかけのちから |  |
 | jpn-Jpan-JP | 慣性力、見掛けの力 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

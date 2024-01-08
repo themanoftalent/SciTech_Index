@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? は↓んきょ↑うじ↓せい |  |
+| jpn-Hrkt-JP | はんきょうじせい |  |
 | jpn-Jpan-JP | 反強磁性 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

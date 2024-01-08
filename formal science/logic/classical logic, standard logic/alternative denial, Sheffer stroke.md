@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? シェ↑ファーの↓ぼ↑うき↓ごう、ひ↑ていろんりせ↓き |  |
+| jpn-Hrkt-JP | シェファーのぼうきごう、ひていろんりせき |  |
 | jpn-Jpan-JP | シェファーの棒記号、否定論理積 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
@@ -21,5 +21,5 @@
 | rus-Cyrl-RU | штрих Ше́ффера |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
-| zxx-Zsym-ZZ | ↑ |  |
+| zxx-Zsym-ZZ |  |  |
 |  |  |  |

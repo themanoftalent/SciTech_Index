@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? か↑んで↓んち |  |
+| jpn-Hrkt-JP | かんでんち |  |
 | jpn-Jpan-JP | 乾電池 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

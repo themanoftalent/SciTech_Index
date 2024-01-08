@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? さ↑んか↓ざい |  |
+| jpn-Hrkt-JP | さんかざい |  |
 | jpn-Jpan-JP | 酸化剤 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

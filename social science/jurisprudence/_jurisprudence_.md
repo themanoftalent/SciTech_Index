@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _ほ↑うがく_、_ほ↑うりつ↓がく_ |
+| jpn-Hrkt-JP | _ほうがく_、_ほうりつがく_ |
 | jpn-Jpan-JP | _法学_、_法律学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _こ↑うがく_ |
+| jpn-Hrkt-JP | _こうがく_ |
 | jpn-Jpan-JP | _光学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

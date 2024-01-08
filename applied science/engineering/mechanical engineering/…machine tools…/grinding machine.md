@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? け↑んま↓き |  |
+| jpn-Hrkt-JP | けんまき |  |
 | jpn-Jpan-JP | 研磨機 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

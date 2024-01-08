@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? き↑びゅうほう、は↑いりほう |  |
+| jpn-Hrkt-JP | きびゅうほう、はいりほう |  |
 | jpn-Jpan-JP | 帰謬法、背理法 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? に↑じゅうちかんは↓んのう、ふ↑くぶ↓んかい、メ↑タセ↓シス |  |
+| jpn-Hrkt-JP | にじゅうちかんはんのう、ふくぶんかい、メタセシス |  |
 | jpn-Jpan-JP | 二重置換反応、複分解、メタセシス |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

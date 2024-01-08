@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? か↑さん、か↓ほう、た↑し↓ざん、よ↑せ↓ざん |  |
+| jpn-Hrkt-JP | かさん、かほう、たしざん、よせざん |  |
 | jpn-Jpan-JP | 加算、加法、足し算、寄せ算 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

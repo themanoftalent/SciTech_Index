@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ベ↑ルヌーイかて↓い |  |
+| jpn-Hrkt-JP | ベルヌーイかてい |  |
 | jpn-Jpan-JP | ベルヌーイ過程 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

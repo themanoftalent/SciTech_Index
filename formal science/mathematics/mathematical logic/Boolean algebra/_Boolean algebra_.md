@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _ブ↑ールそく_、_ブ↑ールだ↓いすう_ |
+| jpn-Hrkt-JP | _ブールそく_、_ブールだいすう_ |
 | jpn-Jpan-JP | _ブール束_、_ブール代数_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

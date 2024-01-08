@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? じ↓か |  |
+| jpn-Hrkt-JP | じか |  |
 | jpn-Jpan-JP | 磁化 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

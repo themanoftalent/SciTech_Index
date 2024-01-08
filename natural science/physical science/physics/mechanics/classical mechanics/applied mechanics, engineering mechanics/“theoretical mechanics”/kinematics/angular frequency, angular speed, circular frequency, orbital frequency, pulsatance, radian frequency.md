@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? え↑んしんど↓うすう、か↑くしゅうは↓すう、か↑くしんど↓うすう |  |
+| jpn-Hrkt-JP | えんしんどうすう、かくしゅうはすう、かくしんどうすう |  |
 | jpn-Jpan-JP | 円振動数、角周波数、角振動数 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

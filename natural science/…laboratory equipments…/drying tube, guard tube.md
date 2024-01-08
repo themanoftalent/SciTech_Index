@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? え↑んかカルシウムか↓ん |  |
+| jpn-Hrkt-JP | えんかカルシウムかん |  |
 | jpn-Jpan-JP | 塩化カルシウム管 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

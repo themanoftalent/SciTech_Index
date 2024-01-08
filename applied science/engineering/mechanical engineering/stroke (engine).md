@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? こ↑うてい、ス↑トロ↓ーク |  |
+| jpn-Hrkt-JP | こうてい、ストローク |  |
 | jpn-Jpan-JP | 行程、ストローク |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? カ↑ンデラ / カ↓ンデラ |  |
+| jpn-Hrkt-JP | カンデラ / カンデラ |  |
 | jpn-Jpan-JP | カンデラ |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

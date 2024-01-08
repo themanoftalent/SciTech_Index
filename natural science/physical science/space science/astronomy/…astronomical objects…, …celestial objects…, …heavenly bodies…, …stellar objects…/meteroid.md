@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? りゅ↑うせいたい、りゅ↑うせいぶ↓っしつ |  |
+| jpn-Hrkt-JP | りゅうせいたい、りゅうせいぶっしつ |  |
 | jpn-Jpan-JP | 流星体、流星物質 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

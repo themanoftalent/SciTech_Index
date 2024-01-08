@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _お↑んきょ↓うがく_ |
+| jpn-Hrkt-JP | _おんきょうがく_ |
 | jpn-Jpan-JP | _音響学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

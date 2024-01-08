@@ -5,13 +5,13 @@
 | cmn-Latn-CN | hóngwài xiàn |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Infrarotstrahlung |  |
-| eng-Latn-US | infrared | [[electromagnetic radiation]]; [[camera obscura [pl camerae obscurae]]]; [[spatial period, wavelength]] |
+| eng-Latn-US | infrared | [[electromagnetic radiation]]; [[camera obscura [camerae obscurae]]]; [[spatial period, wavelength]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | infrarouge [m] |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? せ↑きがいせん |  |
+| jpn-Hrkt-JP | せきがいせん |  |
 | jpn-Jpan-JP | 赤外線 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

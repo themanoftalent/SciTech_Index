@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? で↑んかい、で↑んきぶ↓んかい |  |
+| jpn-Hrkt-JP | でんかい、でんきぶんかい |  |
 | jpn-Jpan-JP | 電解、電気分解 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

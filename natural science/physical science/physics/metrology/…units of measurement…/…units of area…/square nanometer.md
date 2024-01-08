@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? へ↑いほうナノメ↓ートル |  |
+| jpn-Hrkt-JP | へいほうナノメートル |  |
 | jpn-Jpan-JP | 平方ナノメートル |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

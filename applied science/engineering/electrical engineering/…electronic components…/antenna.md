@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ア↑ンテナ |  |
+| jpn-Hrkt-JP | アンテナ |  |
 | jpn-Jpan-JP | アンテナ |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

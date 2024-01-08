@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? き↑で↓んりょく |  |
+| jpn-Hrkt-JP | きでんりょく |  |
 | jpn-Jpan-JP | 起電力 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

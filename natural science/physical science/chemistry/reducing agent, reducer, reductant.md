@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? か↑んげ↓んざい |  |
+| jpn-Hrkt-JP | かんげんざい |  |
 | jpn-Jpan-JP | 還元剤 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

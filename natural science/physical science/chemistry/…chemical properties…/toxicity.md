@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ど↑くせい |  |
+| jpn-Hrkt-JP | どくせい |  |
 | jpn-Jpan-JP | 毒性 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

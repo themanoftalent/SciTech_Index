@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? せ↑んこ↓うき |  |
+| jpn-Hrkt-JP | せんこうき |  |
 | jpn-Jpan-JP | 穿孔機 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

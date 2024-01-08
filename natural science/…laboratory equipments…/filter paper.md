@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ろ↓し |  |
+| jpn-Hrkt-JP | ろし |  |
 | jpn-Jpan-JP | 濾紙 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

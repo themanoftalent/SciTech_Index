@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? て↑んこ↓うりょく、コ↑リオリ↓のりょく、コ↑リオリ↓りょく |  |
+| jpn-Hrkt-JP | てんこうりょく、コリオリのりょく、コリオリりょく |  |
 | jpn-Jpan-JP | 転向力、コリオリの力、コリオリ力 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

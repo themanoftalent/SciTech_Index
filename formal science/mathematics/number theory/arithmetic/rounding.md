@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? は↑すうし↓ょり |  |
+| jpn-Hrkt-JP | はすうしょり |  |
 | jpn-Jpan-JP | 端数処理 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? れ↑んぞくか↓んすう |  |
+| jpn-Hrkt-JP | れんぞくかんすう |  |
 | jpn-Jpan-JP | 連続関数 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

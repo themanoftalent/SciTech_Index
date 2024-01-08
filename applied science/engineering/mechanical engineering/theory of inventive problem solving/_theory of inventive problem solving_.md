@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _は↑つめいてき↓も↑んだ↓いか↑いけつり↓ろん_ |
+| jpn-Hrkt-JP | _はつめいてきもんだいかいけつりろん_ |
 | jpn-Jpan-JP | _発明的問題解決理論_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

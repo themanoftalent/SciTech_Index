@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _ゆ↑あつ↓とく↑うあつ_ |
+| jpn-Hrkt-JP | _ゆあつとくうあつ_ |
 | jpn-Jpan-JP | _油圧と空圧_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

@@ -5,7 +5,7 @@
 | cmn-Latn-CN |  |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
-| eng-Latn-US | minimum [pl minima] |  |
+| eng-Latn-US | minimum [minima] |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

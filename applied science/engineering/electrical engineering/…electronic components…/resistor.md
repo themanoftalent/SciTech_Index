@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? て↑いこ↓うき |  |
+| jpn-Hrkt-JP | ていこうき |  |
 | jpn-Jpan-JP | 抵抗器 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

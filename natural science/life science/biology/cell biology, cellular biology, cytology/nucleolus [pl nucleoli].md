@@ -5,7 +5,7 @@
 | cmn-Latn-CN |  |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
-| eng-Latn-US | nucleolus [pl nucleoli] |  |
+| eng-Latn-US | nucleolus [nucleoli] |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

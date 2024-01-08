@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? と↑うエントロピーか↓てい |  |
+| jpn-Hrkt-JP | とうエントロピーかてい |  |
 | jpn-Jpan-JP | 等エントロピー過程 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

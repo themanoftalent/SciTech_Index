@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? へ↑いほうミリメ↓ートル、へ↑いほうミ↓リ |  |
+| jpn-Hrkt-JP | へいほうミリメートル、へいほうミリ |  |
 | jpn-Jpan-JP | 平方ミリメートル、ミリ |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? だ↑んせいのほうそく、フ↓ックのほ↑うそく |  |
+| jpn-Hrkt-JP | だんせいのほうそく、フックのほうそく |  |
 | jpn-Jpan-JP | 弾性の法則、フックの法則 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

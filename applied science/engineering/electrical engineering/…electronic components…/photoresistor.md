@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? こ↑うていこ↓うき |  |
+| jpn-Hrkt-JP | こうていこうき |  |
 | jpn-Jpan-JP | 光抵抗器 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

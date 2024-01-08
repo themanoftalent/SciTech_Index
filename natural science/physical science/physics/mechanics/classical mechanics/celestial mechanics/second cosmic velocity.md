@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? だ↓いに↑うちゅうそ↓くど |  |
+| jpn-Hrkt-JP | だいにうちゅうそくど |  |
 | jpn-Jpan-JP | 第二宇宙速度 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

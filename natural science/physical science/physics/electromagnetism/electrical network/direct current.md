@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ちょ↑くりゅう |  |
+| jpn-Hrkt-JP | ちょくりゅう |  |
 | jpn-Jpan-JP | 直流 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

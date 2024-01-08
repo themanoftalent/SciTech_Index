@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ビ↑リアルて↓いり |  |
+| jpn-Hrkt-JP | ビリアルていり |  |
 | jpn-Jpan-JP | ビリアル定理 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

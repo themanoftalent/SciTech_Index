@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | は↑ぐ↓るま |  |
+| jpn-Hrkt-JP | はぐるま |  |
 | jpn-Jpan-JP | 歯車 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

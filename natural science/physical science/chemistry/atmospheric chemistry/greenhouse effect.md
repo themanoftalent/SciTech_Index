@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? お↑んしつこ↓うか |  |
+| jpn-Hrkt-JP | おんしつこうか |  |
 | jpn-Jpan-JP | 温室効果 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

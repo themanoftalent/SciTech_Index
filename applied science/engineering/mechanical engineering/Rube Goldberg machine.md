@@ -10,8 +10,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ルーブ・ゴールドバーグ・マシン |  |
-| jpn-Jpan-JP | ル↑ーブ・ゴールドバーグ↓・マシン |  |
+| jpn-Hrkt-JP | ルーブ・ゴールドバーグ・マシン |  |
+| jpn-Jpan-JP | ルーブ・ゴールドバーグ・マシン |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

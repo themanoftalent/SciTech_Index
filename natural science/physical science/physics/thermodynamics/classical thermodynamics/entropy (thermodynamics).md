@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? エ↑ントロ↓ピー（ね↑つりき↓がく） |  |
+| jpn-Hrkt-JP | エントロピー（ねつりきがく） |  |
 | jpn-Jpan-JP | エントロピー（熱力学） |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

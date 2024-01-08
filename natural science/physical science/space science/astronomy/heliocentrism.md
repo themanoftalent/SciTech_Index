@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? た↑いようちゅうし↓んせつ、ち↑ど↓うせつ |  |
+| jpn-Hrkt-JP | たいようちゅうしんせつ、ちどうせつ |  |
 | jpn-Jpan-JP | 太陽中心説、地動説 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

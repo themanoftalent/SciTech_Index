@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? で↑んかい、で↓んば |  |
+| jpn-Hrkt-JP | でんかい、でんば |  |
 | jpn-Jpan-JP | 電界、電場 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _う↑んど↓うがく_ |
+| jpn-Hrkt-JP | _うんどうがく_ |
 | jpn-Jpan-JP | _運動学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

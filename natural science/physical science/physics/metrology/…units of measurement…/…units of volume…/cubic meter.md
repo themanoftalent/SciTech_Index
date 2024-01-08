@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? りっぽうメートル |  |
+| jpn-Hrkt-JP | りっぽうメートル |  |
 | jpn-Jpan-JP | 立方メートル |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

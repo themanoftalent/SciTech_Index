@@ -5,7 +5,7 @@
 | cmn-Latn-CN |  |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
-| eng-Latn-US | locus [pl loci] |  |
+| eng-Latn-US | locus [loci] |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

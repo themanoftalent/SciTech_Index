@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ブ↑ラウンう↓んどう |  |
+| jpn-Hrkt-JP | ブラウンうんどう |  |
 | jpn-Jpan-JP | ブラウン運動 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

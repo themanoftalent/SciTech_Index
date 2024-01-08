@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? レ↓ンズ |  |
+| jpn-Hrkt-JP | レンズ |  |
 | jpn-Jpan-JP | レンズ |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

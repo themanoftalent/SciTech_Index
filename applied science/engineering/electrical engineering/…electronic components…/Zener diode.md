@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? て↑いでんあつダイオ↓ード、ツェ↑ナーダイオ↓ード |  |
+| jpn-Hrkt-JP | ていでんあつダイオード、ツェナーダイオード |  |
 | jpn-Jpan-JP | 定電圧ダイオード、ツェナーダイオード |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ろ↑んりえんざ↓んし、ろ↑んりけつご↓うし |  |
+| jpn-Hrkt-JP | ろんりえんざんし、ろんりけつごうし |  |
 | jpn-Jpan-JP | 論理演算子、論理結合子 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

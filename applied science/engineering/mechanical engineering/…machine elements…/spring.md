@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ス↑プリング、ば↓ね／は↑つじょう |  |
+| jpn-Hrkt-JP | スプリング、ばね／はつじょう |  |
 | jpn-Jpan-JP | スプリング、発条 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

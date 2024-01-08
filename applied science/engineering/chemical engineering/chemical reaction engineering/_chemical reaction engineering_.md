@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _は↑んのうこ↓うがく_ |
+| jpn-Hrkt-JP | _はんのうこうがく_ |
 | jpn-Jpan-JP | _反応工学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

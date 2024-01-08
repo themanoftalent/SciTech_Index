@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? マ↓イル |  |
+| jpn-Hrkt-JP | マイル |  |
 | jpn-Jpan-JP | マイル |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

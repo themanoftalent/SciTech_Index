@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ぶ↑んえきろ↓うと |  |
+| jpn-Hrkt-JP | ぶんえきろうと |  |
 | jpn-Jpan-JP | 分液漏斗 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

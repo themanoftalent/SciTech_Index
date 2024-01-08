@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ち↑ょくれつか↓いろ |  |
+| jpn-Hrkt-JP | ちょくれつかいろ |  |
 | jpn-Jpan-JP | 直列回路 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

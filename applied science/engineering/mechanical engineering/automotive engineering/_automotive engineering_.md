@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _じ↑ど↓うしゃこ↑うがく_ |
+| jpn-Hrkt-JP | _じどうしゃこうがく_ |
 | jpn-Jpan-JP | _自動車工学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

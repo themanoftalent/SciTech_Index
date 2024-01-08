@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? じょ↑うたいほうて↓いしき |  |
+| jpn-Hrkt-JP | じょうたいほうていしき |  |
 | jpn-Jpan-JP | 状態方程式 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

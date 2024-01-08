@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? きょ↑うめんは↓んしゃ |  |
+| jpn-Hrkt-JP | きょうめんはんしゃ |  |
 | jpn-Jpan-JP | 鏡面反射 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

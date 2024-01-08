@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ちょ↑うでんどうたい |  |
+| jpn-Hrkt-JP | ちょうでんどうたい |  |
 | jpn-Jpan-JP | 超伝導体 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

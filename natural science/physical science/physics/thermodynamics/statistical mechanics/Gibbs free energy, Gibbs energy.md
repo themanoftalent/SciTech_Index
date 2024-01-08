@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? じ↑ゆうエンタ↓ルピー、ギ↑ブズエネ↓ルギー |  |
-| jpn-Jpan-JP | 自由エンタルピー、ギ↑ブズエネ↓ルギー |  |
+| jpn-Hrkt-JP | じゆうエンタルピー、ギブズエネルギー |  |
+| jpn-Jpan-JP | 自由エンタルピー、ギブズエネルギー |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

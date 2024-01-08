@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? しゅ↑うごうたい、しゅ↑うごうだ↓いすう、ゆ↑うげんかほ↓うぞく |  |
+| jpn-Hrkt-JP | しゅうごうたい、しゅうごうだいすう、ゆうげんかほうぞく |  |
 | jpn-Jpan-JP | 集合体、集合代数、有限加法族 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? り↑きがくてきへいこう |  |
+| jpn-Hrkt-JP | りきがくてきへいこう |  |
 | jpn-Jpan-JP | 力学的平衡 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? し↑けんかん |  |
+| jpn-Hrkt-JP | しけんかん |  |
 | jpn-Jpan-JP | 試験管 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

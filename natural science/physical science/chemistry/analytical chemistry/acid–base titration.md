@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? さ↑んえんきて↓きてい、ちゅ↑うわて↓きてい |  |
+| jpn-Hrkt-JP | さんえんきてきてい、ちゅうわてきてい |  |
 | jpn-Jpan-JP | 酸塩基滴定、中和滴定 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

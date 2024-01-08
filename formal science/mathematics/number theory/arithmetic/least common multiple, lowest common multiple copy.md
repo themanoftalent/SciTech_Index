@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? さ↑いしょうこうば↓いすう |  |
+| jpn-Hrkt-JP | さいしょうこうばいすう |  |
 | jpn-Jpan-JP | 最小公倍数 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

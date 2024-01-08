@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ね↑つで↓んどう |  |
+| jpn-Hrkt-JP | ねつでんどう |  |
 | jpn-Jpan-JP | 熱伝導 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

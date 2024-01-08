@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? は↑だやき |  |
+| jpn-Hrkt-JP | はだやき |  |
 | jpn-Jpan-JP | 肌焼 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

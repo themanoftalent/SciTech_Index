@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? だ↑んせ↓いりつ、だ↑んせいけ↓いすう、だ↑んせいて↓いすう |  |
+| jpn-Hrkt-JP | だんせいりつ、だんせいけいすう、だんせいていすう |  |
 | jpn-Jpan-JP | 弾性率、弾性係数、弾性定数 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

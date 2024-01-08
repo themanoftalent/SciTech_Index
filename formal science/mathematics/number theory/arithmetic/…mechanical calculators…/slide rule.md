@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? けいさんじゃく |  |
+| jpn-Hrkt-JP | けいさんじゃく |  |
 | jpn-Jpan-JP | 計算尺 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

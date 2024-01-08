@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? レ↓ンツのほ↑うそく |  |
+| jpn-Hrkt-JP | レンツのほうそく |  |
 | jpn-Jpan-JP | レンツの法則 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

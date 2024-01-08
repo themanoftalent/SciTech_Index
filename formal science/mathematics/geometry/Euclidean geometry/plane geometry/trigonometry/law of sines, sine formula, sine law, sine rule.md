@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? せ↑いげんて↓いり、せ↑いげんほ↓うそく |  |
+| jpn-Hrkt-JP | せいげんていり、せいげんほうそく |  |
 | jpn-Jpan-JP | 正弦定理、正弦法則 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

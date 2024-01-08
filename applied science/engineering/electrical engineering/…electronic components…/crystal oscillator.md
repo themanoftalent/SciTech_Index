@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? す↓いしょうは↑っし↓んき |  |
+| jpn-Hrkt-JP | すいしょうはっしんき |  |
 | jpn-Jpan-JP | 水晶発振器 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

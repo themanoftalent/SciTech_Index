@@ -9,7 +9,7 @@
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | équation de Clausius-Clapeyron, formule [f] de Clausius-Clapeyron |  |
 | ita-Latn-IT | equazione di Clapeyron, equazione di Clausius–Clapeyron |  |
-| jpn-Hrkt-JP | ? ク↑ラウジウス・クラペイロンのしき |  |
+| jpn-Hrkt-JP | クラウジウス・クラペイロンのしき |  |
 | jpn-Jpan-JP | クラウジウス・クラペイロンの式 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

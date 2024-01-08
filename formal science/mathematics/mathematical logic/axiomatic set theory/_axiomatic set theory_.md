@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _こ↑うりてき↓しゅ↑うご↓うろん_ |
+| jpn-Hrkt-JP | _こうりてきしゅうごうろん_ |
 | jpn-Jpan-JP | _公理的集合論_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

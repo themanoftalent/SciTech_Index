@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ね↑つりきがくけ↓い |  |
+| jpn-Hrkt-JP | ねつりきがくけい |  |
 | jpn-Jpan-JP | 熱力学系 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

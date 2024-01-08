@@ -5,13 +5,13 @@
 | cmn-Latn-CN | xiànxiàng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Phänomen |  |
-| eng-Latn-US | phenomenon [pl phenomena] |  |
+| eng-Latn-US | phenomenon [phenomena] |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | phénomène [m] |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? げ↑んしょう |  |
+| jpn-Hrkt-JP | げんしょう |  |
 | jpn-Jpan-JP | 現象 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

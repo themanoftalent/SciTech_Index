@@ -11,7 +11,7 @@
   | heb-Hebr-IL |  |  |
   | hin-Deva-IN |  |  |
   | ita-Latn-IT |  |  |
-  | jpn-Hrkt-JP | ? た↑いようフレ↓ア |  |
+  | jpn-Hrkt-JP | たいようフレア |  |
   | jpn-Jpan-JP | 太陽フレア |  |
   | kor-Hang-KR |  |  |
   | kor-Kore-KR |  |  |

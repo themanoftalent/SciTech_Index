@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _で↑んきこ↓うがく_ |
+| jpn-Hrkt-JP | _でんきこうがく_ |
 | jpn-Jpan-JP | _電気工学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

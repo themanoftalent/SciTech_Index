@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? だんねつかてい |  |
+| jpn-Hrkt-JP | だんねつかてい |  |
 | jpn-Jpan-JP | 断熱過程 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

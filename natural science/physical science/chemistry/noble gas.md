@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? きガス |  |
+| jpn-Hrkt-JP | きガス |  |
 | jpn-Jpan-JP | 希ガス／稀ガス |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

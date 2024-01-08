@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ロ↓ピタルの↑て↓いり |  |
+| jpn-Hrkt-JP | ロピタルのていり |  |
 | jpn-Jpan-JP | ロピタルの定理 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

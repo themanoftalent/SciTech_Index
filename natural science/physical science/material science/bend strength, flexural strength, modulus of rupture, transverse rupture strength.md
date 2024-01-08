@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ま↑げつ↓よさ |  |
+| jpn-Hrkt-JP | まげつよさ |  |
 | jpn-Jpan-JP | 曲げ強さ |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

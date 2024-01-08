@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? よ↑うしつ |  |
+| jpn-Hrkt-JP | ようしつ |  |
 | jpn-Jpan-JP | 溶質 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

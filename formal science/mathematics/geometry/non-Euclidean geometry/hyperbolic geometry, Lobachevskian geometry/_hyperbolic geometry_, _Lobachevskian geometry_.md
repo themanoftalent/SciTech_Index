@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _そ↑うきょくきか↓がく_、_ボ↓ヤイ・ロ↑バチェフス↓キーき↑か↓がく_ |
+| jpn-Hrkt-JP | _そうきょくきかがく_、_ボヤイ・ロバチェフスキーきかがく_ |
 | jpn-Jpan-JP | _双曲幾何学_、_ボヤイ・ロバチェフスキー幾何学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

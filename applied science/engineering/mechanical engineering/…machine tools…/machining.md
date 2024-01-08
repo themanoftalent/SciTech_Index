@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? き↑かいか↓こう |  |
+| jpn-Hrkt-JP | きかいかこう |  |
 | jpn-Jpan-JP | 機械加工 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

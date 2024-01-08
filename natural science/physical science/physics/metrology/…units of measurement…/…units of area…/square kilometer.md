@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? へ↑いほうキロメ↓ートル |  |
+| jpn-Hrkt-JP | へいほうキロメートル |  |
 | jpn-Jpan-JP | 平方キロメートル |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _ほ↑うそうこ↓うがく_ |
+| jpn-Hrkt-JP | _ほうそうこうがく_ |
 | jpn-Jpan-JP | _放送工学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? と↑うそくえんう↓んどう |  |
+| jpn-Hrkt-JP | とうそくえんうんどう |  |
 | jpn-Jpan-JP | 等速円運動 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

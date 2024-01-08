@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? さ↑いだいてんさ↓ようそしゅうごう |  |
+| jpn-Hrkt-JP | さいだいてんさようそしゅうごう |  |
 | jpn-Jpan-JP | 最大点作用素集合 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

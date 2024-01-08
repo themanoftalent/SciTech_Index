@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? サ↑イリ↓スタ |  |
+| jpn-Hrkt-JP | サイリスタ |  |
 | jpn-Jpan-JP | サイリスタ |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

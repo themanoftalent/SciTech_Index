@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? きゅ↑うねつは↓んのう |  |
+| jpn-Hrkt-JP | きゅうねつはんのう |  |
 | jpn-Jpan-JP | 吸熱反応 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

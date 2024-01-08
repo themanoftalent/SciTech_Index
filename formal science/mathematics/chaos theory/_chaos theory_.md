@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _カ↑オスり↓ろん_ |
+| jpn-Hrkt-JP | _カオスりろん_ |
 | jpn-Jpan-JP | _カオス理論_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

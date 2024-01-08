@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? じょうきあっしゅくれいとうき |  |
+| jpn-Hrkt-JP | じょうきあっしゅくれいとうき |  |
 | jpn-Jpan-JP | 蒸気圧縮冷凍機 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

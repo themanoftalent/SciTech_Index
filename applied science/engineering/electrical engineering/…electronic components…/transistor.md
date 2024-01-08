@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ト↑ランジ↓スター |  |
+| jpn-Hrkt-JP | トランジスター |  |
 | jpn-Jpan-JP | トランジスター |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

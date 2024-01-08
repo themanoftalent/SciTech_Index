@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? か↑くは↓んし |  |
+| jpn-Hrkt-JP | かくはんし |  |
 | jpn-Jpan-JP | 攪拌子 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

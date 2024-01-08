@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? テ↓イラーの↑て↓いり |  |
+| jpn-Hrkt-JP | テイラーのていり |  |
 | jpn-Jpan-JP | テイラーの定理 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

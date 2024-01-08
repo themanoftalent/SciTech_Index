@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _は↑かいりき↓がく_ |
+| jpn-Hrkt-JP | _はかいりきがく_ |
 | jpn-Jpan-JP | _破壊力学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

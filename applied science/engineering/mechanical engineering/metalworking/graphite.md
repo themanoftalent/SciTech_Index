@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? せ↑きぼく、グ↑ラファ↓イト、こ↑く↓えん |  |
+| jpn-Hrkt-JP | せきぼく、グラファイト、こくえん |  |
 | jpn-Jpan-JP | 石墨、グラファイト、黒鉛 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ひ↑つよう↓じゅ↑うぶんじょ↓うけん |  |
+| jpn-Hrkt-JP | ひつようじゅうぶんじょうけん |  |
 | jpn-Jpan-JP | 必要十分条件 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

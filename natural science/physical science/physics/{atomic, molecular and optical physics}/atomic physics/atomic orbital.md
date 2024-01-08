@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? げ↑んしオ↓ービタル、げ↑んしき↓どう |  |
+| jpn-Hrkt-JP | げんしオービタル、げんしきどう |  |
 | jpn-Jpan-JP | 原子オービタル、原子軌道 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

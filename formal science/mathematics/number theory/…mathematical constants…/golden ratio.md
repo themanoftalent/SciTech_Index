@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? お↑うご↓んひ |  |
+| jpn-Hrkt-JP | おうごんひ |  |
 | jpn-Jpan-JP | 黄金比 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

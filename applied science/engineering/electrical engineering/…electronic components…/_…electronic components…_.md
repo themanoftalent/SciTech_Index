@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _…で↑んしぶ↓ひん…_ |
+| jpn-Hrkt-JP | _…でんしぶひん…_ |
 | jpn-Jpan-JP | _…電子部品…_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

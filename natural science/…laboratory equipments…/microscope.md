@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? け↑んびきょう |  |
+| jpn-Hrkt-JP | けんびきょう |  |
 | jpn-Jpan-JP | 顕微鏡 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

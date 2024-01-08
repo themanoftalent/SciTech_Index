@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _し↑ぜんか↓がく_ |
+| jpn-Hrkt-JP | _しぜんかがく_ |
 | jpn-Jpan-JP | _自然科学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? れ↑いきゃ↓くきょ↑くせん |  |
+| jpn-Hrkt-JP | れいきゃくきょくせん |  |
 | jpn-Jpan-JP | 冷卻曲線 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

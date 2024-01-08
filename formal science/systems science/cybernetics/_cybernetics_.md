@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _サ↑イバネティ↓ックス_ |
+| jpn-Hrkt-JP | _サイバネティックス_ |
 | jpn-Jpan-JP | _サイバネティックス_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

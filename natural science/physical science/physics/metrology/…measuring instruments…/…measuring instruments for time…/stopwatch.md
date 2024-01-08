@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ストップウオッチ |  |
-| jpn-Jpan-JP | ス↑トップウオ↓ッチ |  |
+| jpn-Hrkt-JP | ストップウオッチ |  |
+| jpn-Jpan-JP | ストップウオッチ |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

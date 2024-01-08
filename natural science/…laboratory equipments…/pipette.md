@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ピ↑ペ↓ット |  |
+| jpn-Hrkt-JP | ピペット |  |
 | jpn-Jpan-JP | ピペット |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? さ↑いぼ↓うまく、け↑いしつ↓まく、プラズマメンブレン |  |
+| jpn-Hrkt-JP | さいぼうまく、けいしつまく、プラズマメンブレン |  |
 | jpn-Jpan-JP | 細胞膜、形質膜、プラズマメンブレン |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ひ↑ら↓け↑ずり↓ばん |  |
+| jpn-Hrkt-JP | ひらけずりばん |  |
 | jpn-Jpan-JP | 平削り盤 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

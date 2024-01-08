@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ほ↑うしゃエネル↓ギー |  |
+| jpn-Hrkt-JP | ほうしゃエネルギー |  |
 | jpn-Jpan-JP | 放射エネルギー |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

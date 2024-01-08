@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? シャ↓ーレ、ペ↓トリざら |  |
+| jpn-Hrkt-JP | シャーレ、ペトリざら |  |
 | jpn-Jpan-JP | シャーレ、ペトリ皿	 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

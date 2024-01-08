@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? じょ↓うぎと↑コ↓ンパスによるさ↑くず |  |
+| jpn-Hrkt-JP | じょうぎとコンパスによるさくず |  |
 | jpn-Jpan-JP | 定規とコンパスによる作図 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

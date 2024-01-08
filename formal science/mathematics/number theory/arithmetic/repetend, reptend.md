@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? じ↑ゅんか↓んぜつ |  |
+| jpn-Hrkt-JP | じゅんかんぜつ |  |
 | jpn-Jpan-JP | 循環節 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

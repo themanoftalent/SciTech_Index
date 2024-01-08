@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _ど↑ぼくこ↓うがく_ |
+| jpn-Hrkt-JP | _どぼくこうがく_ |
 | jpn-Jpan-JP | _土木工学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

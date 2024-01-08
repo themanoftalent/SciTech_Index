@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ち↑かんは↓んのう |  |
+| jpn-Hrkt-JP | ちかんはんのう |  |
 | jpn-Jpan-JP | 置換反応 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

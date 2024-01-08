@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? にゅ↓うばちと↑にゅ↓うぼう |  |
+| jpn-Hrkt-JP | にゅうばちとにゅうぼう |  |
 | jpn-Jpan-JP | 乳鉢と乳棒 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

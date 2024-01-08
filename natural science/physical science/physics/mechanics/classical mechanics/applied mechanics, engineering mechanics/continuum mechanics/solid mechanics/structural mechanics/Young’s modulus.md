@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? た↑てだんせいけ↓いすう、ヤングりつ |  |
+| jpn-Hrkt-JP | たてだんせいけいすう、ヤングりつ |  |
 | jpn-Jpan-JP | 縦弾性係数、ヤング率 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

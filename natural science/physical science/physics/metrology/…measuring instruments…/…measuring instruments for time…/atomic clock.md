@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? げ↑んしど↓けい |  |
+| jpn-Hrkt-JP | げんしどけい |  |
 | jpn-Jpan-JP | 原子時計 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

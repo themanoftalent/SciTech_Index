@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ぜ↓んか↑くりつのこうしき |  |
+| jpn-Hrkt-JP | ぜんかくりつのこうしき |  |
 | jpn-Jpan-JP | 全確率の公式 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? け↑んぜんせい |  |
+| jpn-Hrkt-JP | けんぜんせい |  |
 | jpn-Jpan-JP | 健全性 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

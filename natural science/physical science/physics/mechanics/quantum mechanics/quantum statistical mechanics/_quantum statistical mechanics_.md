@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _りょ↓うしと↑うけいりき↓がく_ |
+| jpn-Hrkt-JP | _りょうしとうけいりきがく_ |
 | jpn-Jpan-JP | _量子統計力学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

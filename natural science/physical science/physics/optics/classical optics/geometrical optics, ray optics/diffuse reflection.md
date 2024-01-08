@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? か↑くさんは↓んしゃ、ら↑んは↓んしゃ |  |
+| jpn-Hrkt-JP | かくさんはんしゃ、らんはんしゃ |  |
 | jpn-Jpan-JP | 拡散反射、乱反射 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

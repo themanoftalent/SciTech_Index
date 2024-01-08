@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ディ↑ップス↓イッチ |  |
+| jpn-Hrkt-JP | ディップスイッチ |  |
 | jpn-Jpan-JP | ディップスイッチ |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

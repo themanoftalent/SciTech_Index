@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? マ↓クスウェルのお↑うりょくテ↓ンソル |  |
+| jpn-Hrkt-JP | マクスウェルのおうりょくテンソル |  |
 | jpn-Jpan-JP | マクスウェルの応力テンソル |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

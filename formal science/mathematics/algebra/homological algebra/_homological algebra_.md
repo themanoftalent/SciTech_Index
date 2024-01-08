@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _ホ↑モロジ↓ーだいす↑うがく_ |
+| jpn-Hrkt-JP | _ホモロジーだいすうがく_ |
 | jpn-Jpan-JP | _ホモロジー代数学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

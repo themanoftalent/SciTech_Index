@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? こ↓うか |  |
+| jpn-Hrkt-JP | こうか |  |
 | jpn-Jpan-JP | 硬化 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ヘ↓ンリーのほ↑うそく |  |
+| jpn-Hrkt-JP | ヘンリーのほうそく |  |
 | jpn-Jpan-JP | ヘンリーの法則 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

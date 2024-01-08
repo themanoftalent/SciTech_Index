@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? さ↑んじゅつの↓き↑ほんて↓いり、そ↑いんすうぶ↓んかいのい↑ちいせい |  |
+| jpn-Hrkt-JP | さんじゅつのきほんていり、そいんすうぶんかいのいちいせい |  |
 | jpn-Jpan-JP | 算術の基本定理、素因数分解の一意性 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

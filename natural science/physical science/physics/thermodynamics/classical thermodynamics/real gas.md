@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? じ↑つざいき↓たい |  |
+| jpn-Hrkt-JP | じつざいきたい |  |
 | jpn-Jpan-JP | 実在気体 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

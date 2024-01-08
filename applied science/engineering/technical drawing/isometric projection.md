@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? と↑うかく↓ず、と↑うかくとうえ↓いず |  |
+| jpn-Hrkt-JP | とうかくず、とうかくとうえいず |  |
 | jpn-Jpan-JP | 等角図、等角投影図 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

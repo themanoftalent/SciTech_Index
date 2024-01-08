@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? だ↑っしゅつそ↓くど |  |
+| jpn-Hrkt-JP | だっしゅつそくど |  |
 | jpn-Jpan-JP | 脱出速度 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

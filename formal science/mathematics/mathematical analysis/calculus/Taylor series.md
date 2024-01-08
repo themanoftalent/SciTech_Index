@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? テ↑イラーきゅ↓うすう |  |
+| jpn-Hrkt-JP | テイラーきゅうすう |  |
 | jpn-Jpan-JP | テイラー級数 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

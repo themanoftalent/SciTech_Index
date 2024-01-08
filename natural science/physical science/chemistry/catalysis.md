@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? しょ↑くばいさ↓よう、せ↑っしょくは↓んのう |  |
+| jpn-Hrkt-JP | しょくばいさよう、せっしょくはんのう |  |
 | jpn-Jpan-JP | 触媒作用、接触反応 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

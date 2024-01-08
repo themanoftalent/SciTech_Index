@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? で↑んあつけい |  |
+| jpn-Hrkt-JP | でんあつけい |  |
 | jpn-Jpan-JP | 電圧計 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

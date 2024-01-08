@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? そ↑で↓んか、で↑んかそりょ↓う、で↑んきそ↓りょう |  |
+| jpn-Hrkt-JP | そでんか、でんかそりょう、でんきそりょう |  |
 | jpn-Jpan-JP | 素電荷、電荷素量、電気素量 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

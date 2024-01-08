@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? え↑いせい |  |
+| jpn-Hrkt-JP | えいせい |  |
 | jpn-Jpan-JP | 衛星 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

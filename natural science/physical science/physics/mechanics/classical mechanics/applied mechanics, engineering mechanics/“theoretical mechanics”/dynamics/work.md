@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? し↑ごと（り↑き↓がく） |  |
+| jpn-Hrkt-JP | しごと（りきがく） |  |
 | jpn-Jpan-JP | 仕事（力学） |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

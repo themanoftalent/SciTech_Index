@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? じょ↑うはつざら |  |
+| jpn-Hrkt-JP | じょうはつざら |  |
 | jpn-Jpan-JP | 蒸発皿 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

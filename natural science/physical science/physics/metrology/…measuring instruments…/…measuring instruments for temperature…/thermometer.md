@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? お↑んどけい |  |
+| jpn-Hrkt-JP | おんどけい |  |
 | jpn-Jpan-JP | 温度計 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

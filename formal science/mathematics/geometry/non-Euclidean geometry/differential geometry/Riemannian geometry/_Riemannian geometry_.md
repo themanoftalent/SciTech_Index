@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _リ↑ーマンきか↓がく_ |
+| jpn-Hrkt-JP | _リーマンきかがく_ |
 | jpn-Jpan-JP | _リーマン幾何学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

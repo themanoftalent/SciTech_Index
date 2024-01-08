@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? じょ↑へ↓んすう、ば↑いかいへ↓んすう、パ↑ラメ↓ータ |  |
+| jpn-Hrkt-JP | じょへんすう、ばいかいへんすう、パラメータ |  |
 | jpn-Jpan-JP | 助変数、媒介変数、パラメータ |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

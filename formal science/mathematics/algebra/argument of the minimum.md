@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? さ↑いしょうてんさ↓ようそしゅうごう |  |
+| jpn-Hrkt-JP | さいしょうてんさようそしゅうごう |  |
 | jpn-Jpan-JP | 最小点作用素集合 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

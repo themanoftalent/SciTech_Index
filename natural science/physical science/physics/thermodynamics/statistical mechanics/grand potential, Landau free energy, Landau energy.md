@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? グ↑ランドポテ↓ンシャル |  |
+| jpn-Hrkt-JP | グランドポテンシャル |  |
 | jpn-Jpan-JP | グランドポテンシャル |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _じ↑つか↓いせき_、_じ↑つかんすうろ↓ん_ |
+| jpn-Hrkt-JP | _じつかいせき_、_じつかんすうろん_ |
 | jpn-Jpan-JP | _実解析_、_実関数論_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

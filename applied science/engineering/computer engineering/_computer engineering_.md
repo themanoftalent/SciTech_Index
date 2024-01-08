@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _け↑いさんきこ↓うがく_、_コ↑ンピュータこ↓うがく_ |
+| jpn-Hrkt-JP | _けいさんきこうがく_、_コンピュータこうがく_ |
 | jpn-Jpan-JP | _計算機工学_、_コンピュータ工学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ベ↓イズの↑て↓いり、ベ↓イズのほ↑うそく |  |
+| jpn-Hrkt-JP | ベイズのていり、ベイズのほうそく |  |
 | jpn-Jpan-JP | ベイズの定理、ベイズの法則 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

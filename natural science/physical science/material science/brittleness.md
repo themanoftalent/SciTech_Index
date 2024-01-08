@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ぜ↑いせい |  |
+| jpn-Hrkt-JP | ぜいせい |  |
 | jpn-Jpan-JP | 脆性 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

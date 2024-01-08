@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ラ↓ミの↑て↓いり |  |
+| jpn-Hrkt-JP | ラミのていり |  |
 | jpn-Jpan-JP | ラミの定理 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

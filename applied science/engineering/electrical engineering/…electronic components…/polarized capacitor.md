@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ゆ↑うきょくせいコンデ↓ンサ |  |
+| jpn-Hrkt-JP | ゆうきょくせいコンデンサ |  |
 | jpn-Jpan-JP | 有極性コンデンサ |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

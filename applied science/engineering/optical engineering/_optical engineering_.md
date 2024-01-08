@@ -2,7 +2,7 @@
 |-|-|
 | arb-Arab-ZZ |  |
 | cmn-Hans-CN | _光学工程_ |
-| cmn-Latn-CN | _guāgxué gōngchéng_ |
+| cmn-Latn-CN | _guāngxué gōngchéng_ |
 | dan-Latn-DK |  |
 | deu-Latn-DE | _Optotechnik_, _technische Optik_ |
 | eng-Latn-US | _optical engineering_ |
@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _こ↑うこ↓うがく_ |
+| jpn-Hrkt-JP | _こうこうがく_ |
 | jpn-Jpan-JP | _光工学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

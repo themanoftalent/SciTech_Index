@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? は↑いたてきろんり↓わ |  |
+| jpn-Hrkt-JP | はいたてきろんりわ |  |
 | jpn-Jpan-JP | 排他的論理和 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

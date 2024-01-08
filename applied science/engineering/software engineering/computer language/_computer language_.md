@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _コ↑ンピュータげ↓んご_ |
+| jpn-Hrkt-JP | _コンピュータげんご_ |
 | jpn-Jpan-JP | _コンピュータ言語_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

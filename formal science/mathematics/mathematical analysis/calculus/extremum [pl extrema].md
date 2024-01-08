@@ -5,7 +5,7 @@
 | cmn-Latn-CN |  |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
-| eng-Latn-US | extremum [pl extrema] |  |
+| eng-Latn-US | extremum [extrema] |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

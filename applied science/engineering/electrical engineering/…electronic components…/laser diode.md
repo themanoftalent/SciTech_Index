@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? レ↑ーザダイオ↓ード、レ↑ーザーダイオ↓ード |  |
+| jpn-Hrkt-JP | レーザダイオード、レーザーダイオード |  |
 | jpn-Jpan-JP | レーザダイオード、レーザーダイオード |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

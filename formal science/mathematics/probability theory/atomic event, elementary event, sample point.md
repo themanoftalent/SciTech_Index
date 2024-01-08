@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? こ↑んげんじ↓しょう、げ↑んしじ↓しょう |  |
+| jpn-Hrkt-JP | こんげんじしょう、げんしじしょう |  |
 | jpn-Jpan-JP | 根元事象、原子事象 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

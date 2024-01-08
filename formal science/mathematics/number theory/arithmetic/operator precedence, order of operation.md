@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? え↑んざ↓んしのゆ↑うせんじゅ↓んい |  |
+| jpn-Hrkt-JP | えんざんしのゆうせんじゅんい |  |
 | jpn-Jpan-JP | 演算子の優先順位 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

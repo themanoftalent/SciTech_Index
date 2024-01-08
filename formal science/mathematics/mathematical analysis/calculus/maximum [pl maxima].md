@@ -5,7 +5,7 @@
 | cmn-Latn-CN |  |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
-| eng-Latn-US | maximum [pl maxima] |  |
+| eng-Latn-US | maximum [maxima] |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

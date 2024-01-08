@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ねつきかん |  |
+| jpn-Hrkt-JP | ねつきかん |  |
 | jpn-Jpan-JP | 熱機関 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? せ↑んだ↓んき |  |
+| jpn-Hrkt-JP | せんだんき |  |
 | jpn-Jpan-JP | 剪断機 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

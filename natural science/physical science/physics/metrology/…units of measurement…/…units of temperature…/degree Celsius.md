@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? せ↑っし↓ど、セ↑ルシウス↓ど |  |
+| jpn-Hrkt-JP | せっしど、セルシウスど |  |
 | jpn-Jpan-JP | 摂氏度、セルシウス度 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

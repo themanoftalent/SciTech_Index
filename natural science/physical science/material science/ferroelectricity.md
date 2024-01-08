@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? きょ↑うゆうでんせ↓い |  |
+| jpn-Hrkt-JP | きょうゆうでんせい |  |
 | jpn-Jpan-JP | 強誘電性 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

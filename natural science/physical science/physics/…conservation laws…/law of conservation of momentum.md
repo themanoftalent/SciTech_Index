@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? う↑んど↓うりょうほ↑ぞ↓んそく、う↑んど↓うりょうほ↑ぞんのほうそく |  |
+| jpn-Hrkt-JP | うんどうりょうほぞんそく、うんどうりょうほぞんのほうそく |  |
 | jpn-Jpan-JP | 運動量保存則、運動量保存の法則 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

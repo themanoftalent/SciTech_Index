@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? デ↑ナビット‐ハーテンバーグへ↓んかん |  |
+| jpn-Hrkt-JP | デナビット‐ハーテンバーグへんかん |  |
 | jpn-Jpan-JP | デナビット‐ハーテンバーグ変換 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

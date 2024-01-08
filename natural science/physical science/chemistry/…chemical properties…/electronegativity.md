@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? で↑んきいんせ↓いど |  |
+| jpn-Hrkt-JP | でんきいんせいど |  |
 | jpn-Jpan-JP | 電気陰性度 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ダ↑イオ↓ード |  |
+| jpn-Hrkt-JP | ダイオード |  |
 | jpn-Jpan-JP | ダイオード |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

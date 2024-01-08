@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? た↑いようこ↓くてん |  |
+| jpn-Hrkt-JP | たいようこくてん |  |
 | jpn-Jpan-JP | 太陽黒点 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

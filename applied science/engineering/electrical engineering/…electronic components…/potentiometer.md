@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? で↑んいさけい |  |
+| jpn-Hrkt-JP | でんいさけい |  |
 | jpn-Jpan-JP | 電位差計 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ミ↑リグ↓ラム |  |
+| jpn-Hrkt-JP | ミリグラム |  |
 | jpn-Jpan-JP | ミリグラム |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

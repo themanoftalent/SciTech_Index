@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? い↑しゅき↓んぞくせ↑っしょくふ↓しょく |  |
+| jpn-Hrkt-JP | いしゅきんぞくせっしょくふしょく |  |
 | jpn-Jpan-JP | 異種金属接触腐食 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

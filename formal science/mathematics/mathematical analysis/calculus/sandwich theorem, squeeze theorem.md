@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? は↑さみ↓うちの↑げ↓んり |  |
+| jpn-Hrkt-JP | はさみうちのげんり |  |
 | jpn-Jpan-JP | 挟み撃ちの原理 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

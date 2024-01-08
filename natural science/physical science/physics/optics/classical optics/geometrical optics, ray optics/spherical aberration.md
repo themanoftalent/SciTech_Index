@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? き↑ゅうめんしゅ↓うさ |  |
+| jpn-Hrkt-JP | きゅうめんしゅうさ |  |
 | jpn-Jpan-JP | 球面収差 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

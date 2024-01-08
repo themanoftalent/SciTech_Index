@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? しゅ↑んかんちゅうしん |  |
+| jpn-Hrkt-JP | しゅんかんちゅうしん |  |
 | jpn-Jpan-JP | 瞬間中心 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

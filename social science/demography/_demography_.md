@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _じ↑んこうとうけ↓いがく_ |
+| jpn-Hrkt-JP | _じんこうとうけいがく_ |
 | jpn-Jpan-JP | _人口統計学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _か↑いせきりき↓がく_ |
+| jpn-Hrkt-JP | _かいせきりきがく_ |
 | jpn-Jpan-JP | _解析力学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

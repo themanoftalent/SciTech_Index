@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ね↑んりょうで↓んち |  |
+| jpn-Hrkt-JP | ねんりょうでんち |  |
 | jpn-Jpan-JP | 燃料電池 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

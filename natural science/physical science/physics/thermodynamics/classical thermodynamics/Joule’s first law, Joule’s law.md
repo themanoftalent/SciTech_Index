@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ジ↓ュールのほ↑うそく |  |
+| jpn-Hrkt-JP | ジュールのほうそく |  |
 | jpn-Jpan-JP | ジュールの法則 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

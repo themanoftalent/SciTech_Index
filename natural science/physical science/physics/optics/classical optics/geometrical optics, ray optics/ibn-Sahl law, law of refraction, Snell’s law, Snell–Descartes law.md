@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? スネルのほうそく |  |
+| jpn-Hrkt-JP | スネルのほうそく |  |
 | jpn-Jpan-JP | スネルの法則 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

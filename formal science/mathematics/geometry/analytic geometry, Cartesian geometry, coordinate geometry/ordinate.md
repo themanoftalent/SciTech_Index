@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? た↑てざ↓ひょう |  |
+| jpn-Hrkt-JP | たてざひょう |  |
 | jpn-Jpan-JP | 縦座標 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? で↑んじパ↓ルス |  |
+| jpn-Hrkt-JP | でんじパルス |  |
 | jpn-Jpan-JP | 電磁パルス |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

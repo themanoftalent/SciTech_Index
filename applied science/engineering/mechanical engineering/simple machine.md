@@ -10,7 +10,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? た↑んじゅんき↓かい |  |
+| jpn-Hrkt-JP | たんじゅんきかい |  |
 | jpn-Jpan-JP | 単純機械 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

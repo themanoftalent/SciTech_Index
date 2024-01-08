@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? こ↑うさくき↓かい |  |
+| jpn-Hrkt-JP | こうさくきかい |  |
 | jpn-Jpan-JP | 工作機械 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

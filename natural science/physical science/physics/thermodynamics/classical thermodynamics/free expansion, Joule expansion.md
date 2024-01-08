@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? じ↑ゆうぼ↓うちょう |  |
+| jpn-Hrkt-JP | じゆうぼうちょう |  |
 | jpn-Jpan-JP | 自由膨張 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? パ↑スカ↓リン |  |
+| jpn-Hrkt-JP | パスカリン |  |
 | jpn-Jpan-JP | パスカリン |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

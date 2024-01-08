@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? か↑くぶ↓んれつ、か↑くぶんれつは↓んのう、げ↓んしか↑くぶ↓んれつ |  |
+| jpn-Hrkt-JP | かくぶんれつ、かくぶんれつはんのう、げんしかくぶんれつ |  |
 | jpn-Jpan-JP | 核分裂、核分裂反応、原子核分裂 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

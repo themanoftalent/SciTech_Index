@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? こ↑うし↓んしき、ト↑ート↓ロジー |  |
+| jpn-Hrkt-JP | こうしんしき、トートロジー |  |
 | jpn-Jpan-JP | 恒真式、トートロジー |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

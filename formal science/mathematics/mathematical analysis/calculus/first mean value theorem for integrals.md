@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? せ↑きぶんのだ↓いい↑ちへいきんちて↓いり |  |
+| jpn-Hrkt-JP | せきぶんのだいいちへいきんちていり |  |
 | jpn-Jpan-JP | 積分の第一平均値定理 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

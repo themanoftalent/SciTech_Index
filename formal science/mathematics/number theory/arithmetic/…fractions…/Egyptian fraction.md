@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? エ↑ジプトしきぶ↓んすう、エ↑ジプトぶ↓んすう |  |
+| jpn-Hrkt-JP | エジプトしきぶんすう、エジプトぶんすう |  |
 | jpn-Jpan-JP | エジプト式分数、エジプト分数 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

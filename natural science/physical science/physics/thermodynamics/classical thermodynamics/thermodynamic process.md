@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ね↑つりき↓がくプ↑ロ↓セス、ね↑つりき↓がくてきか↑てい |  |
+| jpn-Hrkt-JP | ねつりきがくプロセス、ねつりきがくてきかてい |  |
 | jpn-Jpan-JP | 熱力学プロセス、熱力学的過程 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

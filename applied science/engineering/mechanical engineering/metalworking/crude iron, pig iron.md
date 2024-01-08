@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? せ↑んてつ |  |
+| jpn-Hrkt-JP | せんてつ |  |
 | jpn-Jpan-JP | 銑鉄 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

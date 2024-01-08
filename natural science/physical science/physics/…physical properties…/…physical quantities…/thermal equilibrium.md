@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ね↑つへ↓いこう |  |
+| jpn-Hrkt-JP | ねつへいこう |  |
 | jpn-Jpan-JP | 熱平衡 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

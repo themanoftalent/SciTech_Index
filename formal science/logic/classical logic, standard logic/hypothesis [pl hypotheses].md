@@ -5,13 +5,13 @@
 | cmn-Latn-CN | jiǎshō |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Hypothese |  |
-| eng-Latn-US | hypothesis [pl hypotheses] |  |
+| eng-Latn-US | hypothesis [hypotheses] |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | hypothèse [f] |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? か↑せつ |  |
+| jpn-Hrkt-JP | かせつ |  |
 | jpn-Jpan-JP | 仮説 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

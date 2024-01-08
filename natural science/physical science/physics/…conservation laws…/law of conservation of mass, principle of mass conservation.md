@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? し↑つりょうほ↓ぞんのほ↑うそく |  |
+| jpn-Hrkt-JP | しつりょうほぞんのほうそく |  |
 | jpn-Jpan-JP | 質量保存の法則 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? エ↑ア↓ロゾル |  |
+| jpn-Hrkt-JP | エアロゾル |  |
 | jpn-Jpan-JP | エアロゾル |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

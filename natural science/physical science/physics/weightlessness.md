@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? む↑じゅうりょうじょ↓うたい |  |
+| jpn-Hrkt-JP | むじゅうりょうじょうたい |  |
 | jpn-Jpan-JP | 無重量状態 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

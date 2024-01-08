@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ね↑つりき↓がくてきじょ↓うたい |  |
+| jpn-Hrkt-JP | ねつりきがくてきじょうたい |  |
 | jpn-Jpan-JP | 熱力学的状態 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

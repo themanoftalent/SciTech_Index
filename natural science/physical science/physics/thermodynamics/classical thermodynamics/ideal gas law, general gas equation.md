@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? り↑そうき↓たいのじょ↑うたいほうて↓いしき |  |
+| jpn-Hrkt-JP | りそうきたいのじょうたいほうていしき |  |
 | jpn-Jpan-JP | 理想気体の状態方程式 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? け↑いさ↓んきイプシロン、き↓かいイプシロン |  |
+| jpn-Hrkt-JP | けいさんきイプシロン、きかいイプシロン |  |
 | jpn-Jpan-JP | 計算機イプシロン、機械イプシロン |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

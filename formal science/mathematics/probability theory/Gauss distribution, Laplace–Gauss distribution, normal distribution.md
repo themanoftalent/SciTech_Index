@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ガ↑ウスぶ↓んぷ、せ↑いきぶ↓んぷ |  |
+| jpn-Hrkt-JP | ガウスぶんぷ、せいきぶんぷ |  |
 | jpn-Jpan-JP | ガウス分布、正規分布 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

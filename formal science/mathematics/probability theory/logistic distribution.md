@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ロ↑ジスティックぶ↓んぷ |  |
+| jpn-Hrkt-JP | ロジスティックぶんぷ |  |
 | jpn-Jpan-JP | ロジスティック分布 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

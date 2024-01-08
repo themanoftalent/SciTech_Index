@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? へ↑いほうマイクロメ↓ートル |  |
+| jpn-Hrkt-JP | へいほうマイクロメートル |  |
 | jpn-Jpan-JP | 平方マイクロメートル |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? サ↑ーミ↓スタ |  |
+| jpn-Hrkt-JP | サーミスタ |  |
 | jpn-Jpan-JP | サーミスタ |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

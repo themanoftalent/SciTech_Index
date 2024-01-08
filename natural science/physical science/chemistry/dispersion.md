@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ぶ↑んさんけい |  |
+| jpn-Hrkt-JP | ぶんさんけい |  |
 | jpn-Jpan-JP | 分散系 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

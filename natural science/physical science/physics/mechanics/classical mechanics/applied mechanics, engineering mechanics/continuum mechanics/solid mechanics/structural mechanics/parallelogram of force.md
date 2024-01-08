@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ち↑から↓のへい↑こうしへんけ↓い |  |
+| jpn-Hrkt-JP | ちからのへいこうしへんけい |  |
 | jpn-Jpan-JP | 力の平行四辺形 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

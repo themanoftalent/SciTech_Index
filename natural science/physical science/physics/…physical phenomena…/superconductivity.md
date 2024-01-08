@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ちょ↑うでんどう |  |
+| jpn-Hrkt-JP | ちょうでんどう |  |
 | jpn-Jpan-JP | 超伝導 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

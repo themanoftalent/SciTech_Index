@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? さ↑んかかんげんは↓んのう、レ↑ド↓ックス |  |
+| jpn-Hrkt-JP | さんかかんげんはんのう、レドックス |  |
 | jpn-Jpan-JP | 酸化還元反応、レドックス |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

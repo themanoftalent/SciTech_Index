@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? て↑んもんた↓んい |  |
+| jpn-Hrkt-JP | てんもんたんい |  |
 | jpn-Jpan-JP | 天文単位 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

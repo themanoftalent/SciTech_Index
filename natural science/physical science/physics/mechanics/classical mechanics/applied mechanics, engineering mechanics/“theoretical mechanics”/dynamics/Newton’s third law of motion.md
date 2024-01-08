@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? うんどうのだいさんほうそく、さ↓よう・は↑んさ↓ようのほ↑うそく |  |
+| jpn-Hrkt-JP | うんどうのだいさんほうそく、さよう・はんさようのほうそく |  |
 | jpn-Jpan-JP | 運動の第3法則、作用・反作用の法則 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

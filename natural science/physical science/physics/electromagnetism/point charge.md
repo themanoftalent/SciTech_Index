@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? て↑んで↓んか |  |
+| jpn-Hrkt-JP | てんでんか |  |
 | jpn-Jpan-JP | 点電荷 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? さ↑いせいかのうエ↓ネルギー |  |
+| jpn-Hrkt-JP | さいせいかのうエネルギー |  |
 | jpn-Jpan-JP | 再生可能エネルギー |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

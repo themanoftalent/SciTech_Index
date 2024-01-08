@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? か↑んそうま↓さつ |  |
+| jpn-Hrkt-JP | かんそうまさつ |  |
 | jpn-Jpan-JP | 乾燥摩擦 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

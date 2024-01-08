@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? こ↑んせいき↓どう |  |
+| jpn-Hrkt-JP | こんせいきどう |  |
 | jpn-Jpan-JP | 混成軌道 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? エ↑ネルギーほぞ↓んのほ↑うそく、エ↑ネルギーほぞ↓んそく |  |
+| jpn-Hrkt-JP | エネルギーほぞんのほうそく、エネルギーほぞんそく |  |
 | jpn-Jpan-JP | エネルギー保存の法則、エネルギー保存則 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ブ↑リッジか↓いろ |  |
+| jpn-Hrkt-JP | ブリッジかいろ |  |
 | jpn-Jpan-JP | ブリッジ回路 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

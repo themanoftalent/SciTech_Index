@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ト↑ンネルダイオ↓ード、え↑さきダイオ↓ード |  |
+| jpn-Hrkt-JP | トンネルダイオード、えさきダイオード |  |
 | jpn-Jpan-JP | トンネルダイオード、江崎ダイオード |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

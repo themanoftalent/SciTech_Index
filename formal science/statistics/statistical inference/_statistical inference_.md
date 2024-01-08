@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _す↑いけいと↓うけい_、_と↑うけいてきすいろん_ |
+| jpn-Hrkt-JP | _すいけいとうけい_、_とうけいてきすいろん_ |
 | jpn-Jpan-JP | _推計統計_、_統計的推論_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? じょ↑うこうせん |  |
+| jpn-Hrkt-JP | じょうこうせん |  |
 | jpn-Jpan-JP | 常光線 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

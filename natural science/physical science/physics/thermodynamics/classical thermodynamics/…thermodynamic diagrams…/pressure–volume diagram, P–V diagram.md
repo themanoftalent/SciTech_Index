@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? あ↑つ↓りょくー↑よ↓うせきず、ピ↑ーブイせ↓んず |  |
+| jpn-Hrkt-JP | あつりょくーようせきず、ピーブイせんず |  |
 | jpn-Jpan-JP | 圧力-容積図、PV線図 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

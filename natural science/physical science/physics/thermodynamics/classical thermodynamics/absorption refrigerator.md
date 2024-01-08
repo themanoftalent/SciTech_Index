@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? きゅうしゅうしきれいとうき |  |
+| jpn-Hrkt-JP | きゅうしゅうしきれいとうき |  |
 | jpn-Jpan-JP | 吸収式冷凍機 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

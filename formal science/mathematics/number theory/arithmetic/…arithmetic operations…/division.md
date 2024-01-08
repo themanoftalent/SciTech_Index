@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? じょ↑ざん、じょ↑ほう、わ↑りざん↓ |  |
+| jpn-Hrkt-JP | じょざん、じょほう、わりざん |  |
 | jpn-Jpan-JP | 除算、除法、割り算 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? す↓いそイ↑オンし↓すう、す↑いそイ↓オンの↑うどし↓すう  |  |
+| jpn-Hrkt-JP | すいそイオンしすう、すいそイオンのうどしすう  |  |
 | jpn-Jpan-JP | 水素イオン指数、水素イオン濃度指数 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

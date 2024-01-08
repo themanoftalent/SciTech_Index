@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _た↑へ↓んすうか↑いせき↓がく_、_た↑へ↓んすうび↑ぶんせきぶ↓んがく_ |
+| jpn-Hrkt-JP | _たへんすうかいせきがく_、_たへんすうびぶんせきぶんがく_ |
 | jpn-Jpan-JP | _多変数解析学_、_多変数微分積分学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

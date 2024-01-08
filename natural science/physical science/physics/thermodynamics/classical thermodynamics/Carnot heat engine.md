@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? カ↑ルノーき↓かん |  |
+| jpn-Hrkt-JP | カルノーきかん |  |
 | jpn-Jpan-JP | カルノー機関 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

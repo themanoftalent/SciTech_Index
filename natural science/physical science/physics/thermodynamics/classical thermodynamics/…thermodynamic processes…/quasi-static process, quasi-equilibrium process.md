@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? じゅ↓んせ↑いてきか↓てい |  |
+| jpn-Hrkt-JP | じゅんせいてきかてい |  |
 | jpn-Jpan-JP | 準静的過程 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

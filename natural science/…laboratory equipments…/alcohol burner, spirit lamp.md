@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ア↑ルコールラ↓ンプ |  |
+| jpn-Hrkt-JP | アルコールランプ |  |
 | jpn-Jpan-JP | アルコールランプ |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

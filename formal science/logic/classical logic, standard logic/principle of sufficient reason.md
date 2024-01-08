@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? じゅ↑うそくりゆ↓うりつ |  |
+| jpn-Hrkt-JP | じゅうそくりゆうりつ |  |
 | jpn-Jpan-JP | 充足理由律 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

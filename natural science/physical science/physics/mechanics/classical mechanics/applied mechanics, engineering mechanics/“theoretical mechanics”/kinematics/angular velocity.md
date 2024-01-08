@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? か↑くそ↓くど |  |
+| jpn-Hrkt-JP | かくそくど |  |
 | jpn-Jpan-JP | 角速度 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

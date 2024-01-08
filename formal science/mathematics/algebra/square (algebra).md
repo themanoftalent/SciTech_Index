@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? じじょう、にじょう、へいほう |  |
+| jpn-Hrkt-JP | じじょう、にじょう、へいほう |  |
 | jpn-Jpan-JP | 自乗、二乗、平方 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

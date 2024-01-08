@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ソ↑ーラーエネル↓ギー、た↑いようエネル↓ギー |  |
+| jpn-Hrkt-JP | ソーラーエネルギー、たいようエネルギー |  |
 | jpn-Jpan-JP | ソーラーエネルギー、太陽エネルギー |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

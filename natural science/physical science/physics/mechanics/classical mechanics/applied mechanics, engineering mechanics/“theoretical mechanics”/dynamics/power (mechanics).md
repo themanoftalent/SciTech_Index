@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? し↑ごと↓りつ、こ↑うりつ、パ↓ワー |  |
+| jpn-Hrkt-JP | しごとりつ、こうりつ、パワー |  |
 | jpn-Jpan-JP | 仕事率、工率、パワー |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

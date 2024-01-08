@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? か↑ねんせい |  |
+| jpn-Hrkt-JP | かねんせい |  |
 | jpn-Jpan-JP | 可燃性 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

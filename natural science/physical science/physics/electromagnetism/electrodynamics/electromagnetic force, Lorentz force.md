@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ロ↑ーレンツ↓りょく |  |
+| jpn-Hrkt-JP | ローレンツりょく |  |
 | jpn-Jpan-JP | ローレンツ力 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

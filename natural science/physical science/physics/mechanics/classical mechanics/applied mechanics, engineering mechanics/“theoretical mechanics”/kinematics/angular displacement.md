@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? へ↑んいか↓くど |  |
+| jpn-Hrkt-JP | へんいかくど |  |
 | jpn-Jpan-JP | 偏位角度 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

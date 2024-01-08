@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? さ↑んえ↓んきし↑じ↓やく |  |
+| jpn-Hrkt-JP | さんえんきしじやく |  |
 | jpn-Jpan-JP | 酸塩基指示薬 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

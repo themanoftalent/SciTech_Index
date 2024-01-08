@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? と↑ういつげ↓んしし↑つりょうた↓んい、ダ↓ルトン |  |
+| jpn-Hrkt-JP | とういつげんししつりょうたんい、ダルトン |  |
 | jpn-Jpan-JP | 統一原子質量単位、ダルトン |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

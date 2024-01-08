@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? キ↑ログ↓ラム、キ↓ロ |  |
+| jpn-Hrkt-JP | キログラム、キロ |  |
 | jpn-Jpan-JP | キログラム、キロ |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

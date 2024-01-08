@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ビュ↑レ↓ット |  |
+| jpn-Hrkt-JP | ビュレット |  |
 | jpn-Jpan-JP | ビュレット |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

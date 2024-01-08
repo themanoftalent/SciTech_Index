@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _…け↑いそくき↓き…_ |
+| jpn-Hrkt-JP | _…けいそくきき…_ |
 | jpn-Jpan-JP | _…計測機器…_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

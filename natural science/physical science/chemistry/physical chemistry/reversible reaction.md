@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? か↑ぎゃくは↓んのう |  |
+| jpn-Hrkt-JP | かぎゃくはんのう |  |
 | jpn-Jpan-JP | 可逆反応 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

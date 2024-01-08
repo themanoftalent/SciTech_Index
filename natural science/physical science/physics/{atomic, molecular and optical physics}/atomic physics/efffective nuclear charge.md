@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ゆ↑うこうかくで↓んか |  |
+| jpn-Hrkt-JP | ゆうこうかくでんか |  |
 | jpn-Jpan-JP | 有効核電荷 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _け↑いさんかのうせいり↓ろん_ |
+| jpn-Hrkt-JP | _けいさんかのうせいりろん_ |
 | jpn-Jpan-JP | _計算可能性理論_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

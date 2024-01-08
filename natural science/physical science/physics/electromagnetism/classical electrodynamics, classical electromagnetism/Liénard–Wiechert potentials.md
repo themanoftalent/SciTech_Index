@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? リ↑エナール・ヴィーヘルト・ポテ↓ンシャル |  |
+| jpn-Hrkt-JP | リエナール・ヴィーヘルト・ポテンシャル |  |
 | jpn-Jpan-JP | リエナール・ヴィーヘルト・ポテンシャル |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

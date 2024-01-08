@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _れ↑んぞくたいりき↓がく_ |
+| jpn-Hrkt-JP | _れんぞくたいりきがく_ |
 | jpn-Jpan-JP | _連続体力学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

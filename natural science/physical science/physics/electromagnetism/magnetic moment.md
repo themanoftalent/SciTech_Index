@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? じ↑きモ↓ーメント |  |
+| jpn-Hrkt-JP | じきモーメント |  |
 | jpn-Jpan-JP | 磁気モーメント |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

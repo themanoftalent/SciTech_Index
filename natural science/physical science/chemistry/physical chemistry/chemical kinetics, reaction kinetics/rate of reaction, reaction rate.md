@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? は↑んのうそ↓くど |  |
+| jpn-Hrkt-JP | はんのうそくど |  |
 | jpn-Jpan-JP | 反応速度 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

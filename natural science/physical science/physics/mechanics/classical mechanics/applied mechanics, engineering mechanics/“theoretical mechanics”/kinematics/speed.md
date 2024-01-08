@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? は↓やさ |  |
+| jpn-Hrkt-JP | はやさ |  |
 | jpn-Jpan-JP | 速さ |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

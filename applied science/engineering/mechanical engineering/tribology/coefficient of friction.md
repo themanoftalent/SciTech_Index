@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ま↑さつけ↓いすう |  |
+| jpn-Hrkt-JP | まさつけいすう |  |
 | jpn-Jpan-JP | 摩擦係数 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

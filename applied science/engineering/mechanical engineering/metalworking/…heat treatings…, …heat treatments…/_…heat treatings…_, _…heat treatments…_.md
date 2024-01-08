@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _…ね↑つしょ↓り…_ |
+| jpn-Hrkt-JP | _…ねつしょり…_ |
 | jpn-Jpan-JP | _…熱処理…_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

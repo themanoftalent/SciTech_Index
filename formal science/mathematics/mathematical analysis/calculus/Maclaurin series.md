@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? マ↑クローリンきゅ↓うすう |  |
+| jpn-Hrkt-JP | マクローリンきゅうすう |  |
 | jpn-Jpan-JP | マクローリン級数 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

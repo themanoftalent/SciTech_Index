@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ブ↑ンゼンバ↓ーナー |  |
+| jpn-Hrkt-JP | ブンゼンバーナー |  |
 | jpn-Jpan-JP | ブンゼンバーナー |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

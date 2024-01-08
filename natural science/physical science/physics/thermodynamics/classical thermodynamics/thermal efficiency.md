@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ね↑つこ↓うりつ |  |
+| jpn-Hrkt-JP | ねつこうりつ |  |
 | jpn-Jpan-JP | 熱効率 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

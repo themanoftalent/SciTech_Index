@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? お↑しこ↓みか↑たさ |  |
+| jpn-Hrkt-JP | おしこみかたさ |  |
 | jpn-Jpan-JP | 押込み硬さ |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

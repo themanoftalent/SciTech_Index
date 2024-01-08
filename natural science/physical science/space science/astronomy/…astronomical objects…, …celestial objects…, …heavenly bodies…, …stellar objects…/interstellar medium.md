@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? せ↑いかんぶ↓っしつ |  |
+| jpn-Hrkt-JP | せいかんぶっしつ |  |
 | jpn-Jpan-JP | 星間物質 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

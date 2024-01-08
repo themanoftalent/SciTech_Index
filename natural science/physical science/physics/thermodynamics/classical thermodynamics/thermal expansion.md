@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ね↑つぼ↓うちょう |  |
+| jpn-Hrkt-JP | ねつぼうちょう |  |
 | jpn-Jpan-JP | 熱膨張 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

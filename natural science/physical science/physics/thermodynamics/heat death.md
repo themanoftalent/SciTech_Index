@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ねっ↑てきし |  |
+| jpn-Hrkt-JP | ねってきし |  |
 | jpn-Jpan-JP | 熱的死 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

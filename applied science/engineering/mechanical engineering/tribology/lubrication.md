@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? じゅ↑んかつ |  |
+| jpn-Hrkt-JP | じゅんかつ |  |
 | jpn-Jpan-JP | 潤滑 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

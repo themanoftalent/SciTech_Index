@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _ほ↑うしゃそ↓くてい_ |
+| jpn-Hrkt-JP | _ほうしゃそくてい_ |
 | jpn-Jpan-JP | _放射測定_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

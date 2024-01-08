@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? じょ↓うき |  |
+| jpn-Hrkt-JP | じょうき |  |
 | jpn-Jpan-JP | 蒸気 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

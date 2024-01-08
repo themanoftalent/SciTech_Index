@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? で↑んせん |  |
+| jpn-Hrkt-JP | でんせん |  |
 | jpn-Jpan-JP | 電線 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

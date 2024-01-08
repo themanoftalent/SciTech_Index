@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? げ↑んしか↓か↑くでんしつ↓いは↑んぱつ↓そく |  |
+| jpn-Hrkt-JP | げんしかかくでんしついはんぱつそく |  |
 | jpn-Jpan-JP | 原子価殻電子対反発則 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

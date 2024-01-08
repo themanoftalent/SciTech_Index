@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ふ↑くそきょ↓うやく |  |
+| jpn-Hrkt-JP | ふくそきょうやく |  |
 | jpn-Jpan-JP | 複素共役 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

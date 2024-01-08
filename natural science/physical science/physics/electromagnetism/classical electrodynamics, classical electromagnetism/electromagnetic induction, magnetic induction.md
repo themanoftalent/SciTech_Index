@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? で↑んじゆ↓うどう |  |
+| jpn-Hrkt-JP | でんじゆうどう |  |
 | jpn-Jpan-JP | 電磁誘導 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

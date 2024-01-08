@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? パ↓スカルのほ↑うそく |  |
+| jpn-Hrkt-JP | パスカルのほうそく |  |
 | jpn-Jpan-JP | パスカルの法則 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? エ↓ンジン、き↓かん、モ↓ーター |  |
+| jpn-Hrkt-JP | エンジン、きかん、モーター |  |
 | jpn-Jpan-JP | 燃焼室 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

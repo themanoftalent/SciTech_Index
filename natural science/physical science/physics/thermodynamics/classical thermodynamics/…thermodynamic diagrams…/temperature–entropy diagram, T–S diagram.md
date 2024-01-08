@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? お↓んどーエ↑ントロピ↓ーず, ティ↑ーエスせ↓んず |  |
+| jpn-Hrkt-JP | おんどーエントロピーず, ティーエスせんず |  |
 | jpn-Jpan-JP | 温度-エントロピー図、TS線図 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

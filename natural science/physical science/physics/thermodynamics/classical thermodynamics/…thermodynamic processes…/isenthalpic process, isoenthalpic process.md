@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? と↑うエンタルピーか↓てい |  |
+| jpn-Hrkt-JP | とうエンタルピーかてい |  |
 | jpn-Jpan-JP | 等エンタルピー過程 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

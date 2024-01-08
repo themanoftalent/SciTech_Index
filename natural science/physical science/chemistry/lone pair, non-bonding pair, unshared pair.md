@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? こ↑りつでんしつ↓い、ひ↑↑きょうゆうでんしつ↓い |  |
+| jpn-Hrkt-JP | こりつでんしつい、ひきょうゆうでんしつい |  |
 | jpn-Jpan-JP | 孤立電子対、非共有電子対 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _シ↑ステムか↓がく_ |
+| jpn-Hrkt-JP | _システムかがく_ |
 | jpn-Jpan-JP | _システム科学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

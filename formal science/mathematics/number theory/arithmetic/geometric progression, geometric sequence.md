@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? き↑かす↓うれつ、と↑うひす↓うれつ |  |
+| jpn-Hrkt-JP | きかすうれつ、とうひすうれつ |  |
 | jpn-Jpan-JP | 幾何数列、等比数列 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

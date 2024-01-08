@@ -9,7 +9,7 @@
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | relation de Gibbs-Duhem |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ギ↑ブズ・デュエムの式 |  |
+| jpn-Hrkt-JP | ギブズ・デュエムの式 |  |
 | jpn-Jpan-JP | ギブズ・デュエムの式 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

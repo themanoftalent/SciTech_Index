@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? お↓うりょく-ひ↑ずみきょ↓くせん、お↓うりょく-ひ↑ずみせ↓んず |  |
+| jpn-Hrkt-JP | おうりょく-ひずみきょくせん、おうりょく-ひずみせんず |  |
 | jpn-Jpan-JP | 応力-ひずみ曲線、応力-ひずみ線図 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

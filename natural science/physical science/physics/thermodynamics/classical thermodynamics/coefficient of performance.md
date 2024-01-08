@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? せ↑いせきけ↓いすう、ど↑うさけ↓いすう |  |
+| jpn-Hrkt-JP | せいせきけいすう、どうさけいすう |  |
 | jpn-Jpan-JP | 成績係数、動作係数 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

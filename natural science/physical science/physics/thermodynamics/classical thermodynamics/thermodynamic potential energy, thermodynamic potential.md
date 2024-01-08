@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ね↑つりき↓がくポ↑テ↓ンシャル |  |
+| jpn-Hrkt-JP | ねつりきがくポテンシャル |  |
 | jpn-Jpan-JP | 熱力学ポテンシャル |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

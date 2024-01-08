@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ス↑カ↓ラー（ぶ↑つり↓がく） |  |
+| jpn-Hrkt-JP | スカラー（ぶつりがく） |  |
 | jpn-Jpan-JP | スカラー（物理学） |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

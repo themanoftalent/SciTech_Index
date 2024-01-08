@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? き↓か |  |
+| jpn-Hrkt-JP | きか |  |
 | jpn-Jpan-JP | 気化 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

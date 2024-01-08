@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? エ↑ックス↓せん、レ↑ントゲン↓せん |  |
+| jpn-Hrkt-JP | エックスせん、レントゲンせん |  |
 | jpn-Jpan-JP | X線、レントゲン線せん |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

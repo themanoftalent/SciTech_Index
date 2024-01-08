@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ショ↑ット↓キーバ↑リアダイオ↓ード |  |
+| jpn-Hrkt-JP | ショットキーバリアダイオード |  |
 | jpn-Jpan-JP | ショットキーバリアダイオード |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

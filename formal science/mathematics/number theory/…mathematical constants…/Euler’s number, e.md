@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ネ↑イピア↓すう、オ↑イラ↓ーすう |  |
+| jpn-Hrkt-JP | ネイピアすう、オイラーすう |  |
 | jpn-Jpan-JP | ネイピア数、オイラー数 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

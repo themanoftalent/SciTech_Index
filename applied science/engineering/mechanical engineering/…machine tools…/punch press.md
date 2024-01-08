@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? お↑しぬき↓き |  |
+| jpn-Hrkt-JP | おしぬきき |  |
 | jpn-Jpan-JP | 押抜き機 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

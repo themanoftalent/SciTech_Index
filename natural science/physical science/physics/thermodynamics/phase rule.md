@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ギ↑ブズのそ↓うりつ、そ↓うりつ |  |
+| jpn-Hrkt-JP | ギブズのそうりつ、そうりつ |  |
 | jpn-Jpan-JP | ギブズの相律、相律 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

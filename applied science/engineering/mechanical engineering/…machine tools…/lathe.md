@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? せ↑んばん |  |
+| jpn-Hrkt-JP | せんばん |  |
 | jpn-Jpan-JP | 旋盤 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

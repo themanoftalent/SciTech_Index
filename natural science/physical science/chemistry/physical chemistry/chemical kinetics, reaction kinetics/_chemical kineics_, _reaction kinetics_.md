@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _か↑がくどうりょく↓がく_、_は↑んのうそくど↓ろん_ |
+| jpn-Hrkt-JP | _かがくどうりょくがく_、_はんのうそくどろん_ |
 | jpn-Jpan-JP | _化学動力学_、_反応速度論_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

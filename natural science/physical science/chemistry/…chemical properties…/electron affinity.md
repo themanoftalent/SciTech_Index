@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? で↓んしし↑んわ↓りょく |  |
+| jpn-Hrkt-JP | でんししんわりょく |  |
 | jpn-Jpan-JP | 電子親和力 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

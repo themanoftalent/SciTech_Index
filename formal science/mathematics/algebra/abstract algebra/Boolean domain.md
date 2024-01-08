@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ブ↑ールりょ↓ういき、ブ↑ーリアンりょ↓ういき |  |
+| jpn-Hrkt-JP | ブールりょういき、ブーリアンりょういき |  |
 | jpn-Jpan-JP | ブール領域、ブーリアン領域 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

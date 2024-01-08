@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? い↑じょうこ↓うせん |  |
+| jpn-Hrkt-JP | いじょうこうせん |  |
 | jpn-Jpan-JP | 異常光線 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

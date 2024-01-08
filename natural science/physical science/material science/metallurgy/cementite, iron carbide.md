@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? セ↑メンタ↓イト |  |
+| jpn-Hrkt-JP | セメンタイト |  |
 | jpn-Jpan-JP | セメンタイト |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

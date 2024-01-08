@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? だ↑んめん↓に↑じモ↓ーメント |  |
+| jpn-Hrkt-JP | だんめんにじモーメント |  |
 | jpn-Jpan-JP | 断面二次モーメント |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

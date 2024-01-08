@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? で↑んかほぞ↓んそく、で↑んき↓りょうほ↑ぞ↓んそく |  |
+| jpn-Hrkt-JP | でんかほぞんそく、でんきりょうほぞんそく |  |
 | jpn-Jpan-JP | 電荷保存則、電気量保存則 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

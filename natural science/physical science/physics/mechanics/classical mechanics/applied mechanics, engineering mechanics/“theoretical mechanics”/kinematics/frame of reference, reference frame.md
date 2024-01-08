@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? き↑じゅんざひょうけい、き↑じゅんけい、さ↑んしょうけい |  |
+| jpn-Hrkt-JP | きじゅんざひょうけい、きじゅんけい、さんしょうけい |  |
 | jpn-Jpan-JP | 基準座標系、基準系、参照系 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

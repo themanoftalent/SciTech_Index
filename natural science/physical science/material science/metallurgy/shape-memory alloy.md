@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? け↑いじょうきおくご↓うきん |  |
+| jpn-Hrkt-JP | けいじょうきおくごうきん |  |
 | jpn-Jpan-JP | 形状記憶合金 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

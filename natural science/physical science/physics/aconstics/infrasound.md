@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ちょ↑うていしゅ↓うは |  |
+| jpn-Hrkt-JP | ちょうていしゅうは |  |
 | jpn-Jpan-JP | 超低周波 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

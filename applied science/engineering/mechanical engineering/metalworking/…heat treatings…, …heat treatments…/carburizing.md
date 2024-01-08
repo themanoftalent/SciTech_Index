@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? し↑んたん |  |
+| jpn-Hrkt-JP | しんたん |  |
 | jpn-Jpan-JP | 浸炭／滲炭 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

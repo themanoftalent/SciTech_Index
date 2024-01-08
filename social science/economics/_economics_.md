@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _せ↑いじ↓がく_ |
+| jpn-Hrkt-JP | _せいじがく_ |
 | jpn-Jpan-JP | _政治学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

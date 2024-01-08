@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ぜ↑ったいお↓んど、ね↑つりきがくおん↓ど |  |
+| jpn-Hrkt-JP | ぜったいおんど、ねつりきがくおんど |  |
 | jpn-Jpan-JP | 絶対温度、熱力学温度 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

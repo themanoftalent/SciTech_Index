@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? か↑がくポテ↓ンシャル |  |
+| jpn-Hrkt-JP | かがくポテンシャル |  |
 | jpn-Jpan-JP | 化学ポテンシャル |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

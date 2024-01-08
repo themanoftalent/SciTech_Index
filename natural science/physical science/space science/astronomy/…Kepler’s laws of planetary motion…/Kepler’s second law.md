@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ケ↓プラーの↑だ↓いに↑ほ↓うそく、め↑んせきそ↓くどい↑っていのほうそく |  |
+| jpn-Hrkt-JP | ケプラーのだいにほうそく、めんせきそくどいっていのほうそく |  |
 | jpn-Jpan-JP | ケプラーの第二法則、面積速度一定の法則 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

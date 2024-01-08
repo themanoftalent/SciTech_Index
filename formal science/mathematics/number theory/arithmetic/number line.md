@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? 数直線 |  |
-| jpn-Jpan-JP | す↑うちょ↓くせん |  |
+| jpn-Hrkt-JP | 数直線 |  |
+| jpn-Jpan-JP | すうちょくせん |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? は↑くぎ↓んひ |  |
+| jpn-Hrkt-JP | はくぎんひ |  |
 | jpn-Jpan-JP | 白銀比 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

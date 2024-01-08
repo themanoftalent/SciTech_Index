@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? さ↑んじゅつへ↓いきん、そ↑うかへ↓いきん |  |
+| jpn-Hrkt-JP | さんじゅつへいきん、そうかへいきん |  |
 | jpn-Jpan-JP | 算術平均、相加平均 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

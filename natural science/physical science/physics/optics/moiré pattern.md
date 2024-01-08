@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? モ↑アレパタ↓ーン |  |
+| jpn-Hrkt-JP | モアレパターン |  |
 | jpn-Jpan-JP | モアレパターン |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

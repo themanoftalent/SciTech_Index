@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? へ↑いき↓んちの↑て↓いり |  |
+| jpn-Hrkt-JP | へいきんちのていり |  |
 | jpn-Jpan-JP | 平均値の定理 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

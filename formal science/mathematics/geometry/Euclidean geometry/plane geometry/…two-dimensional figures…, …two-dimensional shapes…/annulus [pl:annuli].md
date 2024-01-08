@@ -5,13 +5,13 @@
 | cmn-Latn-CN | huán xíng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Kreisring |  |
-| eng-Latn-US | annulus [pl annuli] |  |
+| eng-Latn-US | annulus [annuli] |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | couronne |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ア↓ニュラス、え↑んかん |  |
+| jpn-Hrkt-JP | アニュラス、えんかん |  |
 | jpn-Jpan-JP | アニュラス、円環 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

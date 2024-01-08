@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _す↑いり↓がく_ |
+| jpn-Hrkt-JP | _すいりがく_ |
 | jpn-Jpan-JP | _水理学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

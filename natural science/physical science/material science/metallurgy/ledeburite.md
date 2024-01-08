@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? レ↑ーデブラ↓イト |  |
+| jpn-Hrkt-JP | レーデブライト |  |
 | jpn-Jpan-JP | レーデブライト |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _…ぶ↑つりげ↓んしょう _… |
+| jpn-Hrkt-JP | _…ぶつりげんしょう _… |
 | jpn-Jpan-JP | _…物理現象…_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

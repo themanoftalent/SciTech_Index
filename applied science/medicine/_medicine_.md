@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _い↑か↓がく_、_い↓がく_ |
+| jpn-Hrkt-JP | _いかがく_、_いがく_ |
 | jpn-Jpan-JP | _医科学_、_医学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

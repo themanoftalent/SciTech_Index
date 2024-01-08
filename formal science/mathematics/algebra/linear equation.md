@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? い↑ち↓じほ↑うて↓いしき |  |
+| jpn-Hrkt-JP | いちじほうていしき |  |
 | jpn-Jpan-JP | 一次方程式 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

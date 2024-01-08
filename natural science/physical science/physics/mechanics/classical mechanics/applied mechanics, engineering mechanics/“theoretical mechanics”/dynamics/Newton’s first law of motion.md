@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? う↑んどうのだ↓いい↑ちほ↓うそく |  |
+| jpn-Hrkt-JP | うんどうのだいいちほうそく |  |
 | jpn-Jpan-JP | 運動の第1法則 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

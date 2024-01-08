@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _じょ↑うほうり↓ろん_ |
+| jpn-Hrkt-JP | _じょうほうりろん_ |
 | jpn-Jpan-JP | _情報理論_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

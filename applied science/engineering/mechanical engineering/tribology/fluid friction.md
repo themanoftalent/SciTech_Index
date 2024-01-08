@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? りゅ↑うたいま↓さつ |  |
+| jpn-Hrkt-JP | りゅうたいまさつ |  |
 | jpn-Jpan-JP | 流体摩擦 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

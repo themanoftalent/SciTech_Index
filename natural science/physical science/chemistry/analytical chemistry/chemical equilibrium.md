@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? か↑がくへ↓いこう |  |
+| jpn-Hrkt-JP | かがくへいこう |  |
 | jpn-Jpan-JP | 化学平衡 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

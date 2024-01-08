@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? え↑きたいじょ↓うたい |  |
+| jpn-Hrkt-JP | えきたいじょうたい |  |
 | jpn-Jpan-JP | 液体状態 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

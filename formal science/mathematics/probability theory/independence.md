@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ど↑くりつ（か↑くり↓つろん） |  |
+| jpn-Hrkt-JP | どくりつ（かくりつろん） |  |
 | jpn-Jpan-JP | 独立（確率論） |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

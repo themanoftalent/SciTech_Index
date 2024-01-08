@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? さ↑いだいこうやく↓すう |  |
+| jpn-Hrkt-JP | さいだいこうやくすう |  |
 | jpn-Jpan-JP | 最大公約数 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

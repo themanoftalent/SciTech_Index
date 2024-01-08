@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ひ↑ていろんり↓わ |  |
+| jpn-Hrkt-JP | ひていろんりわ |  |
 | jpn-Jpan-JP | 否定論理和 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
@@ -21,5 +21,5 @@
 | rus-Cyrl-RU |  |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
-| zxx-Zsym-ZZ | ↓ |  |
+| zxx-Zsym-ZZ |  |  |
 |  |  |  |

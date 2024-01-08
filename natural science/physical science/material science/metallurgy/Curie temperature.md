@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? キュ↑リーお↓んど |  |
+| jpn-Hrkt-JP | キュリーおんど |  |
 | jpn-Jpan-JP | キュリー温度 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

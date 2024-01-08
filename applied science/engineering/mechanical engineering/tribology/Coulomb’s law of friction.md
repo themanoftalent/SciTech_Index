@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ク↓ーロンの↑まさつ↓そく |  |
+| jpn-Hrkt-JP | クーロンのまさつそく |  |
 | jpn-Jpan-JP | クーロンの摩擦則 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

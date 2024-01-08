@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ひ↑かんせいさんしょうフ↓レーム |  |
+| jpn-Hrkt-JP | ひかんせいさんしょうフレーム |  |
 | jpn-Jpan-JP | 非慣性参照フレーム |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

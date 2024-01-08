@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _り↑ゅうたいりき↓がく_ |
+| jpn-Hrkt-JP | _りゅうたいりきがく_ |
 | jpn-Jpan-JP | _流体力学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

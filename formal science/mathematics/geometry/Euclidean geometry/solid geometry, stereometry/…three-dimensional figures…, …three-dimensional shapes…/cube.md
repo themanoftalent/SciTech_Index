@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? せ↓いろ↑くめんたい、り↑っぽうたい |  |
+| jpn-Hrkt-JP | せいろくめんたい、りっぽうたい |  |
 | jpn-Jpan-JP | 正六面体、立方体 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

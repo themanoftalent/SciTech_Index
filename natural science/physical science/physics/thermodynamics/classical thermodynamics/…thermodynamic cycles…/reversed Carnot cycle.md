@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ぎゃ↑くカルノーサ↓イクル |  |
+| jpn-Hrkt-JP | ぎゃくカルノーサイクル |  |
 | jpn-Jpan-JP | 逆カルノーサイクル |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

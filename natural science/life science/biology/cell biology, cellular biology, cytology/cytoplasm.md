@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? さ↑いぼ↓うしつ |  |
+| jpn-Hrkt-JP | さいぼうしつ |  |
 | jpn-Jpan-JP | 細胞質 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ケ↓ルヴィンお↑んどめ↓もり、ケ↓ルビンお↑んどめ↓もり |  |
+| jpn-Hrkt-JP | ケルヴィンおんどめもり、ケルビンおんどめもり |  |
 | jpn-Jpan-JP | ケルヴィン温度目盛、ケルビン温度目盛 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

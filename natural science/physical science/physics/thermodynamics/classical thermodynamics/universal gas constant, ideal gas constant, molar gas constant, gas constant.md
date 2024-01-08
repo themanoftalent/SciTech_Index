@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ふ↑へんきたいて↓いすう 、モ↓ルき↑たいて↓いすう、き↑たいて↓いすう |  |
+| jpn-Hrkt-JP | ふへんきたいていすう 、モルきたいていすう、きたいていすう |  |
 | jpn-Jpan-JP | 普遍気体定数、モル気体定数、気体定数 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? オ↓ームのほ↑うそく |  |
+| jpn-Hrkt-JP | オームのほうそく |  |
 | jpn-Jpan-JP | オームの法則 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

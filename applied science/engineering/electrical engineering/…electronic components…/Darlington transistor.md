@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ダ↑ーリントントランジ↓スタ |  |
+| jpn-Hrkt-JP | ダーリントントランジスタ |  |
 | jpn-Jpan-JP | ダーリントントランジスタ |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

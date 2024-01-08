@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? と↑くせいか↓んすう、ハ↑ミ↓ルトニアン、ハ↑ミルトンか↓んす |  |
+| jpn-Hrkt-JP | とくせいかんすう、ハミルトニアン、ハミルトンかんす |  |
 | jpn-Jpan-JP | 特性関数、ハミルトニアン、ハミルトン関数 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

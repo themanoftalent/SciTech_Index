@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? フ↓ントのきそく |  |
+| jpn-Hrkt-JP | フントのきそく |  |
 | jpn-Jpan-JP | フントの規則 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _て↑つ↓がく_、_フィ↑ロ↓ソフィー_ |
+| jpn-Hrkt-JP | _てつがく_、_フィロソフィー_ |
 | jpn-Jpan-JP | _哲学_、_フィロソフィー_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

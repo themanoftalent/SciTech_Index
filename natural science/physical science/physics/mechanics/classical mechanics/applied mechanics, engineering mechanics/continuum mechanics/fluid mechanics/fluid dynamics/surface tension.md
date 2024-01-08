@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ひょ↑うめんちょ↓うりょく |  |
+| jpn-Hrkt-JP | ひょうめんちょうりょく |  |
 | jpn-Jpan-JP | 表面張力 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

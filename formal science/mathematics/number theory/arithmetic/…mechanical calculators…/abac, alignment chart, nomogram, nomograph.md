@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? け↑いさんず↓ひょう、ノ↑モグ↓ラフ、ノ↑モグ↓ラム |  |
+| jpn-Hrkt-JP | けいさんずひょう、ノモグラフ、ノモグラム |  |
 | jpn-Jpan-JP | 計算図表、ノモグラフ、ノモグラム |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

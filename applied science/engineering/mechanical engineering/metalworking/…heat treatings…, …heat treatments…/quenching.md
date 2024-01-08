@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? や↑きいれ |  |
+| jpn-Hrkt-JP | やきいれ |  |
 | jpn-Jpan-JP | 焼入れ／焼き入れ |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

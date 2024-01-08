@@ -10,7 +10,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? て↓この↑げ↓んり |  |
+| jpn-Hrkt-JP | てこのげんり |  |
 | jpn-Jpan-JP | 梃子の原理 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

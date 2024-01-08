@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ラ↓ッセルのパ↑ラド↓ックス |  |
+| jpn-Hrkt-JP | ラッセルのパラドックス |  |
 | jpn-Jpan-JP | ラッセルのパラドックス |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

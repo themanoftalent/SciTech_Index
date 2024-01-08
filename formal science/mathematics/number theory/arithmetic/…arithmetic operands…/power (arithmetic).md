@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? べ↓き |  |
+| jpn-Hrkt-JP | べき |  |
 | jpn-Jpan-JP | 冪 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

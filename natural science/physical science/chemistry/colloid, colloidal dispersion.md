@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? こうしつ、コロイド、コロイドぶんさんたい |  |
+| jpn-Hrkt-JP | こうしつ、コロイド、コロイドぶんさんたい |  |
 | jpn-Jpan-JP | 膠質、コロイド、コロイド分散体 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? マ↑ルテンサ↓イト |  |
+| jpn-Hrkt-JP | マルテンサイト |  |
 | jpn-Jpan-JP | マルテンサイト |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

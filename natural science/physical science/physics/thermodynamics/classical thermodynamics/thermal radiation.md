@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ね↑つほ↓うしゃ |  |
+| jpn-Hrkt-JP | ねつほうしゃ |  |
 | jpn-Jpan-JP | 熱放射 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -9,7 +9,7 @@
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | relation de van 't Hoff |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ファ↑ントホッフのしき |  |
+| jpn-Hrkt-JP | ファントホッフのしき |  |
 | jpn-Jpan-JP | ファントホッフの式 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

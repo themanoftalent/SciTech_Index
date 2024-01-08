@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ガ↓ルバノメ↑ータ、け↑んりゅうけい |  |
+| jpn-Hrkt-JP | ガルバノメータ、けんりゅうけい |  |
 | jpn-Jpan-JP | ガルバノメータ、検流計 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ほ↑うぶつせん |  |
+| jpn-Hrkt-JP | ほうぶつせん |  |
 | jpn-Jpan-JP | 放物線／抛物線 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

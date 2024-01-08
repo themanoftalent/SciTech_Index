@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? へ↑いほうセンチメ↓ートル |  |
+| jpn-Hrkt-JP | へいほうセンチメートル |  |
 | jpn-Jpan-JP | 平方センチメートル |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

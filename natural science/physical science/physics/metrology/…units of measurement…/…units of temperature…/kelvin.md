@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ケ↓​ルビン、ケ↓ルヴィン |  |
+| jpn-Hrkt-JP | ケ​ルビン、ケルヴィン |  |
 | jpn-Jpan-JP | ケ​ルビン、ケルヴィン |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

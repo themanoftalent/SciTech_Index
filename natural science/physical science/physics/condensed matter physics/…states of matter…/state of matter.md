@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ぶ↑っしつ↓のじ↑ょうたい |  |
+| jpn-Hrkt-JP | ぶっしつのじょうたい |  |
 | jpn-Jpan-JP | 物質の状態 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

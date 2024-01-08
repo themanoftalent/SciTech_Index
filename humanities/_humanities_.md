@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _じ↑んぶんか↓がく_、_じ↑んぶんが↓く_ |
+| jpn-Hrkt-JP | _じんぶんかがく_、_じんぶんがく_ |
 | jpn-Jpan-JP | _人文科学_、_人文学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

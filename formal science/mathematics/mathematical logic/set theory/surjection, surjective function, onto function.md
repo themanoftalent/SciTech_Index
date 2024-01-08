@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ぜ↑んしゃ |  |
+| jpn-Hrkt-JP | ぜんしゃ |  |
 | jpn-Jpan-JP | 全射 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

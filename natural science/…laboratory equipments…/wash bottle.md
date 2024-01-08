@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? せ↑んびん |  |
+| jpn-Hrkt-JP | せんびん |  |
 | jpn-Jpan-JP | 洗瓶 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

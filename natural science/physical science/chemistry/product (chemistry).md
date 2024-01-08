@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? せ↑いせ↓いぶつ |  |
+| jpn-Hrkt-JP | せいせいぶつ |  |
 | jpn-Jpan-JP | 生成物 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

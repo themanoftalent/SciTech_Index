@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _ひ↑へいこうねつりき↓がく_ |
+| jpn-Hrkt-JP | _ひへいこうねつりきがく_ |
 | jpn-Jpan-JP | _非平衡熱力学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

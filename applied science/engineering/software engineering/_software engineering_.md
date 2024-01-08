@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _ソ↑フトウェアこ↓うがく_ |
+| jpn-Hrkt-JP | _ソフトウェアこうがく_ |
 | jpn-Jpan-JP | _ソフトウェア工学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

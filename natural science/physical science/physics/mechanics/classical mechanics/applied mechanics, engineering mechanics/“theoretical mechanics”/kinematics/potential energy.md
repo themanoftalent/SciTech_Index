@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? い↑ちエネル↓ギー |  |
+| jpn-Hrkt-JP | いちエネルギー |  |
 | jpn-Jpan-JP | 位置エネルギー |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

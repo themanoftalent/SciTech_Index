@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? シャ↑ルピー↓しょ↑うげきしけ↓ん |  |
+| jpn-Hrkt-JP | シャルピーしょうげきしけん |  |
 | jpn-Jpan-JP | シャルピー衝撃試験 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

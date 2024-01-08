@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? き↑かいこ↓うりつ |  |
+| jpn-Hrkt-JP | きかいこうりつ |  |
 | jpn-Jpan-JP | 機械効率 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

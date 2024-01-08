@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ね↑つりき↓がくのき↑ほ↓んしき |  |
+| jpn-Hrkt-JP | ねつりきがくのきほんしき |  |
 | jpn-Jpan-JP | 熱力学の基本式 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

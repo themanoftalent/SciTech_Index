@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? き↑あつけい |  |
+| jpn-Hrkt-JP | きあつけい |  |
 | jpn-Jpan-JP | 気圧計 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

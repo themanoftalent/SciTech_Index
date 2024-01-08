@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | ? _げ↓んだい↑うちゅ↓うろん_ |
+| jpn-Hrkt-JP | _げんだいうちゅうろん_ |
 | jpn-Jpan-JP | _現代宇宙論_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

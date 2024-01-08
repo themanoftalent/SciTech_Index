@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? カ↓ルノーの↑て↓いり、カ↓ルノーの↑げ↓んり |  |
+| jpn-Hrkt-JP | カルノーのていり、カルノーのげんり |  |
 | jpn-Jpan-JP | カルノーの定理、カルノーの原理 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

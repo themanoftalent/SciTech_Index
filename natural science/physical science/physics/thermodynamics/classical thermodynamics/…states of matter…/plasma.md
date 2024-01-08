@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? プ↑ラズマ |  |
+| jpn-Hrkt-JP | プラズマ |  |
 | jpn-Jpan-JP | プラズマ |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

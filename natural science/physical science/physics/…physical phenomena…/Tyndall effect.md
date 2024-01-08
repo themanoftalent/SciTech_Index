@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? チ↑ンダルげ↓んしょう |  |
+| jpn-Hrkt-JP | チンダルげんしょう |  |
 | jpn-Jpan-JP | チンダル現象 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

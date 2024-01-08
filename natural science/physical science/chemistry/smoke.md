@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? けむり |  |
+| jpn-Hrkt-JP | けむり |  |
 | jpn-Jpan-JP | 煙 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

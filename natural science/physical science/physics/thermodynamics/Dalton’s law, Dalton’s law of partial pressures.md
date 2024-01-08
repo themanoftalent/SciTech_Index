@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ド↓ルトンのほ↑うそく、ぶ↑んあつのほうそく |  |
+| jpn-Hrkt-JP | ドルトンのほうそく、ぶんあつのほうそく |  |
 | jpn-Jpan-JP | ドルトンの法則、分圧の法則 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

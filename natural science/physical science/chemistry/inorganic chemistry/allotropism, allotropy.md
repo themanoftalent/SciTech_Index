@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ど↑うしつい↓たい、ど↑うそせい、ど↑うしつたぞう |  |
+| jpn-Hrkt-JP | どうしついたい、どうそせい、どうしつたぞう |  |
 | jpn-Jpan-JP | 同質異体、同素性、同質多像 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

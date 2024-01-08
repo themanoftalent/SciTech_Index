@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ふ↑くげんり↓ょく |  |
+| jpn-Hrkt-JP | ふくげんりょく |  |
 | jpn-Jpan-JP | 復元力 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

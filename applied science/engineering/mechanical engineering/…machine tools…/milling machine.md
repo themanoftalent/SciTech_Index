@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? フ↑ライス↓ばん |  |
+| jpn-Hrkt-JP | フライスばん |  |
 | jpn-Jpan-JP | フライス盤 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

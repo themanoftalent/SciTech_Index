@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? ケ↓プラーの↑だ↓いい↑ちほ↓うそく、だ↑えんきどうのほうそく |  |
+| jpn-Hrkt-JP | ケプラーのだいいちほうそく、だえんきどうのほうそく |  |
 | jpn-Jpan-JP | ケプラーの第一法則、楕円軌道の法則 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

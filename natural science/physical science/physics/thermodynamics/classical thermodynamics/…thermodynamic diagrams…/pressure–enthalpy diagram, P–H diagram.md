@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ? あ↑つ↓りょくーエ↑ンタ↓ルピーず、ピ↑ーエイチせ↓んず |  |
+| jpn-Hrkt-JP | あつりょくーエンタルピーず、ピーエイチせんず |  |
 | jpn-Jpan-JP | 圧力-エンタルピー図、PH線図 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
