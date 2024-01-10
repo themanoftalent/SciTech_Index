@@ -1,24 +1,24 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN |  |  |
-| cmn-Latn-CN |  |  |
+| cmn-Hans-CN | 链式法则 |  |
+| cmn-Latn-CN | liànshì fǎzé |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE |  |  |
+| deu-Latn-DE | Kettenregel [f] |  |
 | eng-Latn-US | chain rule |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR |  |  |
+| fra-Latn-FR | règle de dérivation en chaîne, règle de la chaîne, théorème de dérivation des fonctions composées |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP |  |  |
-| jpn-Jpan-JP |  |  |
+| jpn-Hrkt-JP | れんさりつ |  |
+| jpn-Jpan-JP | 連鎖律 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |
 | nob-Latn-NO |  |  |
 | por-Latn-PT |  |  |
-| rus-Cyrl-RU |  |  |
+| rus-Cyrl-RU | цепно́е пра́вило, пра́вило дифференци́рования сло́жной фу́нкции |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
 | zxx-Zsym-ZZ |  |  |

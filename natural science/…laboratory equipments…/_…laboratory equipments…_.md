@@ -1,11 +1,11 @@
 | | |
 |-|-|
 | arb-Arab-ZZ |  |
-| cmn-Hans-CN | _实验器材_ |
-| cmn-Latn-CN | _shíyàn qìcái_ |
+| cmn-Hans-CN | _…实验器材…_ |
+| cmn-Latn-CN | _…shíyàn qìcái…_ |
 | dan-Latn-DK |  |
-| deu-Latn-DE | _Laboreinrichtungen_ |
-| eng-Latn-US | _laboratory equipments_ |
+| deu-Latn-DE | _…Laboreinrichtungen…_ |
+| eng-Latn-US | _…laboratory equipments…_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR |  |
 | heb-Hebr-IL |  |

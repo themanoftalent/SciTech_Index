@@ -5,13 +5,13 @@
 | cmn-Latn-CN |  |
 | dan-Latn-DK |  |
 | deu-Latn-DE |  |
-| eng-Latn-US |  |
+| eng-Latn-US | _…arithmetic operands…_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR |  |
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP |   |
+| jpn-Hrkt-JP |  |
 | jpn-Jpan-JP |  |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

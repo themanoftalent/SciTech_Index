@@ -5,7 +5,7 @@
 | cmn-Latn-CN | _yìngyòng kēxué_ |
 | dan-Latn-DK |  |
 | deu-Latn-DE | _angewandte Wissenschaft_ |
-| eng-Latn-US | _engineering_ |
+| eng-Latn-US | _applied science_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR | _science appliquée_ |
 | heb-Hebr-IL |  |

@@ -5,7 +5,7 @@
 | cmn-Latn-CN | _shùjù kēxué_, _zīliào kēxué_ |
 | dan-Latn-DK |  |
 | deu-Latn-DE | _Data Science_, _Datenwissenschaft_ |
-| eng-Latn-US | _information science_, _information studies_ |
+| eng-Latn-US | _data science_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR | _science des données [f-pl]_ |
 | heb-Hebr-IL |  |

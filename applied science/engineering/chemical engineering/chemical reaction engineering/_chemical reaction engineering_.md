@@ -5,7 +5,7 @@
 | cmn-Latn-CN | _huàxué fǎnyìng gōngchéng_ |
 | dan-Latn-DK |  |
 | deu-Latn-DE | _chemische Reaktionstechnik_, _chemische Verfahrenstechnik_ |
-| eng-Latn-US | _chemical engineering_ |
+| eng-Latn-US | _chemical reaction engineering_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR | _génie de la réaction chimique_ |
 | heb-Hebr-IL |  |

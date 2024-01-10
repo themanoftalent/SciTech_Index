@@ -5,7 +5,7 @@
 | cmn-Latn-CN |  |
 | dan-Latn-DK |  |
 | deu-Latn-DE |  |
-| eng-Latn-US | electrodynamics |
+| eng-Latn-US | _electrodynamics_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR |  |
 | heb-Hebr-IL |  |

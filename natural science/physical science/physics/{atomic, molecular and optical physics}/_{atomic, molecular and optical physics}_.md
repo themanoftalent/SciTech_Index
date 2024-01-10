@@ -1,17 +1,17 @@
 | | |
 |-|-|
 | arb-Arab-ZZ |  |
-| cmn-Hans-CN | _｛原子_、_分子与光物理学｝_ |
-| cmn-Latn-CN | _{yuánzǐ_, _fēnzǐ yǔ guāng wùlǐxué}_ |
+| cmn-Hans-CN | _｛原子、分子与光物理学｝_ |
+| cmn-Latn-CN | _{yuánzǐ, fēnzǐ yǔ guāng wùlǐxué}_ |
 | dan-Latn-DK |  |
-| deu-Latn-DE | _{atomare_, _molekulare und optische Physik}_ |
-| eng-Latn-US | _{atomic_, _molecular and optical physics}_ |
+| deu-Latn-DE | _{atomare, molekulare und optische Physik}_ |
+| eng-Latn-US | _{atomic, molecular and optical physics}_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR |  |
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP |   |
+| jpn-Hrkt-JP |  |
 | jpn-Jpan-JP |  |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

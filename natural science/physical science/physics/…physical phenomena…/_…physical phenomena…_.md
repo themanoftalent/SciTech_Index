@@ -5,7 +5,7 @@
 | cmn-Latn-CN | _…wùlǐ xiànxiàng…_ |
 | dan-Latn-DK |  |
 | deu-Latn-DE | _…physikalische Phänomena [n-pl]…_, _…physikalische Phänomene [n-pl]…_ |
-| eng-Latn-US | _…physical phenomena [pl]…_ |
+| eng-Latn-US | _…physical phenomena…_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR | _…phénomènes [m-pl] physiques…_ |
 | heb-Hebr-IL |  |

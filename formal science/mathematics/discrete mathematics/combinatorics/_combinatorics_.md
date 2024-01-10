@@ -5,7 +5,7 @@
 | cmn-Latn-CN | _zǔhé shùxué_ |
 | dan-Latn-DK |  |
 | deu-Latn-DE | _Kombinatorik_ |
-| eng-Latn-US | _discrete mathematics_ |
+| eng-Latn-US | _combinatorics_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR | _analyse [f] combinatoire_, _combinatoire [f]_ |
 | heb-Hebr-IL |  |

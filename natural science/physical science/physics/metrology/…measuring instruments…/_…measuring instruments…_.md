@@ -5,7 +5,7 @@
 | cmn-Latn-CN | _…cèliáng yíqì…_ |
 | dan-Latn-DK |  |
 | deu-Latn-DE | _…Messgeräte [f-pl]…_, _…Messinstrumente [f-pl]…_ |
-| eng-Latn-US | _…measuring instrument…_ |
+| eng-Latn-US | _…measuring instruments…_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR | _…appareils de mesure…_, _…instruments de mesure…_ |
 | heb-Hebr-IL |  |

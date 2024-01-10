@@ -1,18 +1,18 @@
 | | |
 |-|-|
 | arb-Arab-ZZ |  |
-| cmn-Hans-CN | _…齿轮…_ |  |
-| cmn-Latn-CN | _…chǐ lún…_ |  |
+| cmn-Hans-CN | _…齿轮…_ |
+| cmn-Latn-CN | _…chǐ lún…_ |
 | dan-Latn-DK |  |
-| deu-Latn-DE | _…Zahnrad [n]…_ |  |
-| eng-Latn-US | _…gear…_ |  |
+| deu-Latn-DE | _…Zahnrad [n]…_ |
+| eng-Latn-US | _…gear…_ |
 | fin-Latn-FI |  |
-| fra-Latn-FR | _…engrenage [m]…_ |  |
+| fra-Latn-FR | _…engrenage [m]…_ |
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | _…はぐるま…_ |  |
-| jpn-Jpan-JP | _…歯車…_ |  |
+| jpn-Hrkt-JP | _…はぐるま…_ |
+| jpn-Jpan-JP | _…歯車…_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |
 | nld-Latn-NL |  |

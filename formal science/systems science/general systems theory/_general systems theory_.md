@@ -5,7 +5,7 @@
 | cmn-Latn-CN | _yìbān xìtǒng lǐlùn_ |
 | dan-Latn-DK |  |
 | deu-Latn-DE | _allgemeine Systemtheorie_ |
-| eng-Latn-US | _control theory_ |
+| eng-Latn-US | _general systems theory_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR | _théorie générale des systèmes [m-pl]_ |
 | heb-Hebr-IL |  |

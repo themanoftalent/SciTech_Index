@@ -5,7 +5,7 @@
 | cmn-Latn-CN | _tǔmù gōngchéng_ |
 | dan-Latn-DK |  |
 | deu-Latn-DE | _Bauingenieurwesen [n]_ |
-| eng-Latn-US | _civil enginering_ |
+| eng-Latn-US | _civil engineering_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR | _génie civil_ |
 | heb-Hebr-IL |  |

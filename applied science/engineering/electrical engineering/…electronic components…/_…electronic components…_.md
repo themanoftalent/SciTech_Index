@@ -5,7 +5,7 @@
 | cmn-Latn-CN | _…diànzǐ yuánjiàn…_ |
 | dan-Latn-DK |  |
 | deu-Latn-DE | _…elektronische Komponente [f-pl]…_ |
-| eng-Latn-US | _…electronic component…_ |
+| eng-Latn-US | _…electronic components…_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR | _…composants [m-pl] électroniques…_ |
 | heb-Hebr-IL |  |

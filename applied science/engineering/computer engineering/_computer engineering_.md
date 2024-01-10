@@ -5,7 +5,7 @@
 | cmn-Latn-CN | _jìsuànjī gōngchéng_ |
 | dan-Latn-DK |  |
 | deu-Latn-DE | _technische Informatik_ |
-| eng-Latn-US | _computer enginering_ |
+| eng-Latn-US | _computer engineering_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR | _génie [m] informatique_, _ingénierie informatique_ |
 | heb-Hebr-IL |  |
