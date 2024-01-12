@@ -4,10 +4,10 @@
 | cmn-Hans-CN | 电阻 |  |
 | cmn-Latn-CN | diàn zǔ |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Widerstand [m] |  |
+| deu-Latn-DE | Wirkwiderstand [m] |  |
 | eng-Latn-US | electrical resistance | [[electrical current]]; [[electric potential difference, electric pressure, electric tension, voltage]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | résistance |  |
+| fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

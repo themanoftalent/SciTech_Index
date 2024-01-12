@@ -5,7 +5,7 @@
 | cmn-Latn-CN | yuánxīn jiǎo |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
-| eng-Latn-US | angle |  |
+| eng-Latn-US | central angle |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

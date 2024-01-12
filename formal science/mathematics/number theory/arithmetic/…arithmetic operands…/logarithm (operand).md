@@ -1,10 +1,10 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 对数 |  |
-| cmn-Latn-CN | duì shù |  |
+| cmn-Hans-CN | 对数（演算子） |  |
+| cmn-Latn-CN | duì shù (yǎnsuàn zǐ) |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Logarithmus |  |
+| deu-Latn-DE | Logarithmus (Operand) |  |
 | eng-Latn-US | logarithm (operand) |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | logarithme [m] (opérande [m]) |  |

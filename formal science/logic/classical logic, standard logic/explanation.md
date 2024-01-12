@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 解释 |  |
-| cmn-Latn-CN | jiěshì |  |
+| cmn-Hans-CN |  |  |
+| cmn-Latn-CN |  |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Erklärung |  |
 | eng-Latn-US | explanation |  |

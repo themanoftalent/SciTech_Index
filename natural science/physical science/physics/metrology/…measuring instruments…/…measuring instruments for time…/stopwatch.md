@@ -7,7 +7,7 @@
 | deu-Latn-DE | Chronograf [m], Chronograph [m], Stoppuhr [f] |  |
 | eng-Latn-US | stopwatch |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | règle [f] |  |
+| fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

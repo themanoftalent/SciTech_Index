@@ -5,7 +5,7 @@
 | cmn-Latn-CN |  |
 | dan-Latn-DK |  |
 | deu-Latn-DE |  |
-| eng-Latn-US | _electrostatics_ |
+| eng-Latn-US | _classical electrodynamics_, _classical electromagnetism_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR |  |
 | heb-Hebr-IL |  |

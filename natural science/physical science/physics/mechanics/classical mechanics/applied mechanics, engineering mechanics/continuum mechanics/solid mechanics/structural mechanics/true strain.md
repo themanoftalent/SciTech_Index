@@ -5,7 +5,7 @@
 | cmn-Latn-CN | zhēnshí yìngbiàn |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | wahre Dehnung |  |
-| eng-Latn-US | true stress |  |
+| eng-Latn-US | true strain |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

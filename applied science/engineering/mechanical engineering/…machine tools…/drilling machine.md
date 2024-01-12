@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 钻床 |  |
 | cmn-Latn-CN | zuàn chuáng |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Bohrmaschine |  |
+| deu-Latn-DE |  |  |
 | eng-Latn-US | drilling machine |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | foreuse, perceuse |  |

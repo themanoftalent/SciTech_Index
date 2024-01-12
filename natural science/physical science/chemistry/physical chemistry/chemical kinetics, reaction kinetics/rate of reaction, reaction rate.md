@@ -7,7 +7,7 @@
 | deu-Latn-DE | Reaktionsrate |  |
 | eng-Latn-US | rate of reaction, reaction rate |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | réaction en chaîne [f] |  |
+| fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

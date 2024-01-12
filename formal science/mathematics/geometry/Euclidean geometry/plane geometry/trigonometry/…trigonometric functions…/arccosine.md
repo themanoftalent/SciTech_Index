@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 反正弦 |  |
-| cmn-Latn-CN | fǎn zhèngxián |  |
+| cmn-Hans-CN | 反余弦 |  |
+| cmn-Latn-CN | fǎn yúxián |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
 | eng-Latn-US | arccosine |  |

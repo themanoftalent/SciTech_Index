@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | かくはんし |  |
+| jpn-Hrkt-JP | メスフラスコ |  |
 | jpn-Jpan-JP | メスフラスコ |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

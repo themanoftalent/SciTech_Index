@@ -19,7 +19,7 @@
 | nob-Latn-NO |  |
 | pes-Aran-IR |  |
 | por-Latn-PT |  |
-| rus-Cyrl-RU | _робототе́хника_ |
+| rus-Cyrl-RU |  |
 | swe-Latn-SE |  |
 | spa-Latn-ES |  |
 | zxx-Zsym-ZZ |  |

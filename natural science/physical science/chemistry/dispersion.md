@@ -4,10 +4,10 @@
 | cmn-Hans-CN | 分散系 |  |
 | cmn-Latn-CN | fēnsàn xì |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Dispersion |  |
+| deu-Latn-DE | Dispersion (Chemie) |  |
 | eng-Latn-US | dispersion |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | dispersion |  |
+| fra-Latn-FR | dispersion (chimie [f]) |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

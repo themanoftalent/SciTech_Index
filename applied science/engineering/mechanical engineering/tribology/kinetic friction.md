@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 动摩擦力 |  |
 | cmn-Latn-CN | dòngmócā lì |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Haftreibung |  |
+| deu-Latn-DE | Gleitreibung |  |
 | eng-Latn-US | kinetic friction |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | frottement sec cinétique |  |

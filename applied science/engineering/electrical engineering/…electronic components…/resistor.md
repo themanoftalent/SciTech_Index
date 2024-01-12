@@ -7,7 +7,7 @@
 | deu-Latn-DE | Widerstand [m] |  |
 | eng-Latn-US | resistor |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | résistance |  |
+| fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

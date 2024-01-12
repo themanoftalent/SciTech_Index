@@ -7,7 +7,7 @@
 | deu-Latn-DE | Gusseisen |  |
 | eng-Latn-US | cast iron |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | fonte [f] |  |
+| fra-Latn-FR | fonte [f] (produit) |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

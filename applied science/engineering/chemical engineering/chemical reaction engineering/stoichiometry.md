@@ -5,7 +5,7 @@
 | cmn-Latn-CN | huàxué jìliàng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Stöchiometrie |  |
-| eng-Latn-US | alloy | [[chemical element]]; [[metal]]; [[mixture]] |
+| eng-Latn-US | stoichiometry | [[chemical element]]; [[metal]]; [[mixture]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | stœchiométrie |  |
 | heb-Hebr-IL |  |  |

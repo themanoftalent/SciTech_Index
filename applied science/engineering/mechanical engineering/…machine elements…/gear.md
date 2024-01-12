@@ -5,7 +5,7 @@
 | cmn-Latn-CN | chǐ lún |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Zahnrad [n] |  |
-| eng-Latn-US | gear bearing |  |
+| eng-Latn-US | gear |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | engrenage [m] |  |
 | heb-Hebr-IL |  |  |

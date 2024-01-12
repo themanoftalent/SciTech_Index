@@ -17,5 +17,5 @@
 | nld-Latn-NL |  |  |
 | nob-Latn-NO |  |  |
 | por-Latn-PT |  |  |
-| rus-Cyrl-RU | просте́йший механи́зм |  |
+| rus-Cyrl-RU |  |  |
 |  |  |

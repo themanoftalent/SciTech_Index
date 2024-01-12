@@ -4,10 +4,10 @@
 | cmn-Hans-CN | 同素异形体 |  |
 | cmn-Latn-CN | tóngsùyìxíng tǐ |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Allotropie |  |
+| deu-Latn-DE | Erscheinungsform [f] |  |
 | eng-Latn-US | allotrope |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | allotropie |  |
+| fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
@@ -18,7 +18,7 @@
 | nld-Latn-NL |  |  |
 | nob-Latn-NO |  |  |
 | por-Latn-PT |  |  |
-| rus-Cyrl-RU | аллотро́пия |  |
+| rus-Cyrl-RU |  |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
 | zxx-Zsym-ZZ |  |  |

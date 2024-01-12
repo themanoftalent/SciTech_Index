@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 液相线 |  |
-| cmn-Latn-CN | yèxiàng xiàn |  |
+| cmn-Hans-CN | 液相线温度 |  |
+| cmn-Latn-CN | yèxiàngxiàn wēndù |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Liquidustemperatur |  |
 | eng-Latn-US | liquidus temperature |  |

@@ -11,14 +11,14 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | てい（べきえんざん、べきじょう） |  |
-| jpn-Jpan-JP | 底（冪演算、冪乗） |  |
+| jpn-Hrkt-JP | てい（べきえんざん） |  |
+| jpn-Jpan-JP | 底（冪演算） |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |
 | nob-Latn-NO |  |  |
 | por-Latn-PT |  |  |
-| rus-Cyrl-RU | основа́нием |  |
+| rus-Cyrl-RU | основа́нием (возведе́ние в сте́пень) |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
 | zxx-Zsym-ZZ |  |  |

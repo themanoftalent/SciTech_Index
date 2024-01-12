@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | けい |  |
-| jpn-Jpan-JP | 系 |  |
+| jpn-Hrkt-JP | けい（ろんりがく） |  |
+| jpn-Jpan-JP | 系（論理学） |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

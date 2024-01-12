@@ -13,5 +13,4 @@ for s_file_path in glob(f'{top_path}/*/**/', recursive=True):
 		if s_line.startswith('| ' + s_anchor_locale +  ' | '):
 			if s_line.rstrip() == '| ' + s_anchor_locale +  ' | ' + s_file_name.rstrip('.md') +  ' |':
 				continue
-			print(s_line.rstrip())
 			print('| ' + s_anchor_locale +  ' | ' + s_file_name.rstrip('.md') +  ' |')

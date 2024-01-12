@@ -5,7 +5,7 @@
 | cmn-Latn-CN | rán shāo |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Verbrennung |  |
-| eng-Latn-US | redox, reduction-oxidation |  |
+| eng-Latn-US | combustion |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | combustion [m] |  |
 | heb-Hebr-IL |  |  |

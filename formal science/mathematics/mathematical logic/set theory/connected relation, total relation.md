@@ -1,10 +1,10 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 结合律 |  |
-| cmn-Latn-CN | jiéhé lǜ |  |
+| cmn-Hans-CN |  |  |
+| cmn-Latn-CN |  |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Assoziativgesetz [n], Assoziativität |  |
+| deu-Latn-DE |  |  |
 | eng-Latn-US | connected relation, total relation | [[binary relation]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |

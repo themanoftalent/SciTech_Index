@@ -4,15 +4,15 @@
 | cmn-Hans-CN | 电解池、电解电池 |  |
 | cmn-Latn-CN | diànjiě chí, diànjiě diànchí |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Brennstoffzelle |  |
+| deu-Latn-DE |  |  |
 | eng-Latn-US | electrolytic cell |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | pile [f] à combustible |  |
+| fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ねんりょうでんち |  |
-| jpn-Jpan-JP | 燃料電池 |  |
+| jpn-Hrkt-JP |  |  |
+| jpn-Jpan-JP |  |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

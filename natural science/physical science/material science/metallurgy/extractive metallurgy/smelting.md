@@ -7,7 +7,7 @@
 | deu-Latn-DE | Verhüttung |  |
 | eng-Latn-US | smelting |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | fonte [f] |  |
+| fra-Latn-FR | fonte [f] (procès [m]) |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

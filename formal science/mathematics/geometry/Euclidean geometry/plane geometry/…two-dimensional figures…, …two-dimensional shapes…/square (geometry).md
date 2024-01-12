@@ -7,7 +7,7 @@
 | deu-Latn-DE | Quadrat [n] |  |
 | eng-Latn-US | square (geometry) | [[quadrilateral]]; [[regular polygon]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | carré |  |
+| fra-Latn-FR | carré (géométrie) |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
@@ -18,7 +18,7 @@
 | nld-Latn-NL |  |  |
 | nob-Latn-NO |  |  |
 | por-Latn-PT |  |  |
-| rus-Cyrl-RU | квадра́т |  |
+| rus-Cyrl-RU | квадра́т (геоме́трия) |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
 | zxx-Zsym-ZZ |  |  |

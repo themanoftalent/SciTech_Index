@@ -7,7 +7,7 @@
 | deu-Latn-DE | Bimetallkorrosion, galvanische Korrosion, Kontaktkorrosion |  |
 | eng-Latn-US | bimetallic corrosion, dissimilar metal corrosion, galvanic corrosion  |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | réaction en chaîne [f] |  |
+| fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
@@ -18,7 +18,7 @@
 | nld-Latn-NL |  |  |
 | nob-Latn-NO |  |  |
 | por-Latn-PT |  |  |
-| rus-Cyrl-RU | цепна́я реа́кция |  |
+| rus-Cyrl-RU |  |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
 | zxx-Zsym-ZZ |  |  |

@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 安培计、电流表 |  |
-| cmn-Latn-CN | ānpéi jì, diànliú biǎo |  |
+| cmn-Hans-CN | 伏特计 |  |
+| cmn-Latn-CN | fútè jì, diànyā biǎo |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Spannungsmessgerät [m], Spannungsmesser [m] |  |
 | eng-Latn-US | voltmeter | [[electric potential difference, electric pressure, electric tension, voltage]] |

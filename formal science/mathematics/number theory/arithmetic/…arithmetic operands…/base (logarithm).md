@@ -7,18 +7,18 @@
 | deu-Latn-DE | Basis [f] (Logarithmus) |  |
 | eng-Latn-US | base (logarithm) | [[logarithm (operation)]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | base [f] |  |
+| fra-Latn-FR | base [f] (logarithme) |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | てい |  |
-| jpn-Jpan-JP | 底 |  |
+| jpn-Hrkt-JP | てい（たいすうえんざん） |  |
+| jpn-Jpan-JP | 底（対数演算） |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |
 | nob-Latn-NO |  |  |
 | por-Latn-PT |  |  |
-| rus-Cyrl-RU | основа́нием |  |
+| rus-Cyrl-RU | основа́нием (логари́фм) |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
 | zxx-Zsym-ZZ |  |  |

@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 小数点 |  |
-| cmn-Latn-CN | xiǎoshù diǎn |  |
+| cmn-Hans-CN | 十进制小数点 |  |
+| cmn-Latn-CN | shíjìnzhì xiǎoshùdiǎn |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Dezimaltrennzeichen |  |
 | eng-Latn-US | decimal separator | [[decimal part, fractional part]] |
@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | しょうすうてん |  |
-| jpn-Jpan-JP | 小数点 |  |
+| jpn-Hrkt-JP |  |  |
+| jpn-Jpan-JP |  |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

@@ -5,7 +5,7 @@
 | cmn-Latn-CN | báo tòujìng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | dünne Linse |  |
-| eng-Latn-US | lens |  |
+| eng-Latn-US | thin lens |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | lentille [f] mince |  |
 | heb-Hebr-IL |  |  |

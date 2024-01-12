@@ -1,18 +1,18 @@
 | | |
 |-|-|
 | arb-Arab-ZZ |  |
-| cmn-Hans-CN |  |
-| cmn-Latn-CN |  |
+| cmn-Hans-CN | _政治科学_、_政治学_ |
+| cmn-Latn-CN | _zhèngzhí kēxué_, _zhèngzhí xué_ |
 | dan-Latn-DK |  |
-| deu-Latn-DE |  |
-| eng-Latn-US |  |
+| deu-Latn-DE | _Politikwissenschaft_, _politische Wissenschaft_, _Politologie_, _Wissenschaft von der Politik_, _wissenschaftliche Politik_ |
+| eng-Latn-US | _political science_ |
 | fin-Latn-FI |  |
-| fra-Latn-FR | _political science_ |
+| fra-Latn-FR |  |
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP |  |
-| jpn-Jpan-JP |  |
+| jpn-Hrkt-JP | _せいじがく [3]_ |
+| jpn-Jpan-JP | _政治学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |
 | nld-Latn-NL |  |

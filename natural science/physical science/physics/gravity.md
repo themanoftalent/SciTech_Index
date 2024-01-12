@@ -1,11 +1,11 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 引力 |  |
-| cmn-Latn-CN | yǐn lì |  |
+| cmn-Hans-CN | 引力、重力 |  |
+| cmn-Latn-CN | yǐn lì, zhòng lì |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Gravitation, Gravitationskraft |  |
-| eng-Latn-US | gravity | [[energy]]; [[fundamental forces, fundamental interactions]]; [[calorific value, energy value, heat of combustion, heating value]] |
+| eng-Latn-US | gravitation, gravity | [[energy]]; [[fundamental forces, fundamental interactions]]; [[calorific value, energy value, heat of combustion, heating value]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | gravitation |  |
 | heb-Hebr-IL |  |  |

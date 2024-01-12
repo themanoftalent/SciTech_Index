@@ -5,9 +5,9 @@
 | cmn-Latn-CN | rè yùndòng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Wärmebewegung |  |
-| eng-Latn-US | convective heat transfer, thermal convection |  |
+| eng-Latn-US | heat movement, thermal movement |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | convection thermique |  |
+| fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

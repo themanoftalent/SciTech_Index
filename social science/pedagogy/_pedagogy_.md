@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | _きょういくがく_ |
+| jpn-Hrkt-JP | _きょういくがく [4]_ |
 | jpn-Jpan-JP | _教育学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |

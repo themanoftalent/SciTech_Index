@@ -5,7 +5,7 @@
 | cmn-Latn-CN | zhēnshí yìnglì |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | wahre Spannung |  |
-| eng-Latn-US | nominal stress |  |
+| eng-Latn-US | true stress |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

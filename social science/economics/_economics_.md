@@ -1,20 +1,20 @@
 | | |
 |-|-|
 | arb-Arab-ZZ |  |
-| cmn-Hans-CN | _政治科学_、_政治学_ |
-| cmn-Latn-CN | _zhèngzhí kēxué_, _zhèngzhí xué_ |
+| cmn-Hans-CN | _经济学_ |
+| cmn-Latn-CN | _jīngjì xué_ |
 | dan-Latn-DK |  |
-| deu-Latn-DE | _Politikwissenschaft_, _politische Wissenschaft_, _Politologie_, _Wissenschaft von der Politik_, _wissenschaftliche Politik_ |
+| deu-Latn-DE | _Wirtschaftswissenschaft_, _Ökonomie_ |
 | eng-Latn-US | _economics_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR | _économie_, _économie politique_, _science économique_ |
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | _せいじがく_ |
-| jpn-Jpan-JP | _政治学_ |
-| kor-Hang-KR |  |
-| kor-Kore-KR |  |
+| jpn-Hrkt-JP | _けいざいがく [3]_ |
+| jpn-Jpan-JP | _経済学_ |
+| kor-Hang-KR | 경제학 |
+| kor-Kore-KR | 經濟學 |
 | nld-Latn-NL |  |
 | nob-Latn-NO |  |
 | pes-Aran-IR |  |

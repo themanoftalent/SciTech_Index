@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 镗床 |  |
 | cmn-Latn-CN | táng chuáng |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Bohrmaschine |  |
+| deu-Latn-DE |  |  |
 | eng-Latn-US | boring machine |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | aléseuse |  |

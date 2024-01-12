@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 色散 |  |
 | cmn-Latn-CN | sè sàn |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Dispersion |  |
+| deu-Latn-DE | Dispersion (Optik) |  |
 | eng-Latn-US | chromatic dispersion, dispersion |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | dispersion (optique) |  |

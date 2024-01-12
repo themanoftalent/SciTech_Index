@@ -5,7 +5,7 @@
 | cmn-Latn-CN | Tàilè zhǎnkāi |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Taylor-Entwicklung |  |
-| eng-Latn-US | Taylor series |  |
+| eng-Latn-US | Taylor expansion |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | développement en série de Taylor |  |
 | heb-Hebr-IL |  |  |

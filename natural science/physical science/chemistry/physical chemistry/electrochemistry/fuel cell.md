@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 干电池 |  |
-| cmn-Latn-CN | gān diànchí |  |
+| cmn-Hans-CN | 燃料电池 |  |
+| cmn-Latn-CN | ránliào diànchí |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Brennstoffzelle |  |
 | eng-Latn-US | fuel cell |  |

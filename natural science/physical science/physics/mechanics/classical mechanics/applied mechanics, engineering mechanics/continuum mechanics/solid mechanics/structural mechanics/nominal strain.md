@@ -5,7 +5,7 @@
 | cmn-Latn-CN | míngyì yìngbiàn |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Nenndehnung |  |
-| eng-Latn-US | nominal stress |  |
+| eng-Latn-US | nominal strain |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

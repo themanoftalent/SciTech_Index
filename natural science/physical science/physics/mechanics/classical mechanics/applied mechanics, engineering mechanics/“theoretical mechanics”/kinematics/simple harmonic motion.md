@@ -7,7 +7,7 @@
 | deu-Latn-DE | harmonische Bewegung, harmonische Schwingung |  |
 | eng-Latn-US | simple harmonic motion | [[force]]; [[direct proportinality]]; [[displacement]]; [[vibration]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | oscillateur harmonique |  |
+| fra-Latn-FR | mouvement harmonique simple |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 还原剂 |  |
-| cmn-Latn-CN | huányuán jì |  |
+| cmn-Hans-CN | 氧化剂 |  |
+| cmn-Latn-CN | yǎnghuà jì |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Oxidationsmittel |  |
 | eng-Latn-US | oxidant, oxidizer, oxidizing agent | [[electron acceptor, electron recipient]] |

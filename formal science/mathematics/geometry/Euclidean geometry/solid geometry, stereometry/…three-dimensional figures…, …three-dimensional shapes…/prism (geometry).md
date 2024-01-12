@@ -5,7 +5,7 @@
 | cmn-Latn-CN | léng zhù |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Prisma |  |
-| eng-Latn-US | prism |  |
+| eng-Latn-US | prism (geometry) |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | prisme |  |
 | heb-Hebr-IL |  |  |

@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ゆみがた |  |
-| jpn-Jpan-JP | 弓形 |  |
+| jpn-Hrkt-JP |  |  |
+| jpn-Jpan-JP |  |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

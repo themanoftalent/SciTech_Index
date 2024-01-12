@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 固相线 |  |
-| cmn-Latn-CN | gùxiàng xiàn |  |
+| cmn-Hans-CN | 固相线温度 |  |
+| cmn-Latn-CN | gùxiàngxiàn wēndù |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Solidustemperatur |  |
 | eng-Latn-US | solidus temperature |  |

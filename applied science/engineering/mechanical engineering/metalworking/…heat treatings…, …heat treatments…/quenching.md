@@ -7,7 +7,7 @@
 | deu-Latn-DE |  |  |
 | eng-Latn-US | quenching |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | cémentation |  |
+| fra-Latn-FR | trempe [m] |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 反余弦 |  |
-| cmn-Latn-CN | fǎn yúxián |  |
+| cmn-Hans-CN | 反余割 |  |
+| cmn-Latn-CN | fǎn yúgē |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
 | eng-Latn-US | arccosecant |  |

@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |
-| jpn-Hrkt-JP | _ちりがく_ |
+| jpn-Hrkt-JP | _ちりがく [2]_ |
 | jpn-Jpan-JP | _地理学_ |
 | kor-Hang-KR |  |
 | kor-Kore-KR |  |
