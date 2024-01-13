@@ -5,7 +5,7 @@
 | cmn-Latn-CN | qūjìng zèng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Retorte |  |
-| eng-Latn-US | retort |  |
+| eng-Latn-US | boiling flask, Florence flask |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | cornue [f] |  |
 | heb-Hebr-IL |  |  |

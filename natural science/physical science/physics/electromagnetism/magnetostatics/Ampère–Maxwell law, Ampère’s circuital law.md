@@ -5,7 +5,7 @@
 | cmn-Latn-CN | Ānpéi huánlù dìnglǜ |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Ampèresche Gesetz [n], Durchflutungsgesetz [n], Durchflutungssatz [m] |  |
-| eng-Latn-US | Ampère–Maxwell law, Ampère–s circuital law |  |
+| eng-Latn-US | Ampère–Maxwell law, Ampère’s circuital law |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | théorème d’Ampère |  |
 | heb-Hebr-IL |  |  |

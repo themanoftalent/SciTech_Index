@@ -5,7 +5,7 @@
 | cmn-Latn-CN | _…shūyùn xiànxiàng…_ |
 | dan-Latn-DK |  |
 | deu-Latn-DE | _…Transportphänomene [n-pl]…_ |
-| eng-Latn-US | _…transport phenomena [pl]…_ |
+| eng-Latn-US | _…transport phenomena…_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR | _…phénomènes [m-pl] de transfert…_, _…phénomènes [m-pl] de transport…_ |
 | heb-Hebr-IL |  |

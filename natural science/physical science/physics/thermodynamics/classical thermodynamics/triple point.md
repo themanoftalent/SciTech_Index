@@ -5,7 +5,7 @@
 | cmn-Latn-CN | sānxiàng diǎn |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Dreiphasenpunkt [m], Tripelpunkt [m] |  |
-| eng-Latn-US | triple point | [[phase transition, phase change]]; [[pressure]]; [[temperature]] |
+| eng-Latn-US | triple point | [[phase change, phase transition]]; [[pressure]]; [[temperature]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | point triple |  |
 | heb-Hebr-IL |  |  |

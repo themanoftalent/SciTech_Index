@@ -5,7 +5,7 @@
 | cmn-Latn-CN | qì róngjiāo |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Aerosol [n] |  |
-| eng-Latn-US |  |  |
+| eng-Latn-US | aerosol |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | aérosol |  |
 | heb-Hebr-IL |  |  |

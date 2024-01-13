@@ -5,7 +5,7 @@
 | cmn-Latn-CN | èrjìnzhì zhǐsuànfǎ |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Binärzählen mit Fingern [m-pl] |  |
-| eng-Latn-US | finger binary | [[basic operation]]; [[binary system]] |
+| eng-Latn-US | finger binary | [[basic operations]]; [[binary system]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

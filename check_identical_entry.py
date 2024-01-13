@@ -14,5 +14,6 @@ for s_file_path in glob(f'{top_path}/**/*.md', recursive=True):
 for i_entry_index in range(len(lls_entry)):
 	for ls_entry_to_check in lls_entry[i_entry_index+1:]:
 		if ls_entry_to_check[0] == lls_entry[i_entry_index][0]:
-			print(ls_entry_to_check)
-			print(lls_entry[i_entry_index])
+			print(ls_entry_to_check[0])
+			print(ls_entry_to_check[1])
+			print(lls_entry[i_entry_index][1])

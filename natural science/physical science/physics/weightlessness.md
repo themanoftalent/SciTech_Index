@@ -5,7 +5,7 @@
 | cmn-Latn-CN | shī zhòng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Schwerelosigkeit |  |
-| eng-Latn-US | weightlessness | [[gravity]] |
+| eng-Latn-US | weightlessness | [[gravitation, gravity]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | apesanteur [f], impesanteur [f] |  |
 | heb-Hebr-IL |  |  |

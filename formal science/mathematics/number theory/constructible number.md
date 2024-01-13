@@ -5,7 +5,7 @@
 | cmn-Latn-CN | guījǔ shù, kězào shù |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | konstruierbare Zahl |  |
-| eng-Latn-US | constructible number | [[classical construction, Euclidean construction, ruler-and-compass construction, straightedge-and-compass construction]]; [[real number]] |
+| eng-Latn-US | constructible number | [[Euclidean construction, classical construction, ruler-and-compass construction, straightedge-and-compass construction]]; [[real number]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | nombre [m] constructible |  |
 | heb-Hebr-IL |  |  |

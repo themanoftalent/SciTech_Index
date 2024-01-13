@@ -5,7 +5,7 @@
 | cmn-Latn-CN | zhìliàng shǒuhéng dìnglǜ |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Massenerhaltungssatz [m] |  |
-| eng-Latn-US | law of conservation of mass, principle of mass conservation.md | [[closed system]]; [[energy]]; [[mass]] |
+| eng-Latn-US | law of conservation of mass, principle of mass conservation | [[closed system]]; [[energy]]; [[mass]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | loi de conservation de la masse |  |
 | heb-Hebr-IL |  |  |

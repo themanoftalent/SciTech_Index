@@ -5,7 +5,7 @@
 | cmn-Latn-CN | Lúnqín shèxiàn, X shèxiàn |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Röntgenstrahl [m], Röntgenstrahlung |  |
-| eng-Latn-US | ultraviolet | [[electromagnetic radiation]]; [[spatial period, wavelength]] |
+| eng-Latn-US | X-radiation, X-ray | [[electromagnetic radiation]]; [[spatial period, wavelength]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | rayon X |  |
 | heb-Hebr-IL |  |  |

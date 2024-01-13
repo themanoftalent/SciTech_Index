@@ -12,7 +12,7 @@ def check(s_sort_item, s_item_separator):
 		print(s_file_path)
 		print(s_locale)
 		print(sorted(ls_sort_item))
-		print('\n')
+		print()
 
 def s_get_item_separator(s_writing_system, s_punctuation_type):
 	if s_punctuation_type == 'comma':

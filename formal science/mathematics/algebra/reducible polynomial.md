@@ -5,7 +5,7 @@
 | cmn-Latn-CN | kěyuē duōxiàngshì |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | reduzibles Polynom |  |
-| eng-Latn-US | reducible polynomial | [[factorization, factoring]]; [[polynomial]] |
+| eng-Latn-US | reducible polynomial | [[factoring, factorization]]; [[polynomial]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | polynôme [m] réductible |  |
 | heb-Hebr-IL |  |  |

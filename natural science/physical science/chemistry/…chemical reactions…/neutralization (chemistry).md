@@ -5,7 +5,7 @@
 | cmn-Latn-CN | zhōnghé fǎnyìng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Neutralisation |  |
-| eng-Latn-US | neutralization |  |
+| eng-Latn-US | neutralization (chemistry) |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | neutralisation |  |
 | heb-Hebr-IL |  |  |

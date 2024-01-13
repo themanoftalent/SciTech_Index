@@ -48,4 +48,5 @@ Simple ways of the visualisation are
 * Commas are used to separate synonyms;
 * Round brackets with text inside are used to indicate a specific meaning of a polyseme;
 * Square brackets with text inside are used to indicate gender, plural form, pitch accent and other linguistic features of a word;
+* Curly brackets with text inside are used to indicate entry in another anchor locale;
 * Doubled punctuations are used to indicate the escape from other punctuation rules;

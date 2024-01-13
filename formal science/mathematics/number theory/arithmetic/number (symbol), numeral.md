@@ -5,7 +5,7 @@
 | cmn-Latn-CN | shù zì (zhěnggè fúhào) |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Zahl [f] (Symbol [n]) |  |
-| eng-Latn-US | number (symbol), numeral | [[digit]] |
+| eng-Latn-US | number (symbol), numeral | [[numerical digit]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | chiffre [m] (symbole entier) |  |
 | heb-Hebr-IL |  |  |

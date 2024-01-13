@@ -5,7 +5,7 @@
 | cmn-Latn-CN | yǐnlì shìnéng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | potentielle Gravitationsenergie |  |
-| eng-Latn-US | gravitational energy, gravitational potential energy | [[gravity]]; [[potential energy]] |
+| eng-Latn-US | gravitational energy, gravitational potential energy | [[gravitation, gravity]]; [[potential energy]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | énergie potentielle gravitationnelle |  |
 | heb-Hebr-IL |  |  |

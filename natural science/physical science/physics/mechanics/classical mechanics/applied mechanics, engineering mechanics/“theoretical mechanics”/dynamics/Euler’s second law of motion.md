@@ -5,7 +5,7 @@
 | cmn-Latn-CN | Ōulā dì’èr yùndòng dìnglǜ |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | zweiter cauchy-eulersche Bewegungsgesetz |  |
-| eng-Latn-US | Euler’s second laws of motion |  |
+| eng-Latn-US | Euler’s second law of motion |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

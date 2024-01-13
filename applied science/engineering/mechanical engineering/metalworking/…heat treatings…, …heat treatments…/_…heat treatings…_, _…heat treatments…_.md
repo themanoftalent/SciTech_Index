@@ -5,7 +5,7 @@
 | cmn-Latn-CN | _…rè chǔlǐ…_ |
 | dan-Latn-DK |  |
 | deu-Latn-DE | _…Wärmebehandlungen…_ |
-| eng-Latn-US | _…heat treating…_, _…heat treatment…_ |
+| eng-Latn-US | _…heat treatings…_, _…heat treatments…_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR |  |
 | heb-Hebr-IL |  |

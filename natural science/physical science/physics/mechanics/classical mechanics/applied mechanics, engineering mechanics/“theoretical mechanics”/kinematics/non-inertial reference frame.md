@@ -5,7 +5,7 @@
 | cmn-Latn-CN | fēiguànxìng cānkǎoxì, fēiguànxìng xì, fēiguànxìng zuòbiāoxì |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Nicht-Inertialsystem [n], beschleunigtes Bezugssystem |  |
-| eng-Latn-US | non-inertial reference frame | [[inertial frame of reference, inertial reference frame, inertial frame, Galilean reference frame]] |
+| eng-Latn-US | non-inertial reference frame | [[Galilean reference frame, inertial frame, inertial frame of reference, inertial reference frame]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | référentiel non galiléen, référentiel non inertiel |  |
 | heb-Hebr-IL |  |  |

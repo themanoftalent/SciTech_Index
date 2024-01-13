@@ -5,7 +5,7 @@
 | cmn-Latn-CN |  |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | nicht rechtwinkliges Dreieck, schiefwinkliges Dreieck |  |
-| eng-Latn-US | obtuse triangle | [[perpenticularity]]; [[triangle (polygon)]] |
+| eng-Latn-US | oblique triangle | [[perpenticularity]]; [[triangle (polygon)]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 耀斑 |  |
-| cmn-Latn-CN | yàn bān |  |
+| cmn-Hans-CN | 磁暴 |  |
+| cmn-Latn-CN | cí bào |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Sonnensturm, geomagnetischer Sturm, magnetischer Sturm |  |
 | eng-Latn-US | geomagnetic storm, magnetic storm |  |

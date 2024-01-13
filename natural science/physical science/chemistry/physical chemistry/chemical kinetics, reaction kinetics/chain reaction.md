@@ -5,7 +5,7 @@
 | cmn-Latn-CN | liàn fǎnyìng, liánsuǒ fǎnyìng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Kettenreaktion |  |
-| eng-Latn-US | chemical reaction | [[chemical substance]] |
+| eng-Latn-US | chain reaction | [[chemical substance]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | réaction en chaîne [f] |  |
 | heb-Hebr-IL |  |  |
