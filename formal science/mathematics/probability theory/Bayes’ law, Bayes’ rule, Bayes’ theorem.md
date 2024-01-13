@@ -4,8 +4,8 @@
 | cmn-Hans-CN | 贝叶斯定理 |  |
 | cmn-Latn-CN | Bèiyèsī dìnglǐ |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Satz [m] von Bayes, Formel [f] von Bayes |  |
-| eng-Latn-US | Bayes' law, Bayes' rule, Bayes' theorem | [[event]] |
+| deu-Latn-DE | Formel [f] von Bayes, Satz [m] von Bayes |  |
+| eng-Latn-US | Bayes’ law, Bayes’ rule, Bayes’ theorem | [[event]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | théorème de Bayes |  |
 | heb-Hebr-IL |  |  |

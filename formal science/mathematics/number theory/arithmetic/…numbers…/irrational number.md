@@ -5,7 +5,7 @@
 | cmn-Latn-CN | wúlǐ shù |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | irrationale Zahl |  |
-| eng-Latn-US | irrational number | [[real number]]; [[rational number]] |
+| eng-Latn-US | irrational number | [[rational number]]; [[real number]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | nombre irrationnel |  |
 | heb-Hebr-IL |  |  |

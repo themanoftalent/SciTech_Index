@@ -2,7 +2,7 @@
 |-|-|-|
 | arb-Arab-ZZ |  |  |
 | cmn-Hans-CN | 布尔域 |  |
-| cmn-Latn-CN | Bù'ěr yù |  |
+| cmn-Latn-CN | Bù’ěr yù |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
 | eng-Latn-US | Boolean domain | [[set]] |
@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ブールりょういき、ブーリアンりょういき |  |
-| jpn-Jpan-JP | ブール領域、ブーリアン領域 |  |
+| jpn-Hrkt-JP | ブーリアンりょういき、ブールりょういき |  |
+| jpn-Jpan-JP | ブーリアン領域、ブール領域 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

@@ -5,7 +5,7 @@
 | cmn-Latn-CN | èrxiàng shì |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Binom [n] |  |
-| eng-Latn-US | binomial | [[polynomial]]; [[monomial]] |
+| eng-Latn-US | binomial | [[monomial]]; [[polynomial]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | binôme [m] |  |
 | heb-Hebr-IL |  |  |

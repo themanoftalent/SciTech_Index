@@ -7,7 +7,7 @@
 | deu-Latn-DE | Zustandsgleichung |  |
 | eng-Latn-US | equation of state |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | équation d'état |  |
+| fra-Latn-FR | équation d’état |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

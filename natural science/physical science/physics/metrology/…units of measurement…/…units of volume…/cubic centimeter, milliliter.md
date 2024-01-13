@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | りっぽうセンチメートル、りっぽうセンチ、ミリリットル |  |
-| jpn-Jpan-JP | 立方センチメートル、立方センチ、ミリリットル |  |
+| jpn-Hrkt-JP | りっぽうセンチ、りっぽうセンチメートル、ミリリットル |  |
+| jpn-Jpan-JP | 立方センチ、立方センチメートル、ミリリットル |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

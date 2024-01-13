@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ギブズのそうりつ、そうりつ |  |
-| jpn-Jpan-JP | ギブズの相律、相律 |  |
+| jpn-Hrkt-JP | そうりつ、ギブズのそうりつ |  |
+| jpn-Jpan-JP | 相律、ギブズの相律 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

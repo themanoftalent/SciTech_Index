@@ -5,7 +5,7 @@
 | cmn-Latn-CN | yúnsù yùndòng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | gleichförmige Bewegung |  |
-| eng-Latn-US | uniform motion | [[speed]]; [[motion]] |
+| eng-Latn-US | uniform motion | [[motion]]; [[speed]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | mouvement uniforme |  |
 | heb-Hebr-IL |  |  |

@@ -2,7 +2,7 @@
 |-|-|-|
 | arb-Arab-ZZ |  |  |
 | cmn-Hans-CN | 阿尔法铁、铁素体 |  |
-| cmn-Latn-CN | a'ěrfǎ tiě, tiěsù tǐ |  |
+| cmn-Latn-CN | a’ěrfǎ tiě, tiěsù tǐ |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Ferrit [m] |  |
 | eng-Latn-US | alpha iron, ferrite |  |

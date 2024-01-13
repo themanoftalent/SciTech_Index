@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 电化学腐蚀 |  |
 | cmn-Latn-CN | diànhuàxué fǔshí |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Bimetallkorrosion, galvanische Korrosion, Kontaktkorrosion |  |
+| deu-Latn-DE | Bimetallkorrosion, Kontaktkorrosion, galvanische Korrosion |  |
 | eng-Latn-US | bimetallic corrosion, dissimilar metal corrosion, galvanic corrosion  |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |

@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 溶质 |  |
 | cmn-Latn-CN | róng zhì |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | gelöster Stoff, gelöste Substanz |  |
+| deu-Latn-DE | gelöste Substanz, gelöster Stoff |  |
 | eng-Latn-US | solute |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | soluté |  |

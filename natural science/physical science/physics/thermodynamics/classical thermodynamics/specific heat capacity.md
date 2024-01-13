@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ひねつようりょう、ひねつ |  |
-| jpn-Jpan-JP | 比熱容量、比熱 |  |
+| jpn-Hrkt-JP | ひねつ、ひねつようりょう |  |
+| jpn-Jpan-JP | 比熱、比熱容量 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

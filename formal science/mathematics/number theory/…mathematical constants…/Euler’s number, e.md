@@ -7,12 +7,12 @@
 | deu-Latn-DE | eulersche Zahl |  |
 | eng-Latn-US | Euler’s number, e | [[mathematical constant]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | constante [f] de Néper, nombre [m] d'Euler, nombre [m] e |  |
+| fra-Latn-FR | constante [f] de Néper, nombre [m] d’Euler, nombre [m] e |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ネイピアすう、オイラーすう |  |
-| jpn-Jpan-JP | ネイピア数、オイラー数 |  |
+| jpn-Hrkt-JP | オイラーすう、ネイピアすう |  |
+| jpn-Jpan-JP | オイラー数、ネイピア数 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

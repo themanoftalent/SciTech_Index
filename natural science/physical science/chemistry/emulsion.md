@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | エマルション、エマルジョン、にゅうざい、にゅうだくえき |  |
-| jpn-Jpan-JP | エマルション、エマルジョン、乳剤、乳濁液 |  |
+| jpn-Hrkt-JP | にゅうざい、にゅうだくえき、エマルション、エマルジョン |  |
+| jpn-Jpan-JP | 乳剤、乳濁液、エマルション、エマルジョン |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

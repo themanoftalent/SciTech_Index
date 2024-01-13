@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | キログラム、キロ |  |
-| jpn-Jpan-JP | キログラム、キロ |  |
+| jpn-Hrkt-JP | キロ、キログラム |  |
+| jpn-Jpan-JP | キロ、キログラム |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

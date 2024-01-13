@@ -2,7 +2,7 @@
 |-|-|-|
 | arb-Arab-ZZ |  |  |
 | cmn-Hans-CN | 摩尔、摩 |  |
-| cmn-Latn-CN | mó, mó'ěr |  |
+| cmn-Latn-CN | mó, mó’ěr |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Mol [n] |  |
 | eng-Latn-US | mole |  |

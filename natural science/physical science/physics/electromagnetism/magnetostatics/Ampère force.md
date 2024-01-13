@@ -7,7 +7,7 @@
 | deu-Latn-DE |  |  |
 | eng-Latn-US | Ampère force |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | force [f] d'Ampère |  |
+| fra-Latn-FR | force [f] d’Ampère |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

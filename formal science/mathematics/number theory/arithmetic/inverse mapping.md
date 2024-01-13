@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 逆映射 |  |
 | cmn-Latn-CN | nì yìngshè |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | inverse Abbildung, Umkehrabbildung |  |
+| deu-Latn-DE | Umkehrabbildung, inverse Abbildung |  |
 | eng-Latn-US | inverse mapping | [[bijection, bijective function]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | bijection réciproque |  |

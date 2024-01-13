@@ -7,7 +7,7 @@
 | deu-Latn-DE | Trägheitskraft [f] |  |
 | eng-Latn-US | fictitious force, inertial force, pseudo-force | [[force]]; [[non-inertial reference frame]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | force [f] d'inertie, force fictive, force inertielle, pseudo-force [f] |  |
+| fra-Latn-FR | force [f] d’inertie, force fictive, force inertielle, pseudo-force [f] |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

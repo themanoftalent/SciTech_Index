@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 反函数 |  |
 | cmn-Latn-CN | fǎn hánshù |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | inverse Funktion, Umkehrfunktion |  |
+| deu-Latn-DE | Umkehrfunktion, inverse Funktion |  |
 | eng-Latn-US | anti-function, inverse function | [[inverse mapping]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | fonction réciproque |  |

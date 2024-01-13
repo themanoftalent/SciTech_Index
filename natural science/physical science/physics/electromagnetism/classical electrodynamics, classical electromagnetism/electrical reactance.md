@@ -5,7 +5,7 @@
 | cmn-Latn-CN | diàn kàng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Blindwiderstand [m], Reaktanz |  |
-| eng-Latn-US | reactance | [[superconductivity]]; [[electrical capacitance]]; [[inductance]] |
+| eng-Latn-US | reactance | [[electrical capacitance]]; [[inductance]]; [[superconductivity]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | réactance |  |
 | heb-Hebr-IL |  |  |

@@ -5,7 +5,7 @@
 | cmn-Latn-CN |  |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
-| eng-Latn-US | angular mass, mass moment of inertia, moment of inertia, rotational inertia, second moment of mass | [[angular acceleration]]; [[rigid body]]; [[reactional force, torque]] |
+| eng-Latn-US | angular mass, mass moment of inertia, moment of inertia, rotational inertia, second moment of mass | [[angular acceleration]]; [[reactional force, torque]]; [[rigid body]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

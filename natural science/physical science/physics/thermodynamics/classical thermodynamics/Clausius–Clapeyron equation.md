@@ -7,7 +7,7 @@
 | deu-Latn-DE | Clausius-Clapeyron-Gleichung |  |
 | eng-Latn-US | Clausius–Clapeyron equation |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | équation de Clausius-Clapeyron, formule [f] de Clausius-Clapeyron |  |
+| fra-Latn-FR | formule [f] de Clausius-Clapeyron, équation de Clausius-Clapeyron |  |
 | ita-Latn-IT | equazione di Clapeyron, equazione di Clausius–Clapeyron |  |
 | jpn-Hrkt-JP | クラウジウス・クラペイロンのしき |  |
 | jpn-Jpan-JP | クラウジウス・クラペイロンの式 |  |

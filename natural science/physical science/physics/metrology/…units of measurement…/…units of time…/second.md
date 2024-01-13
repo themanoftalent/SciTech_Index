@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 秒钟、 |  |
-| cmn-Latn-CN | miǎo, miǎozhōng |  |
+| cmn-Hans-CN | 秒、秒钟 |  |
+| cmn-Latn-CN | miǎo, miǎo zhōng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Sekunde |  |
 | eng-Latn-US | second |  |

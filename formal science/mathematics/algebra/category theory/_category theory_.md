@@ -4,7 +4,7 @@
 | cmn-Hans-CN | _范畴论_ |
 | cmn-Latn-CN | _fànchóu lùn_ |
 | dan-Latn-DK |  |
-| deu-Latn-DE | _kategorielle Algebra_, _Kategorientheorie_ |
+| deu-Latn-DE | _Kategorientheorie_, _kategorielle Algebra_ |
 | eng-Latn-US | _category theory_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR | _théorie des catégories [f-pl]_ |

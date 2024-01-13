@@ -4,10 +4,10 @@
 | cmn-Hans-CN | _立体几何_ |
 | cmn-Latn-CN | _lìtǐ jǐhé_ |
 | dan-Latn-DK |  |
-| deu-Latn-DE | _Raumgeometrie_, _räumliche Geometrie_, _Stereometrie_ |
+| deu-Latn-DE | _Raumgeometrie_, _Stereometrie_, _räumliche Geometrie_ |
 | eng-Latn-US | _solid geometry_, _stereometry_ |
 | fin-Latn-FI |  |
-| fra-Latn-FR | _géométrie dans l'espace [m]_ |
+| fra-Latn-FR | _géométrie dans l’espace [m]_ |
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |

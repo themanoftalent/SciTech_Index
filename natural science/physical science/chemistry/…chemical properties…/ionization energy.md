@@ -4,10 +4,10 @@
 | cmn-Hans-CN | 电离能、游离能 |  |
 | cmn-Latn-CN | diànlí néng, yóulí néng |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Ionisierungsenergie, Ionisierungspotential, Ionisationsenergie |  |
+| deu-Latn-DE | Ionisationsenergie, Ionisierungsenergie, Ionisierungspotential |  |
 | eng-Latn-US | ionization energy |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | énergie d'ionisation, potentiel d'ionisation |  |
+| fra-Latn-FR | potentiel d’ionisation, énergie d’ionisation |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

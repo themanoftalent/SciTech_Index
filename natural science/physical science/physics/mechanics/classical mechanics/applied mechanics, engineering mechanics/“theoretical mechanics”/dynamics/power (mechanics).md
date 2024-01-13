@@ -11,14 +11,14 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | しごとりつ、こうりつ、パワー |  |
-| jpn-Jpan-JP | 仕事率、工率、パワー |  |
+| jpn-Hrkt-JP | こうりつ、しごとりつ、パワー |  |
+| jpn-Jpan-JP | 工率、仕事率、パワー |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |
 | nob-Latn-NO |  |  |
 | por-Latn-PT |  |  |
-| rus-Cyrl-RU | кардина́льное число́, мо́щность, мно́жества |  |
+| rus-Cyrl-RU | кардина́льное число́, мно́жества, мо́щность |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
 | zxx-Zsym-ZZ |  |  |

@@ -19,7 +19,7 @@
 | nob-Latn-NO |  |
 | pes-Aran-IR |  |
 | por-Latn-PT |  |
-| rus-Cyrl-RU | _цитоло́гия_, _клеточная биология_, _биология клетки_ |
+| rus-Cyrl-RU | _биология клетки_, _клеточная биология_, _цитоло́гия_ |
 | swe-Latn-SE |  |
 | spa-Latn-ES |  |
 | zxx-Zsym-ZZ |  |

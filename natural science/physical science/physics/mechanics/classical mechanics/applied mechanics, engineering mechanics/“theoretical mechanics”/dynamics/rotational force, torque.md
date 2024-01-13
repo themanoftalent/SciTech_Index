@@ -7,7 +7,7 @@
 | deu-Latn-DE | Drehmoment, Kraftmoment, Moment |  |
 | eng-Latn-US | moment of force, torque | [[force]]; [[rotation]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | moment d'une force |  |
+| fra-Latn-FR | moment d’une force |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
@@ -18,7 +18,7 @@
 | nld-Latn-NL |  |  |
 | nob-Latn-NO |  |  |
 | por-Latn-PT |  |  |
-| rus-Cyrl-RU | враща́тельный момент, вертя́щий момент, враща́ющий момент, кру́тящий момент, моме́нт си́лы, моме́нт си́лы относи́тельно то́чки, скру́чивающий момент |  |
+| rus-Cyrl-RU | вертя́щий момент, враща́тельный момент, враща́ющий момент, кру́тящий момент, моме́нт си́лы, моме́нт си́лы относи́тельно то́чки, скру́чивающий момент |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
 | zxx-Zsym-ZZ |  |  |

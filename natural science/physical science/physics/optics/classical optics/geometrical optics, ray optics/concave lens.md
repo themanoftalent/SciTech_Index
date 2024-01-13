@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 凹透镜 |  |
 | cmn-Latn-CN | āo tòujìng |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Hohllinse, konkave Linse, Konkavlinse |  |
+| deu-Latn-DE | Hohllinse, Konkavlinse, konkave Linse |  |
 | eng-Latn-US | concave lens |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | lentille [f] concave |  |

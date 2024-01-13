@@ -2,7 +2,7 @@
 |-|-|-|
 | arb-Arab-ZZ |  |  |
 | cmn-Hans-CN | 马尔可夫链 |  |
-| cmn-Latn-CN | Mǎ'ěrkěfū liàn |  |
+| cmn-Latn-CN | Mǎ’ěrkěfū liàn |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Markow-Kette, Markow-Prozess [m] |  |
 | eng-Latn-US | Markov chain, Markov process | [[event]] |

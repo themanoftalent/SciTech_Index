@@ -21,5 +21,5 @@
 | rus-Cyrl-RU | це́лое число́ |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
-| zxx-Zsym-ZZ | ℤ, ص |  |
+| zxx-Zsym-ZZ | ص, ℤ |  |
 |  |  |  |

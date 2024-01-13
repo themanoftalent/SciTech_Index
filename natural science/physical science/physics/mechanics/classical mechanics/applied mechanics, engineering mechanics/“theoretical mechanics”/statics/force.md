@@ -21,5 +21,5 @@
 | rus-Cyrl-RU | си́ла |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
-| zxx-Zsym-ZZ | 𝐹⃗, 𝐅 |  |
+| zxx-Zsym-ZZ | 𝐅, 𝐹⃗ |  |
 |  |  |  |

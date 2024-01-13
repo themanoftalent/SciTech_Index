@@ -2,7 +2,7 @@
 |-|-|-|
 | arb-Arab-ZZ |  |  |
 | cmn-Hans-CN | 焦尔定律 |  |
-| cmn-Latn-CN | Jiāo'ěr dìnglǜ |  |
+| cmn-Latn-CN | Jiāo’ěr dìnglǜ |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | joulesches Gesetz |  |
 | eng-Latn-US | Joule’s first law, Joule’s law |  |

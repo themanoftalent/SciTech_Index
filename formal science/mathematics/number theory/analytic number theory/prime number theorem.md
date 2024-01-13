@@ -5,7 +5,7 @@
 | cmn-Latn-CN |  |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
-| eng-Latn-US | prime number theorem | [[prime number]]; [[asymptotic analysis]] |
+| eng-Latn-US | prime number theorem | [[asymptotic analysis]]; [[prime number]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

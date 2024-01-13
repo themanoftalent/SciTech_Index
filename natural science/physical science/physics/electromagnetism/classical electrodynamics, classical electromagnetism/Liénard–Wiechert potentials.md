@@ -5,7 +5,7 @@
 | cmn-Latn-CN | Lǐnà-Wéixiè shì |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Liénard-Wiechert-Potentiale |  |
-| eng-Latn-US | Liénard–Wiechert potentials | [[electric charge]]; [[Lorenz gauge condition, Lorenz gauge]]; [[scalar potential]]; [[vector potential]] |
+| eng-Latn-US | Liénard–Wiechert potentials | [[Lorenz gauge condition, Lorenz gauge]]; [[electric charge]]; [[scalar potential]]; [[vector potential]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | potentiels [m-pl] de Liénard-Wiechert |  |
 | heb-Hebr-IL |  |  |

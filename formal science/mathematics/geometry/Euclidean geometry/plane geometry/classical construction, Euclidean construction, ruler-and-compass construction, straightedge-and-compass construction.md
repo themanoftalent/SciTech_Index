@@ -5,7 +5,7 @@
 | cmn-Latn-CN | chǐguī zuòtú |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Konstruktion mit Zirkel und Lineal [n] |  |
-| eng-Latn-US | classical construction, Euclidean construction, ruler-and-compass construction, straightedge-and-compass construction | [[compass]]; [[ruler]] |
+| eng-Latn-US | Euclidean construction, classical construction, ruler-and-compass construction, straightedge-and-compass construction | [[compass]]; [[ruler]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | construction à la règle et au compas |  |
 | heb-Hebr-IL |  |  |

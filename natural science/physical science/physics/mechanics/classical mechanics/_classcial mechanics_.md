@@ -4,7 +4,7 @@
 | cmn-Hans-CN | _经典力学_ |
 | cmn-Latn-CN | _jīngdiǎn lìxué_ |
 | dan-Latn-DK |  |
-| deu-Latn-DE | _klassische Mechanik_, _Newton’sche Mechanik_ |
+| deu-Latn-DE | _Newton’sche Mechanik_, _klassische Mechanik_ |
 | eng-Latn-US | _classcial mechanics_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR | _mécanique newtonienne_, _méchanique [f] classique_ |

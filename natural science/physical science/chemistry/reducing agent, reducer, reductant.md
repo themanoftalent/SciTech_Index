@@ -5,7 +5,7 @@
 | cmn-Latn-CN | huányuán jì |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Reduktionsmittel |  |
-| eng-Latn-US | reducing agent, reducer, reductant | [[electron donor]] |
+| eng-Latn-US | reducer, reducing agent, reductant | [[electron donor]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | réducteur |  |
 | heb-Hebr-IL |  |  |

@@ -5,9 +5,9 @@
 | cmn-Latn-CN | yuánzhōu lǜ |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Archimedes-Konstante [f], Kreiszahl [f], Ludolfsche Zahl, Ludolphsche Zahl |  |
-| eng-Latn-US | Archimedes' constant, pi | [[circumference]]; [[diameter]] |
+| eng-Latn-US | Archimedes’ constant, pi | [[circumference]]; [[diameter]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | constante [f] d'Archimède, pi |  |
+| fra-Latn-FR | constante [f] d’Archimède, pi |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

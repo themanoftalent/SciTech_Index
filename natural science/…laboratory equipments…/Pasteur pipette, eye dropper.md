@@ -5,7 +5,7 @@
 | cmn-Latn-CN | Bāsīdé yíyèqì, dīguǎn |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Augenpipette |  |
-| eng-Latn-US | eye dropper, Pasteur pipette |  |
+| eng-Latn-US | Pasteur pipette, eye dropper |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | pipette Pasteur |  |
 | heb-Hebr-IL |  |  |

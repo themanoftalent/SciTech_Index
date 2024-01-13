@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 凸透镜 |  |
 | cmn-Latn-CN | tū tòujìng |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | konvexe Linse, Konvexlinse |  |
+| deu-Latn-DE | Konvexlinse, konvexe Linse |  |
 | eng-Latn-US | convex lens |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | lentille [f] convexe |  |

@@ -7,7 +7,7 @@
 | deu-Latn-DE | Algebra, Mengenalgebra |  |
 | eng-Latn-US | field of sets |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | algèbre [f] d'ensembles [m-pl], algèbre [f] de Boole de parties [f-sg], anneau booléen unitaire, brièvement algèbre de Boole, clan unitaire, variante corps d'ensembles [m-pl], voire simplement algèbre |  |
+| fra-Latn-FR | algèbre [f] de Boole de parties [f-sg], algèbre [f] d’ensembles [m-pl], anneau booléen unitaire, brièvement algèbre de Boole, clan unitaire, variante corps d’ensembles [m-pl], voire simplement algèbre |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

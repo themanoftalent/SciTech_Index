@@ -2,9 +2,9 @@
 |-|-|-|
 | arb-Arab-ZZ |  |  |
 | cmn-Hans-CN | X射线、伦琴射线 |  |
-| cmn-Latn-CN | àikèsī shèxiàn, Lúnqín shèxiàn |  |
+| cmn-Latn-CN | Lúnqín shèxiàn, X shèxiàn |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Röntgenstrahlung, Röntgenstrahl [m] |  |
+| deu-Latn-DE | Röntgenstrahl [m], Röntgenstrahlung |  |
 | eng-Latn-US | ultraviolet | [[electromagnetic radiation]]; [[spatial period, wavelength]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | rayon X |  |

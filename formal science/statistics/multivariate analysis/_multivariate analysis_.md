@@ -4,7 +4,7 @@
 | cmn-Hans-CN | _多变量分析_、_多元统计_ |
 | cmn-Latn-CN | _duō biànliàng fēnxī_, _duōyuán tǒngjì_ |
 | dan-Latn-DK |  |
-| deu-Latn-DE | _multivariate Verfahren [n-pl]_, _multivariate Analysemethoden [f-pl]_, _multivariate Statistik_ |
+| deu-Latn-DE | _multivariate Analysemethoden [f-pl]_, _multivariate Statistik_, _multivariate Verfahren [n-pl]_ |
 | eng-Latn-US | _multivariate analysis_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR | _analyse multivariée_, _statistique multivariée_ |

@@ -21,5 +21,5 @@
 | rus-Cyrl-RU | ско́рость |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
-| zxx-Zsym-ZZ | 𝑣⃗, 𝐯 |  |
+| zxx-Zsym-ZZ | 𝐯, 𝑣⃗ |  |
 |  |  |  |

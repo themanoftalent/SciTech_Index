@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 耀斑 |  |
 | cmn-Latn-CN | yàn bān |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | geomagnetischer Sturm, magnetischer Sturm, Sonnensturm |  |
+| deu-Latn-DE | Sonnensturm, geomagnetischer Sturm, magnetischer Sturm |  |
 | eng-Latn-US | geomagnetic storm, magnetic storm |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | orage magnétique, tempête géomagnétique, tempête magnétique |  |

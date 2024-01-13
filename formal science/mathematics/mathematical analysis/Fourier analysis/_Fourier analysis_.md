@@ -4,7 +4,7 @@
 | cmn-Hans-CN | _傅里叶分析_ |
 | cmn-Latn-CN | _Fùlǐyè fēnxī_ |
 | dan-Latn-DK |  |
-| deu-Latn-DE | _Fourier-Analysis [f]_, _Fourier-Analyse [f]_ |
+| deu-Latn-DE | _Fourier-Analyse [f]_, _Fourier-Analysis [f]_ |
 | eng-Latn-US | _Fourier analysis_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR | _analyse [f] de Fourier_ |

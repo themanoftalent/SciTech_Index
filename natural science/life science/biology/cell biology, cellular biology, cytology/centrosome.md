@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 中心体 |  |
 | cmn-Latn-CN | zhōngxīn tǐ |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Centrosom [n], Zentrosom [n], Zentralkörperchen |  |
+| deu-Latn-DE | Centrosom [n], Zentralkörperchen, Zentrosom [n] |  |
 | eng-Latn-US | centrosome |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | centrosome [m] |  |

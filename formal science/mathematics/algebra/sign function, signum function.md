@@ -5,7 +5,7 @@
 | cmn-Latn-CN | fúhào hánshù |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Signumfunktion, Vorzeichenfunktion |  |
-| eng-Latn-US | sign function, signum function | [[sign (mathematics)]]; [[function]] |
+| eng-Latn-US | sign function, signum function | [[function]]; [[sign (mathematics)]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | fonction signe, fonction signum |  |
 | heb-Hebr-IL |  |  |

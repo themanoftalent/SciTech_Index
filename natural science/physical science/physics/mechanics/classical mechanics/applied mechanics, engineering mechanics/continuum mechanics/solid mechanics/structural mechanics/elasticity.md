@@ -5,7 +5,7 @@
 | cmn-Latn-CN | tán xìng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Elastizität |  |
-| eng-Latn-US | elasticity | [[physical body, physical object]]; [[force]] |
+| eng-Latn-US | elasticity | [[force]]; [[physical body, physical object]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | déformation élastique |  |
 | heb-Hebr-IL |  |  |

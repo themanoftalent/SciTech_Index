@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 共熔系统、共晶系统 |  |
-| cmn-Latn-CN | gòngróng xìtǒng, gòngjīng xìtǒng |  |
+| cmn-Hans-CN | 共晶系统、共熔系统 |  |
+| cmn-Latn-CN | gòngjīng xìtǒng, gòngróng xìtǒng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
 | eng-Latn-US | eutectic system |  |

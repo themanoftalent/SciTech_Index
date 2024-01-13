@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | げんしオービタル、げんしきどう |  |
-| jpn-Jpan-JP | 原子オービタル、原子軌道 |  |
+| jpn-Hrkt-JP | げんしきどう、げんしオービタル |  |
+| jpn-Jpan-JP | 原子軌道、原子オービタル |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

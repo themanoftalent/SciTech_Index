@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 第一宇宙速度 |  |
 | cmn-Latn-CN | dìyī yǔzhòusùdù |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | erste kosmische Geschwindigkeit, Kreisbahngeschwindigkeit |  |
+| deu-Latn-DE | Kreisbahngeschwindigkeit, erste kosmische Geschwindigkeit |  |
 | eng-Latn-US | first cosmic velocity | [[escape velocity]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | première vitesse cosmique |  |

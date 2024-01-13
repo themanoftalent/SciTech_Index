@@ -2,10 +2,10 @@
 |-|-|-|
 | arb-Arab-ZZ |  |  |
 | cmn-Hans-CN | 斯涅尔定律 |  |
-| cmn-Latn-CN | Sīniè'ěr dìnglǜ |  |
+| cmn-Latn-CN | Sīniè–ěr dìnglǜ |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Brechungsgesetz [n], snellius-Gesetz [n], snelliussches Brechungsgesetz, snelliussches Gesetz |  |
-| eng-Latn-US | ibn-Sahl law, law of refraction, Snell’s law, Snell–Descartes law |  |
+| eng-Latn-US | Snell–Descartes law, Snell–s law, ibn-Sahl law, law of refraction |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | lois [f-pl] de Snell-Descartes |  |
 | heb-Hebr-IL |  |  |

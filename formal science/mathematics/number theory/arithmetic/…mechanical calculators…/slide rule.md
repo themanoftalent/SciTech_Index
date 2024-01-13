@@ -18,7 +18,7 @@
 | nld-Latn-NL |  |  |
 | nob-Latn-NO |  |  |
 | por-Latn-PT |  |  |
-| rus-Cyrl-RU | счётная линейка, логарифми́ческая лине́йка |  |
+| rus-Cyrl-RU | логарифми́ческая лине́йка, счётная линейка |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
 | zxx-Zsym-ZZ |  |  |

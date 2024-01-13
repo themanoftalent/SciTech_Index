@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 胞质、胞浆、细胞质 |  |
-| cmn-Latn-CN | bāo zhì, bāo jiāng, xìbāo zhì |  |
+| cmn-Hans-CN | 胞浆、胞质、细胞质 |  |
+| cmn-Latn-CN | bāo jiāng, bāo zhì, xìbāo zhì |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Cytoplasma, Zytoplasma |  |
 | eng-Latn-US | cytoplasm |  |

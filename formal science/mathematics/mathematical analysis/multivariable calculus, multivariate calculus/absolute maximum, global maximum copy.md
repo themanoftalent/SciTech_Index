@@ -5,7 +5,7 @@
 | cmn-Latn-CN | yǐn hánshù |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
-| eng-Latn-US | implicit function | [[implicit equation]]; [[function]] |
+| eng-Latn-US | implicit function | [[function]]; [[implicit equation]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | fonction implicite |  |
 | heb-Hebr-IL |  |  |

@@ -5,7 +5,7 @@
 | cmn-Latn-CN | Húkè dìnglǜ |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | hookesche Gesetz |  |
-| eng-Latn-US | Hooke’s law | [[direct proportinality]]; [[force]]; [[spring]]; [[displacement]] |
+| eng-Latn-US | Hooke’s law | [[direct proportinality]]; [[displacement]]; [[force]]; [[spring]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | loi [f] de Hooke |  |
 | heb-Hebr-IL |  |  |

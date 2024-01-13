@@ -5,7 +5,7 @@
 | cmn-Latn-CN | diàn zǔ |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Wirkwiderstand [m] |  |
-| eng-Latn-US | electrical resistance | [[electrical current]]; [[electric potential difference, electric pressure, electric tension, voltage]] |
+| eng-Latn-US | electrical resistance | [[electric potential difference, electric pressure, electric tension, voltage]], [[electrical current]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

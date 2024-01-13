@@ -5,7 +5,7 @@
 | cmn-Latn-CN | jiǎnxié yùndòng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | harmonische Bewegung, harmonische Schwingung |  |
-| eng-Latn-US | simple harmonic motion | [[force]]; [[direct proportinality]]; [[displacement]]; [[vibration]] |
+| eng-Latn-US | simple harmonic motion | [[direct proportinality]]; [[displacement]]; [[force]]; [[vibration]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | mouvement harmonique simple |  |
 | heb-Hebr-IL |  |  |

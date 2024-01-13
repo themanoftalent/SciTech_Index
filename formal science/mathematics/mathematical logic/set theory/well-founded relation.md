@@ -5,7 +5,7 @@
 | cmn-Latn-CN |  |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
-| eng-Latn-US | well-founded relation | [[binary relation]]; [[class]]; [[minimal element]]; [[empty set]] |
+| eng-Latn-US | well-founded relation | [[binary relation]]; [[class]]; [[empty set]]; [[minimal element]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

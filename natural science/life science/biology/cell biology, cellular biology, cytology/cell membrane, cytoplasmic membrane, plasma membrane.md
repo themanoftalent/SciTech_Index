@@ -4,15 +4,15 @@
 | cmn-Hans-CN | 细胞膜、原生质膜、质膜 |  |
 | cmn-Latn-CN | xìbāo mó, yuánshēngzhì mó, zhì mó |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Zellmembran [f], Zytomembran [f], Plasmamembran [f], Plasmalemma |  |
+| deu-Latn-DE | Plasmalemma, Plasmamembran [f], Zellmembran [f], Zytomembran [f] |  |
 | eng-Latn-US | cell membrane, cytoplasmic membrane, plasma membrane | [[biological membrane, biomembrane]]; [[cytoplasm]]; [[extracellular space]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | membrane cellulaire, membrane [f] cytoplasmique, membrane [f] plasmique, voire plasmalemme |  |
+| fra-Latn-FR | membrane [f] cytoplasmique, membrane [f] plasmique, membrane cellulaire, voire plasmalemme |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | さいぼうまく、けいしつまく、プラズマメンブレン |  |
-| jpn-Jpan-JP | 細胞膜、形質膜、プラズマメンブレン |  |
+| jpn-Hrkt-JP | けいしつまく、さいぼうまく、プラズマメンブレン |  |
+| jpn-Jpan-JP | 形質膜、細胞膜、プラズマメンブレン |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

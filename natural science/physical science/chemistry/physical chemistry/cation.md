@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | カチオン、ようイオン |  |
-| jpn-Jpan-JP | カチオン、陽イオン |  |
+| jpn-Hrkt-JP | ようイオン、カチオン |  |
+| jpn-Jpan-JP | 陽イオン、カチオン |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

@@ -5,7 +5,7 @@
 | cmn-Latn-CN |  |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
-| eng-Latn-US | finitary relation | [[binary relation]]; [[Cartesian product]] |
+| eng-Latn-US | finitary relation | [[Cartesian product]]; [[binary relation]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

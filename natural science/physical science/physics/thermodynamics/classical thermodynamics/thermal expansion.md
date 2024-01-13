@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 热膨胀 |  |
 | cmn-Latn-CN | rè péngzhàng |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | thermische Ausdehnung, thermische Expansion, Wärmeausdehnung |  |
+| deu-Latn-DE | Wärmeausdehnung, thermische Ausdehnung, thermische Expansion |  |
 | eng-Latn-US | thermal expansion |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | dilatation thermique |  |

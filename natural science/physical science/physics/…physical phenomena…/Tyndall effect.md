@@ -2,7 +2,7 @@
 |-|-|-|
 | arb-Arab-ZZ |  |  |
 | cmn-Hans-CN | 丁达尔效应 |  |
-| cmn-Latn-CN | dīndá'ěr xiàoyìng |  |
+| cmn-Latn-CN | dīndá’ěr xiàoyìng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Tyndall-Effekt [m] |  |
 | eng-Latn-US | Tyndall effect, Tyndall scattering |  |
@@ -18,7 +18,7 @@
 | nld-Latn-NL |  |  |
 | nob-Latn-NO |  |  |
 | por-Latn-PT |  |  |
-| rus-Cyrl-RU | эффе́кт Тинда́ля, рассе́яние Тинда́ля |  |
+| rus-Cyrl-RU | рассе́яние Тинда́ля, эффе́кт Тинда́ля |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
 | zxx-Zsym-ZZ |  |  |

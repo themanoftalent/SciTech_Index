@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 球面像差 |  |
 | cmn-Latn-CN | qiúmiàn xiàngchā |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Kugelgestaltsfehler, Öffnungsfehler, sphärische Aberration |  |
+| deu-Latn-DE | Kugelgestaltsfehler, sphärische Aberration, Öffnungsfehler |  |
 | eng-Latn-US | spherical aberration |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |

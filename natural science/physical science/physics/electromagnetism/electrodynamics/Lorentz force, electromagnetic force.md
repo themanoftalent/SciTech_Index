@@ -5,9 +5,9 @@
 | cmn-Latn-CN | Luòlúnzī lì |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Lorentzkraft [f] |  |
-| eng-Latn-US | electromagnetic force, Lorentz force | [[electromagnetic field]]; [[force]]; [[point charge]]; [[velocity]] |
+| eng-Latn-US | Lorentz force, electromagnetic force | [[electromagnetic field]]; [[force]]; [[point charge]]; [[velocity]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | force [f] électromagnétique, force [f] de Lorentz |  |
+| fra-Latn-FR | force [f] de Lorentz, force [f] électromagnétique |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

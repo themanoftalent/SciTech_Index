@@ -2,7 +2,7 @@
 |-|-|-|
 | arb-Arab-ZZ |  |  |
 | cmn-Hans-CN | 统一原子质量单位、道尔顿 |  |
-| cmn-Latn-CN | dào'ěrdùn, tǒngyī yuánzǐ zhìliàng dǎnwèi |  |
+| cmn-Latn-CN | dào’ěrdùn, tǒngyī yuánzǐ zhìliàng dǎnwèi |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Dalton [n], atomare Masseneinheit |  |
 | eng-Latn-US | dalton, unified atomic mass unit |  |

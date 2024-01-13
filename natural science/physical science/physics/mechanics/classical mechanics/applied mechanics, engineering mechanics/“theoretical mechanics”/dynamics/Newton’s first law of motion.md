@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 牛顿第一运动定律 |  |
 | cmn-Latn-CN | Niúdùn dìyī yùndòng dìnglǜ |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | erstes Newtonsches Gesetz, Inertialgesetz [n], Trägheitsgesetz [n], Trägheitsprinzip [m] |  |
+| deu-Latn-DE | Inertialgesetz [n], Trägheitsgesetz [n], Trägheitsprinzip [m], erstes Newtonsches Gesetz |  |
 | eng-Latn-US | Newton’s first law of motion |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |

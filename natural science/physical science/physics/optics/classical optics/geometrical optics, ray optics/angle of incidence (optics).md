@@ -7,7 +7,7 @@
 | deu-Latn-DE | Einfallswinkel, Inzidenzwinkel |  |
 | eng-Latn-US | angle of incidence (optics) | [[interface]]; [[optical medium]]; [[wavefront]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | angle [m] d'incidence |  |
+| fra-Latn-FR | angle [m] d’incidence |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

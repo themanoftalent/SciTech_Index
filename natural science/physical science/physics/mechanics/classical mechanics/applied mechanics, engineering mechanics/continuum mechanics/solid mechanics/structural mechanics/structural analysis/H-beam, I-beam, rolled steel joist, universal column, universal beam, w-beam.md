@@ -5,7 +5,7 @@
 | cmn-Latn-CN | gōngzì liáng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
-| eng-Latn-US | H-beam, I-beam, rolled steel joist, universal column, universal beam, w-beam | [[beam]] |
+| eng-Latn-US | H-beam, I-beam, rolled steel joist, universal beam, universal column, w-beam | [[beam]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

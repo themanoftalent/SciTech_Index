@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | エンジン、きかん、モーター |  |
-| jpn-Jpan-JP | エンジン、機関、モーター |  |
+| jpn-Hrkt-JP | きかん、エンジン、モーター |  |
+| jpn-Jpan-JP | 機関、エンジン、モーター |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

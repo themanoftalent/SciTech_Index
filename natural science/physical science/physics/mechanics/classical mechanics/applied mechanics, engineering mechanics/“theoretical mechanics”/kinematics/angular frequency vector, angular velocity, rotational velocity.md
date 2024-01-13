@@ -5,9 +5,9 @@
 | cmn-Latn-CN | jiǎo sùdù |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Drehgeschwindigkeit, Rotationsgeschwindigkeit, Winkelgeschwindigkeit |  |
-| eng-Latn-US | angular frequency vector, angular velocity, rotational velocity | [[axial vector, pseudovector]]; [[angular position, orientation]] |
+| eng-Latn-US | angular frequency vector, angular velocity, rotational velocity | [[angular position, orientation]]; [[axial vector, pseudovector]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | vitesse de rotation, vitesse angulaire |  |
+| fra-Latn-FR | vitesse angulaire, vitesse de rotation |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
@@ -21,5 +21,5 @@
 | rus-Cyrl-RU | углова́я ско́рость |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
-| zxx-Zsym-ZZ | 𝜔⃗, 𝛚 |  |
+| zxx-Zsym-ZZ | 𝛚, 𝜔⃗ |  |
 |  |  |  |

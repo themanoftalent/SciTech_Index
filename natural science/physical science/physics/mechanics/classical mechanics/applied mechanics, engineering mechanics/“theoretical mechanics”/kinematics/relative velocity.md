@@ -21,5 +21,5 @@
 | rus-Cyrl-RU | относи́тельная ско́рость |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
-| zxx-Zsym-ZZ | 𝑣⃗_{𝐵𝐴}, 𝐯_{𝐵𝐴} |  |
+| zxx-Zsym-ZZ | 𝐯_{𝐵𝐴}, 𝑣⃗_{𝐵𝐴} |  |
 |  |  |  |

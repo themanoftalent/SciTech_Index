@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | パーセント、ひゃくぶんりつ |  |
-| jpn-Jpan-JP | パーセント、百分率 |  |
+| jpn-Hrkt-JP | ひゃくぶんりつ、パーセント |  |
+| jpn-Jpan-JP | 百分率、パーセント |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

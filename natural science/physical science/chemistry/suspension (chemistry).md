@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 混悬剂、悬浮剂、悬浮液、悬胶、悬液、悬液剂、悬浊液 |  |
-| cmn-Latn-CN | hùnxuán jì, xuánfú jì, xuánfú yè, xuán jiāo, xuán yè, xuányè jì, xuánzhuó yè |  |
+| cmn-Hans-CN | 混悬剂、悬胶、悬液、悬浮剂、悬浮液、悬液剂、悬浊液 |  |
+| cmn-Latn-CN | hùnxuán jì, xuán jiāo, xuán yè, xuánfú jì, xuánfú yè, xuányè jì, xuánzhuó yè |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Suspension (Chemie) |  |
 | eng-Latn-US | suspension (chemistry) |  |

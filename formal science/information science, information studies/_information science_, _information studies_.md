@@ -7,7 +7,7 @@
 | deu-Latn-DE | _Informationswissenschaft_ |
 | eng-Latn-US | _information science_, _information studies_ |
 | fin-Latn-FI |  |
-| fra-Latn-FR | _science de l'information_ |
+| fra-Latn-FR | _science de l’information_ |
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |

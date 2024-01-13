@@ -5,7 +5,7 @@
 | cmn-Latn-CN | shàngqǔzhěng hánshù |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Aufrundungsfunktion |  |
-| eng-Latn-US | ceiling function | [[rounding towards positive infinity, rounding up]]; [[function]] |
+| eng-Latn-US | ceiling function | [[function]]; [[rounding towards positive infinity, rounding up]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

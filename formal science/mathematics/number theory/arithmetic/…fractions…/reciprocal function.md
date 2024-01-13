@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 互反函数 |  |
 | cmn-Latn-CN | hùfǎn hánshù |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | reziproke Funktion, Reziprokfunktion |  |
+| deu-Latn-DE | Reziprokfunktion, reziproke Funktion |  |
 | eng-Latn-US | reciprocal function | [[function]]; [[multiplicative inverse, reciprocal]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |

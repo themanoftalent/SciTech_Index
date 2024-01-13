@@ -21,5 +21,5 @@
 | rus-Cyrl-RU | углово́е ускоре́ние |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
-| zxx-Zsym-ZZ | 𝛼⃗, 𝛂 |  |
+| zxx-Zsym-ZZ | 𝛂, 𝛼⃗ |  |
 |  |  |  |

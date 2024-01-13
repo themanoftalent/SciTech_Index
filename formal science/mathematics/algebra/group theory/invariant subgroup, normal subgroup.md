@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 正规子群、不变子群 |  |
-| cmn-Latn-CN | zhèngguī zǐqún, búbiàn zǐqún |  |
+| cmn-Hans-CN | 不变子群、正规子群 |  |
+| cmn-Latn-CN | búbiàn zǐqún, zhèngguī zǐqún |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Normalteil |  |
 | eng-Latn-US | invariant subgroup, normal subgroup, self-conjugate subgroup |  |

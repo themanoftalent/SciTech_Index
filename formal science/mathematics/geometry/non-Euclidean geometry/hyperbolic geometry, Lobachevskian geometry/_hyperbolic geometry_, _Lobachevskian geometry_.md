@@ -5,7 +5,7 @@
 | cmn-Latn-CN | _Luóbājièfūsījī jǐhé_, _shuāngqū jǐhé_ |
 | dan-Latn-DK |  |
 | deu-Latn-DE | _hyperbolische Geometrie_ |
-| eng-Latn-US | _hyperbolic geometry_, _Lobachevskian geometry_ |
+| eng-Latn-US | _Lobachevskian geometry_, _hyperbolic geometry_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR | _géométrie hyperbolique_ |
 | heb-Hebr-IL |  |
@@ -19,7 +19,7 @@
 | nob-Latn-NO |  |
 | pes-Aran-IR |  |
 | por-Latn-PT |  |
-| rus-Cyrl-RU | _гиперболи́ческая геоме́трия_, _геоме́трия Лобаче́вског_ |
+| rus-Cyrl-RU | _геоме́трия Лобаче́вског_, _гиперболи́ческая геоме́трия_ |
 | swe-Latn-SE |  |
 | spa-Latn-ES |  |
 | zxx-Zsym-ZZ |  |

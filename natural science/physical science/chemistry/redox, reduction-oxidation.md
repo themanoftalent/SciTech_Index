@@ -7,7 +7,7 @@
 | deu-Latn-DE | Redoxreaktion |  |
 | eng-Latn-US | redox, reduction-oxidation |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | réaction d'oxydoréduction, réaction redox |  |
+| fra-Latn-FR | réaction d’oxydoréduction, réaction redox |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

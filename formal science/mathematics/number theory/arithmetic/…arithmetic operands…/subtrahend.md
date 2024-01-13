@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ひくすう、げんす​う |  |
-| jpn-Jpan-JP | 引く数、減数 |  |
+| jpn-Hrkt-JP | げんすう、ひくすう |  |
+| jpn-Jpan-JP | 減数、引く数 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

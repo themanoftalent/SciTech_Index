@@ -7,7 +7,7 @@
 | deu-Latn-DE | Silberner Schnitt |  |
 | eng-Latn-US | silver mean, silver ratio | [[ratio]]; [[sum]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | nombre [m] d'argent, proportion d'argent |  |
+| fra-Latn-FR | nombre [m] d’argent, proportion d’argent |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 纯净物、纯物质 |  |
-| cmn-Latn-CN | chúnjìng wù, chún wùzhì |  |
+| cmn-Hans-CN | 纯物质、纯净物 |  |
+| cmn-Latn-CN | chún wùzhì, chúnjìng wù |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Reinstoff |  |
 | eng-Latn-US | pure substance |  |

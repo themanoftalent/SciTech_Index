@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | りさんがたかくりつぶんぷ、りさんかくりつぶんぷ |  |
-| jpn-Jpan-JP | 離散型確率分布、離散確率分布 |  |
+| jpn-Hrkt-JP | りさんかくりつぶんぷ、りさんがたかくりつぶんぷ |  |
+| jpn-Jpan-JP | 離散確率分布、離散型確率分布 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

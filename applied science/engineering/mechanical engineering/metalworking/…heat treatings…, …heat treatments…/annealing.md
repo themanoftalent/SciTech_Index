@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | アニーリング、やきならし、しょうどん |  |
-| jpn-Jpan-JP | アニーリング、焼鈍し／焼き鈍し／焼なまし／焼きなまし、焼鈍 |  |
+| jpn-Hrkt-JP | しょうどん、やきならし、アニーリング |  |
+| jpn-Jpan-JP | 焼鈍、焼鈍し／焼き鈍し／焼なまし／焼きなまし、アニーリング |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

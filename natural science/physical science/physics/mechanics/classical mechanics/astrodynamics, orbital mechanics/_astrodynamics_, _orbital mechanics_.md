@@ -5,9 +5,9 @@
 | cmn-Latn-CN | _hángtiān dònglìxué_ |
 | dan-Latn-DK |  |
 | deu-Latn-DE | _Raumflugmechanik_ |
-| eng-Latn-US | _orbital mechanics_, _astrodynamics_ |
+| eng-Latn-US | _astrodynamics_, _orbital mechanics_ |
 | fin-Latn-FI |  |
-| fra-Latn-FR | _mécanique spatiale_, _astrodynamique_ |
+| fra-Latn-FR | _astrodynamique_, _mécanique spatiale_ |
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |

@@ -7,7 +7,7 @@
 | deu-Latn-DE |  |  |
 | eng-Latn-US | electromagnetic four-potential | [[electromagnetic field]]; [[vector-valued function, vector function]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | champ de jauge [f], quadrivecteur potentiel, quadri-potentiel [m] |  |
+| fra-Latn-FR | champ de jauge [f], quadri-potentiel [m], quadrivecteur potentiel |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

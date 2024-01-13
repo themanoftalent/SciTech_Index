@@ -21,5 +21,5 @@
 | rus-Cyrl-RU |  |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
-| zxx-Zsym-ZZ | 𝐽⃗, 𝐉 |  |
+| zxx-Zsym-ZZ | 𝐉, 𝐽⃗ |  |
 |  |  |  |

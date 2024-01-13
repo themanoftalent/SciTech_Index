@@ -1,10 +1,10 @@
 | | |
 |-|-|
 | arb-Arab-ZZ |  |
-| cmn-Hans-CN | _法律科学_、_法律学_、_法学_ |
-| cmn-Latn-CN | _fǎlǜ kēxué_, _fǎlǜ xué_, _fǎ xué_ |
+| cmn-Hans-CN | _法学_、_法律科学_、_法律学_ |
+| cmn-Latn-CN | _fǎ xué_, _fǎlǜ kēxué_, _fǎlǜ xué_ |
 | dan-Latn-DK |  |
-| deu-Latn-DE | _Rechtswissenschaft_, _Jura_, _Jurisprudenz_, _Juristerei_ |
+| deu-Latn-DE | _Jura_, _Jurisprudenz_, _Juristerei_, _Rechtswissenschaft_ |
 | eng-Latn-US | _jurisprudence_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR | _théorie du droit_ |

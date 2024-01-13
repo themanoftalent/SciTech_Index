@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 共熔混合物、共晶混合物 |  |
-| cmn-Latn-CN | gòngróng hùnhéwù, gòngjīng hùnhéwù |  |
+| cmn-Hans-CN | 共晶混合物、共熔混合物 |  |
+| cmn-Latn-CN | gòngjīng hùnhéwù, gòngróng hùnhéwù |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
 | eng-Latn-US | eutectic mixture |  |

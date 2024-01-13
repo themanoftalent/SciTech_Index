@@ -21,5 +21,5 @@
 | rus-Cyrl-RU |  |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
-| zxx-Zsym-ZZ | 𝜃⃗, 𝛉 |  |
+| zxx-Zsym-ZZ | 𝛉, 𝜃⃗ |  |
 |  |  |  |

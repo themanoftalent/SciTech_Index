@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ふへんきたいていすう 、モルきたいていすう、きたいていすう |  |
-| jpn-Jpan-JP | 普遍気体定数、モル気体定数、気体定数 |  |
+| jpn-Hrkt-JP | きたいていすう、ふへんきたいていすう、モルきたいていすう |  |
+| jpn-Jpan-JP | 気体定数、普遍気体定数、モル気体定数 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

@@ -1,8 +1,8 @@
 | | |
 |-|-|
 | arb-Arab-ZZ |  |
-| cmn-Hans-CN | _核物理_、_核物理学_、_核子物理_、_原子核物理学_ |
-| cmn-Latn-CN | _hé wùlǐ_, _hé wùlǐ xué_, _hézǐ wùlǐ_, _yuánzǐhé wùlǐxué_ |
+| cmn-Hans-CN | _核物理学_、_核物理_、_核子物理_、_原子核物理学_ |
+| cmn-Latn-CN | _hé wùlǐ xué_, _hé wùlǐ_, _hézǐ wùlǐ_, _yuánzǐhé wùlǐxué_ |
 | dan-Latn-DK |  |
 | deu-Latn-DE | _Kernphysik_, _Nuklearphysik_ |
 | eng-Latn-US | _nuclear physics_ |

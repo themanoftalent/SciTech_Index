@@ -7,7 +7,7 @@
 | deu-Latn-DE | Wurzelgrad [m] |  |
 | eng-Latn-US | degree (root extraction) | [[root extraction]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | racine d'un nombre |  |
+| fra-Latn-FR | racine d’un nombre |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

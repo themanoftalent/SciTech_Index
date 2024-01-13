@@ -4,8 +4,8 @@
 | cmn-Hans-CN | 电磁感应 |  |
 | cmn-Latn-CN | diàncí gǎnyìng |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | elektromagnetische Induktion, Faradaysche Induktion |  |
-| eng-Latn-US | electromagnetic induction, magnetic induction | [[electromotance, electromotive force]]; [[electrical conductor]]; [[magnetic field]] |
+| deu-Latn-DE | Faradaysche Induktion, elektromagnetische Induktion |  |
+| eng-Latn-US | electromagnetic induction, magnetic induction | [[electrical conductor]]; [[electromotance, electromotive force]]; [[magnetic field]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | induction électromagnétique |  |
 | heb-Hebr-IL |  |  |

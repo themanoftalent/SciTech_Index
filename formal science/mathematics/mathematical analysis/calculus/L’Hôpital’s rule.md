@@ -5,9 +5,9 @@
 | cmn-Latn-CN | Luòbìdá fǎzé |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Regel [f] von de L’Hospital |  |
-| eng-Latn-US | L'Hôpital’s rule |  |
+| eng-Latn-US | L’Hôpital’s rule |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | règle [f] de L'Hôpital, théorème de L'Hôpital |  |
+| fra-Latn-FR | règle [f] de L’Hôpital, théorème de L’Hôpital |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

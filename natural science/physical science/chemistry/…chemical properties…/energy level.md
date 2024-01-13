@@ -7,7 +7,7 @@
 | deu-Latn-DE | Energieniveau [n] |  |
 | eng-Latn-US | energy level |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | niveau d'énergie |  |
+| fra-Latn-FR | niveau d’énergie |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

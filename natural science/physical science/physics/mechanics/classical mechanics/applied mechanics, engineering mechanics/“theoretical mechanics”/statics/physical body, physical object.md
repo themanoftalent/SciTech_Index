@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 物理实体、物体 |  |
-| cmn-Latn-CN | wùlǐ shítǐ, wù tǐ |  |
+| cmn-Hans-CN | 物体、物理实体 |  |
+| cmn-Latn-CN | wù tǐ, wùlǐ shítǐ |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | physikalischer Körper |  |
 | eng-Latn-US | physical body, physical object | [[matter]]; [[three-dimensional space]] |
@@ -18,7 +18,7 @@
 | nld-Latn-NL |  |  |
 | nob-Latn-NO |  |  |
 | por-Latn-PT |  |  |
-| rus-Cyrl-RU | физи́ческий объе́кт, физи́ческое те́ло, те́ло в фи́зике |  |
+| rus-Cyrl-RU | те́ло в фи́зике, физи́ческий объе́кт, физи́ческое те́ло |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
 | zxx-Zsym-ZZ |  |  |

@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 机会误差、偶然误差、随机误差、未定误差 |  |
-| cmn-Latn-CN | jīhuì wùchā, ǒurán wùchā, suíjī wùchā, wèidìng wùchā |  |
+| cmn-Hans-CN | 机会误差、随机误差、未定误差、偶然误差 |  |
+| cmn-Latn-CN | jīhuì wùchā, suíjī wùchā, wèidìng wùchā, ǒurán wùchā |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | zugfällige Messabweichung |  |
 | eng-Latn-US | random error | [[measurement error, observational error]]; [[randomness]] |
@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ぐうはつごさ、ぐうぜんごさ |  |
-| jpn-Jpan-JP | 偶然誤差、偶発誤差 |  |
+| jpn-Hrkt-JP | ぐうぜんごさ、ぐうはつごさ |  |
+| jpn-Jpan-JP | 偶発誤差、偶然誤差 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

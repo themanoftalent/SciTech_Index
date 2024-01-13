@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | アニオン、いんイ​オン |  |
-| jpn-Jpan-JP | アニオン、陰イオン |  |
+| jpn-Hrkt-JP | いんイオン、アニオン |  |
+| jpn-Jpan-JP | 陰イオン、アニオン |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

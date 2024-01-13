@@ -4,7 +4,7 @@
 | cmn-Hans-CN | _地理学_ |
 | cmn-Latn-CN | _dìlǐ xué_ |
 | dan-Latn-DK |  |
-| deu-Latn-DE | _Erdkunde_, _Geographie_, _Geografie_ |
+| deu-Latn-DE | _Erdkunde_, _Geografie_, _Geographie_ |
 | eng-Latn-US | _geography_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR | _géographie_ |

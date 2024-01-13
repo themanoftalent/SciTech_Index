@@ -1,13 +1,13 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 不相容原理、泡利不相容原理、泡利原理 |  |
-| cmn-Latn-CN | bùxiāngróng yuánlǐ, Pàolì bùxiāngróng yuánlǐ, Pàolì yuánlǐ |  |
+| cmn-Hans-CN | 泡利不相容原理、泡利原理、不相容原理 |  |
+| cmn-Latn-CN | Pàolì bùxiāngróng yuánlǐ, Pàolì yuánlǐ, bùxiāngróng yuánlǐ |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Pauli-Prinzip [n], Pauli-Verbot [n], paulisches Ausschließungsprinzip [n] |  |
 | eng-Latn-US | Pauli exclusion principle |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | principe [m] d'exclusion de Pauli |  |
+| fra-Latn-FR | principe [m] d’exclusion de Pauli |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

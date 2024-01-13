@@ -5,7 +5,7 @@
 | cmn-Latn-CN | cháng chúfǎ |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Standardmethode der schriftlichen Division |  |
-| eng-Latn-US | long division | [[integer]]; [[division]] |
+| eng-Latn-US | long division | [[division]]; [[integer]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | division posée |  |
 | heb-Hebr-IL |  |  |

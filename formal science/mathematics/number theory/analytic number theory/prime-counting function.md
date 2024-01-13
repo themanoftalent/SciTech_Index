@@ -18,7 +18,7 @@
 | nld-Latn-NL |  |  |
 | nob-Latn-NO |  |  |
 | por-Latn-PT |  |  |
-| rus-Cyrl-RU | фу́нкция распределе́ния просты́х чи́сел, пи-фу́нкция |  |
+| rus-Cyrl-RU | пи-фу́нкция, фу́нкция распределе́ния просты́х чи́сел |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
 | zxx-Zsym-ZZ |  |  |

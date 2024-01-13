@@ -21,5 +21,5 @@
 | rus-Cyrl-RU | мни́мое число́ |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
-| zxx-Zsym-ZZ | 𝕀, ℑ, ت |  |
+| zxx-Zsym-ZZ | ت, ℑ, 𝕀 |  |
 |  |  |  |

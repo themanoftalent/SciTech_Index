@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 复分解反应、双置换反应 |  |
 | cmn-Latn-CN | fùfēnjiě fǎnyìng, shuāngzhìhuàn fǎnyìng |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | doppelte Umsetzung, Metathesereaktion |  |
+| deu-Latn-DE | Metathesereaktion, doppelte Umsetzung |  |
 | eng-Latn-US | double displacement reaction, salt metathesis reaction |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | métathèse [f] |  |

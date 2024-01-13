@@ -7,7 +7,7 @@
 | deu-Latn-DE | _…Materialeigenschaften [f-pl]…_ |
 | eng-Latn-US | _…material properties…_ |
 | fin-Latn-FI |  |
-| fra-Latn-FR | _…propriétés d'un matériau…_ |
+| fra-Latn-FR | _…propriétés d’un matériau…_ |
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |

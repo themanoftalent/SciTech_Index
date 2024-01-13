@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 弹性势能 |  |
 | cmn-Latn-CN | tánxìng shìnéng |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | elastische Energie, Formänderungsenergie, Verformungsenergie, Verzerrungsenergie |  |
+| deu-Latn-DE | Formänderungsenergie, Verformungsenergie, Verzerrungsenergie, elastische Energie |  |
 | eng-Latn-US | elastic energy | [[elastic deformation]]; [[potential energy]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | énergie potentielle élastique |  |

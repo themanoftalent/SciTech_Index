@@ -2,7 +2,7 @@
 |-|-|-|
 | arb-Arab-ZZ |  |  |
 | cmn-Hans-CN | 毫安 |  |
-| cmn-Latn-CN | háo'ān |  |
+| cmn-Latn-CN | háo’ān |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Milliampere [n] |  |
 | eng-Latn-US | milliampere |  |

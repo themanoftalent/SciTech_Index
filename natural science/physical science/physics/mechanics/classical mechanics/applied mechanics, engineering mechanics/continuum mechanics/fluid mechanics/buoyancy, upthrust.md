@@ -5,7 +5,7 @@
 | cmn-Latn-CN | fú lì |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | statischer Auftrieb |  |
-| eng-Latn-US | buoyancy, upthrust | [[surface tension]]; [[force]]; [[weight]] |
+| eng-Latn-US | buoyancy, upthrust | [[force]]; [[surface tension]]; [[weight]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | flottabilité |  |
 | heb-Hebr-IL |  |  |

@@ -2,7 +2,7 @@
 |-|-|-|
 | arb-Arab-ZZ |  |  |
 | cmn-Hans-CN | 第二宇宙速度 |  |
-| cmn-Latn-CN | dì'èr yǔzhòusùdù |  |
+| cmn-Latn-CN | dì’èr yǔzhòusùdù |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | zweite kosmische Geschwindigkeit  |  |
 | eng-Latn-US | second cosmic velocity | [[escape velocity]] |

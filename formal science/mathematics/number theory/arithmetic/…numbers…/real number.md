@@ -21,5 +21,5 @@
 | rus-Cyrl-RU | веще́ственное числó |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
-| zxx-Zsym-ZZ | ℝ, ح |  |
+| zxx-Zsym-ZZ | ح, ℝ |  |
 |  |  |  |

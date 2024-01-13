@@ -7,7 +7,7 @@
 | deu-Latn-DE | Gleichungssystem [n] |  |
 | eng-Latn-US | simultaneous equations, system of equations |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | système d'équations [f-pl] |  |
+| fra-Latn-FR | système d’équations [f-pl] |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

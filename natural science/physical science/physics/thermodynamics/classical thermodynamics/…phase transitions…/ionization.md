@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | イオンか、でんり |  |
-| jpn-Jpan-JP | イオン化、電離 |  |
+| jpn-Hrkt-JP | でんり、イオンか |  |
+| jpn-Jpan-JP | 電離、イオン化 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

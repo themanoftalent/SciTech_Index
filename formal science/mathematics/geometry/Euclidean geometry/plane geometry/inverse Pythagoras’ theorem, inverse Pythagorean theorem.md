@@ -1,18 +1,18 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 肖特基二极管 |  |
-| cmn-Latn-CN | Xiāotèjī èrjíguǎn |  |
+| cmn-Hans-CN |  |  |
+| cmn-Latn-CN |  |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Schottky-Diode |  |
-| eng-Latn-US | hot-carrier diode, Schottky diode |  |
+| deu-Latn-DE |  |  |
+| eng-Latn-US | inverse Pythagoras’ theorem, inverse Pythagorean theorem |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | diode [f] Schottky |  |
+| fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ショットキーバリアダイオード |  |
-| jpn-Jpan-JP | ショットキーバリアダイオード |  |
+| jpn-Hrkt-JP |  |  |
+| jpn-Jpan-JP |  |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

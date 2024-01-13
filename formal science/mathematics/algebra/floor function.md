@@ -5,7 +5,7 @@
 | cmn-Latn-CN | xiàqǔzhěng hánshù |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Abrundungsfunktion |  |
-| eng-Latn-US | floor function | [[rounding down, rounding towards negative infinity]]; [[function]] |
+| eng-Latn-US | floor function | [[function]]; [[rounding down, rounding towards negative infinity]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

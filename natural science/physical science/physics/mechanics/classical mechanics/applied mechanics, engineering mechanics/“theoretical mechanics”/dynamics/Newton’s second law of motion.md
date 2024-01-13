@@ -2,7 +2,7 @@
 |-|-|-|
 | arb-Arab-ZZ |  |  |
 | cmn-Hans-CN | 牛顿第二运动定律 |  |
-| cmn-Latn-CN | Niúdùn dì'èr yùndòng dìnglǜ |  |
+| cmn-Latn-CN | Niúdùn dì’èr yùndòng dìnglǜ |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Aktionsprinzip [m], Impulssatz [m], zweites Newtonsches Gesetz |  |
 | eng-Latn-US | Newton’s second law of motion |  |

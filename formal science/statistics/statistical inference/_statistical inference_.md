@@ -4,7 +4,7 @@
 | cmn-Hans-CN | _推论统计_、_统计推断_ |
 | cmn-Latn-CN | _tuīlùn tǒngjì_, _tǒngjì tuīduàn_ |
 | dan-Latn-DK |  |
-| deu-Latn-DE | _mathematische Statistik_, _induktive Statistik_, _beurteilende Statistik_, _Inferenzstatistik_, _schließende Statistik_ |
+| deu-Latn-DE | _Inferenzstatistik_, _beurteilende Statistik_, _induktive Statistik_, _mathematische Statistik_, _schließende Statistik_ |
 | eng-Latn-US | _statistical inference_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR | _inférence statistique_ |

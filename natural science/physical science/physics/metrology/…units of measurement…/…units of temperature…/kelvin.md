@@ -2,7 +2,7 @@
 |-|-|-|
 | arb-Arab-ZZ |  |  |
 | cmn-Hans-CN | 开尔文、开 |  |
-| cmn-Latn-CN | kāi, kāi'ěrwén |  |
+| cmn-Latn-CN | kāi, kāi’ěrwén |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Kelvin [n] |  |
 | eng-Latn-US | kelvin |  |
@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ケ​ルビン、ケルヴィン |  |
-| jpn-Jpan-JP | ケ​ルビン、ケルヴィン |  |
+| jpn-Hrkt-JP | ケルビン、ケルヴィン |  |
+| jpn-Jpan-JP | ケルビン、ケルヴィン |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

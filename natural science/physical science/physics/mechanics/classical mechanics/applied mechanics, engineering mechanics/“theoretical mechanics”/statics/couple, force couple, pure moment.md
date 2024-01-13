@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 力偶 |  |
 | cmn-Latn-CN | lì ǒu |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Kräftepaar [n], Kraftpaar [n] |  |
+| deu-Latn-DE | Kraftpaar [n], Kräftepaar [n] |  |
 | eng-Latn-US | couple, force couple, pure moment | [[moment of force, torque]]; [[resultant force]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | couple [m], couple [m] de forces [f-pl] |  |

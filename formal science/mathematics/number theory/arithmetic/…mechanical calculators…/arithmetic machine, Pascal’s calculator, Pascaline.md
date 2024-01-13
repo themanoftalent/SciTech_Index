@@ -1,13 +1,13 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 滚轮式加法器、帕斯卡计算器 |  |
-| cmn-Latn-CN | gǔnlúnshì jiāfǎqì, Pàsīkǎ jìsuànqì |  |
+| cmn-Hans-CN | 帕斯卡计算器、滚轮式加法器 |  |
+| cmn-Latn-CN | Pàsīkǎ jìsuànqì, gǔnlúnshì jiāfǎqì |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Pascaline |  |
-| eng-Latn-US | arithmetic machine, Pascal’s calculator, Pascaline | [[machine calculator]] |
+| eng-Latn-US | Pascaline, Pascal’s calculator, arithmetic machine | [[machine calculator]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | machine d'arithmétique, pascaline, roue [f] pascaline |  |
+| fra-Latn-FR | machine d’arithmétique, pascaline, roue [f] pascaline |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
@@ -18,7 +18,7 @@
 | nld-Latn-NL |  |  |
 | nob-Latn-NO |  |  |
 | por-Latn-PT |  |  |
-| rus-Cyrl-RU | суммирующая машина Паска́ля, Паскали́на |  |
+| rus-Cyrl-RU | Паскали́на, суммирующая машина Паска́ля |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
 | zxx-Zsym-ZZ |  |  |

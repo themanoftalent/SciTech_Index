@@ -2,7 +2,7 @@
 |-|-|-|
 | arb-Arab-ZZ |  |  |
 | cmn-Hans-CN | δ键 |  |
-| cmn-Latn-CN | dé'ěrtǎ jiàn |  |
+| cmn-Latn-CN | dé’ěrtǎ jiàn |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Vierfachbindung |  |
 | eng-Latn-US | delta bond |  |

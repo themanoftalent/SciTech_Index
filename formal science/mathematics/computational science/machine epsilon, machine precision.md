@@ -7,12 +7,12 @@
 | deu-Latn-DE | Maschinenepsilon [n], Maschinengenauigkeit, Rundungseinheit |  |
 | eng-Latn-US | machine epsilon, machine precision |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | epsilon d'une machine, epsilon d'un microprocesseur |  |
+| fra-Latn-FR | epsilon d’un microprocesseur, epsilon d’une machine |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | けいさんきイプシロン、きかいイプシロン |  |
-| jpn-Jpan-JP | 計算機イプシロン、機械イプシロン |  |
+| jpn-Hrkt-JP | きかいイプシロン、けいさんきイプシロン |  |
+| jpn-Jpan-JP | 機械イプシロン、計算機イプシロン |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

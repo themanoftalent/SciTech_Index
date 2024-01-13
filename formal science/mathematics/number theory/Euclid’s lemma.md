@@ -7,7 +7,7 @@
 | deu-Latn-DE | Lemma von Euklid |  |
 | eng-Latn-US | Euclid’s lemma | [[prime, prime number]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | lemme [m] d'Euclide |  |
+| fra-Latn-FR | lemme [m] d’Euclide |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

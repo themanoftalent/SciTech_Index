@@ -7,7 +7,7 @@
 | deu-Latn-DE | gleichmäßig beschleunigte Bewegung |  |
 | eng-Latn-US | uniformly accelerated motion | [[Kepler’s first law]]; [[motion]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | mouvement d'accélération uniforme |  |
+| fra-Latn-FR | mouvement d’accélération uniforme |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

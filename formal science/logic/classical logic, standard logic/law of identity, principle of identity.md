@@ -7,12 +7,12 @@
 | deu-Latn-DE | Identitätsprinzip [n] |  |
 | eng-Latn-US | law of identity, principle of identity | [[law of thought]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | principe [m] d'identité |  |
+| fra-Latn-FR | principe [m] d’identité |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | どういつげんり、どういちりつ |  |
-| jpn-Jpan-JP | 同一原理、同一律 |  |
+| jpn-Hrkt-JP | どういちりつ、どういつげんり |  |
+| jpn-Jpan-JP | 同一律、同一原理 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

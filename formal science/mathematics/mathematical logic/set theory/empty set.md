@@ -21,5 +21,5 @@
 | rus-Cyrl-RU | пусто́е мно́жество |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
-| zxx-Zsym-ZZ | ∅, { } |  |
+| zxx-Zsym-ZZ | { }, ∅ |  |
 |  |  |  |

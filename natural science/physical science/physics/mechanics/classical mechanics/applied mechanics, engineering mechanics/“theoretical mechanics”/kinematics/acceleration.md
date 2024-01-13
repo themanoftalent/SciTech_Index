@@ -21,5 +21,5 @@
 | rus-Cyrl-RU | ускоре́ние |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
-| zxx-Zsym-ZZ | 𝑎⃗, 𝐚 |  |
+| zxx-Zsym-ZZ | 𝐚, 𝑎⃗ |  |
 |  |  |  |

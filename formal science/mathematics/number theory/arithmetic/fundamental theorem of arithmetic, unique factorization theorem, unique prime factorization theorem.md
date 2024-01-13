@@ -7,7 +7,7 @@
 | deu-Latn-DE | Fundamentalsatz [m] der Arithmetik |  |
 | eng-Latn-US | fundamental theorem of arithmetic, unique factorization theorem, unique prime factorization theorem | [[prime, prime number]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | théorème de décomposition en produit de facteurs premiers, théorème fondamental de l'arithmétique [f] |  |
+| fra-Latn-FR | théorème de décomposition en produit de facteurs premiers, théorème fondamental de l’arithmétique [f] |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

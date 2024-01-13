@@ -2,7 +2,7 @@
 |-|-|-|
 | arb-Arab-ZZ |  |  |
 | cmn-Hans-CN | 罗尔定理、罗尔中值定理 |  |
-| cmn-Latn-CN | Luó'ěr dìnglǐ, Luó'ěr zhōngzhí dìnglǐ |  |
+| cmn-Latn-CN | Luó’ěr dìnglǐ, Luó’ěr zhōngzhí dìnglǐ |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Satz [m] von Rolle |  |
 | eng-Latn-US | Rolle’s lemma, Rolle’s theorem |  |

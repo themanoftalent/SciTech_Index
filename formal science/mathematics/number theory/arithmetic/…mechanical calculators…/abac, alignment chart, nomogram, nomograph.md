@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 列线图、诺莫图 |  |
-| cmn-Latn-CN | lièxiàn tú, Nuòmò tú |  |
+| cmn-Hans-CN | 诺莫图、列线图 |  |
+| cmn-Latn-CN | Nuòmò tú, lièxiàn tú |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Nomogramm [n] |  |
 | eng-Latn-US | abac, alignment chart, nomogram, nomograph | [[analog computer]]; [[function]] |

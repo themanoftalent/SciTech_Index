@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 保险丝、熔断器、熔丝 |  |
-| cmn-Latn-CN | bǎoxiǎn sī, róngduàn qì, róng sī |  |
+| cmn-Hans-CN | 保险丝、熔丝、熔断器 |  |
+| cmn-Latn-CN | bǎoxiǎn sī, róng sī, róngduàn qì |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Schmelzsicherung |  |
 | eng-Latn-US | fuse |  |

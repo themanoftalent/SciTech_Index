@@ -1,10 +1,10 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 安培计、电流表 |  |
-| cmn-Latn-CN | ānpéi jì, diànliú biǎo |  |
+| cmn-Hans-CN | 电流表、安培计 |  |
+| cmn-Latn-CN | diànliú biǎo, ānpéi jì |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Strommessgerät [n], Strommesser [m] |  |
+| deu-Latn-DE | Strommesser [m], Strommessgerät [n] |  |
 | eng-Latn-US | ammeter, ampere meter |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | ampèremètre [m] |  |

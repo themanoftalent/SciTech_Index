@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | キャパシタンス、せいでんようりょう、でんきようりょう |  |
-| jpn-Jpan-JP | キャパシタンス、静電容量、電気容量 |  |
+| jpn-Hrkt-JP | せいでんようりょう、でんきようりょう、キャパシタンス |  |
+| jpn-Jpan-JP | 静電容量、電気容量、キャパシタンス |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

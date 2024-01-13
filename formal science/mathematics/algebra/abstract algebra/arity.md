@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | アリティ、こうすう |  |
-| jpn-Jpan-JP | アリティ、項数 |  |
+| jpn-Hrkt-JP | こうすう、アリティ |  |
+| jpn-Jpan-JP | 項数、アリティ |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

@@ -2,7 +2,7 @@
 |-|-|-|
 | arb-Arab-ZZ |  |  |
 | cmn-Hans-CN | 积分第二中值定理 |  |
-| cmn-Latn-CN | jīfēn dì'èr zhōngzhí dìnglǐ |  |
+| cmn-Latn-CN | jīfēn dì’èr zhōngzhí dìnglǐ |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | zweiter Mittelwertsatz der Integralrechnung |  |
 | eng-Latn-US | second mean value theorem for integrals |  |

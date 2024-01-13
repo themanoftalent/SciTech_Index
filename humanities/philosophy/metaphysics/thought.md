@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 思想、思维 |  |
-| cmn-Latn-CN | sī xiǎng, sī wéi |  |
+| cmn-Hans-CN | 思维、思想 |  |
+| cmn-Latn-CN | sī wéi, sī xiǎng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Denken |  |
 | eng-Latn-US | thought | [[cognition]]; [[conciousness]] |

@@ -1,10 +1,10 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 伏特计 |  |
-| cmn-Latn-CN | fútè jì, diànyā biǎo |  |
+| cmn-Hans-CN | 电压表、伏特计 |  |
+| cmn-Latn-CN | diànyā biǎo, fútè jì |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Spannungsmessgerät [m], Spannungsmesser [m] |  |
+| deu-Latn-DE | Spannungsmesser [m], Spannungsmessgerät [m] |  |
 | eng-Latn-US | voltmeter | [[electric potential difference, electric pressure, electric tension, voltage]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | voltmètre [m] |  |

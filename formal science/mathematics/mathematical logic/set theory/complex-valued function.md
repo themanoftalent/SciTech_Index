@@ -5,7 +5,7 @@
 | cmn-Latn-CN |  |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
-| eng-Latn-US | complex-valued function | [[function]]; [[value]]; [[complex number]] |
+| eng-Latn-US | complex-valued function | [[complex number]]; [[function]]; [[value]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | アニュラス、えんかん |  |
-| jpn-Jpan-JP | アニュラス、円環 |  |
+| jpn-Hrkt-JP | えんかん、アニュラス |  |
+| jpn-Jpan-JP | 円環、アニュラス |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 场曲、佩兹瓦尔像场弯曲、像场弯曲 |  |
-| cmn-Latn-CN | chǎng qū, Pèizīwǎ'ěr xiàngchǎngwānqū, xiàngchǎng wānqū |  |
+| cmn-Hans-CN | 佩兹瓦尔像场弯曲、场曲、像场弯曲 |  |
+| cmn-Latn-CN | Pèizīwǎ’ěr xiàngchǎng wānqū, chǎng qū, xiàngchǎng wānqū |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
 | eng-Latn-US | Petzval field curvature |  |

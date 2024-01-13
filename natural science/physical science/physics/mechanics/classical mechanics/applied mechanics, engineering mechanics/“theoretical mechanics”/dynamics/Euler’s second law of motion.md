@@ -2,7 +2,7 @@
 |-|-|-|
 | arb-Arab-ZZ |  |  |
 | cmn-Hans-CN | 欧拉第二运动定律 |  |
-| cmn-Latn-CN | Ōulā dì'èr yùndòng dìnglǜ |  |
+| cmn-Latn-CN | Ōulā dì’èr yùndòng dìnglǜ |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | zweiter cauchy-eulersche Bewegungsgesetz |  |
 | eng-Latn-US | Euler’s second laws of motion |  |

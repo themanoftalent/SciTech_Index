@@ -1,13 +1,13 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 逼近定理、夹逼定理、夹挤定理、夹极限定理、迫敛定理、三明治定理 |  |
-| cmn-Latn-CN | bījì dìnglǐ, jiābī dìnglǐ, jiājǐ dìnglǐ, jiājíxiàn dìnglǐ, pòliǎn dìnglǐ, sānmíngzhì dìnglǐ |  |
+| cmn-Hans-CN | 逼近定理、夹逼定理、夹极限定理、夹挤定理、迫敛定理、三明治定理 |  |
+| cmn-Latn-CN | bījì dìnglǐ, jiābī dìnglǐ, jiājíxiàn dìnglǐ, jiājǐ dìnglǐ, pòliǎn dìnglǐ, sānmíngzhì dìnglǐ |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Dreifolgensatz [m], Einschließungssatz [m], Einschnürungssatz [m], Sandwichsatz [m] |  |
 | eng-Latn-US | sandwich theorem, squeeze theorem |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | théorème d'encadrement, théorème de l'étau [m], théorème des gendarmes [m-pl], théorème du sandwich [m] |  |
+| fra-Latn-FR | théorème de l’étau [m], théorème des gendarmes [m-pl], théorème du sandwich [m], théorème d’encadrement |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

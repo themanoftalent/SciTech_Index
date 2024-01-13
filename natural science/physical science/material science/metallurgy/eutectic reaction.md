@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 共熔反应、共晶反应 |  |
-| cmn-Latn-CN | gòngróng fǎnyìng, gòngjīng fǎnyìng |  |
+| cmn-Hans-CN | 共晶反应、共熔反应 |  |
+| cmn-Latn-CN | gòngjīng fǎnyìng, gòngróng fǎnyìng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | eutektische Reaktion |  |
 | eng-Latn-US | eutectic reaction |  |

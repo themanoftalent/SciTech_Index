@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 概念、观念 |  |
-| cmn-Latn-CN | gài niàn, guān niàn |  |
+| cmn-Hans-CN | 观念、概念 |  |
+| cmn-Latn-CN | guān niàn, gài niàn |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Begriff [m] |  |
 | eng-Latn-US | concept | [[idea]] |

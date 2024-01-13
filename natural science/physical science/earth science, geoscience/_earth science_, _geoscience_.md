@@ -1,13 +1,13 @@
 | | |
 |-|-|
 | arb-Arab-ZZ |  |
-| cmn-Hans-CN | _地球科学_、_地学_ |
-| cmn-Latn-CN | _dìqiú kēxué_, _dì xué_ |
+| cmn-Hans-CN | _地学_、_地球科学_ |
+| cmn-Latn-CN | _dì xué_, _dìqiú kēxué_ |
 | dan-Latn-DK |  |
 | deu-Latn-DE | _Geowissenschaften [f-pl]_ |
 | eng-Latn-US | _earth science_, _geoscience_ |
 | fin-Latn-FI |  |
-| fra-Latn-FR | _sciences [f-pl] de la Terre_, _géosciences [f-pl]_ |
+| fra-Latn-FR | _géosciences [f-pl]_, _sciences [f-pl] de la Terre_ |
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |

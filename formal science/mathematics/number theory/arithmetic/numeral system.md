@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 数制、记数法、记数系统 |  |
-| cmn-Latn-CN | shù zhì, jìshù fǎ, jìshù xìtǒng |  |
+| cmn-Hans-CN | 记数法、记数系统、数制 |  |
+| cmn-Latn-CN | jìshù fǎ, jìshù xìtǒng, shù zhì |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Zahlensystem [n] Ziffernsystem [n] |  |
 | eng-Latn-US | numeral system | [[notation]] |

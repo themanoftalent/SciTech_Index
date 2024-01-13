@@ -1,18 +1,18 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN |  |  |
-| cmn-Latn-CN |  |  |
+| cmn-Hans-CN | 变形能、应变能 |  |
+| cmn-Latn-CN | biànxíng néng, yìngbiàn néng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
-| eng-Latn-US | Pythagoras' theorem, Pythagorean theorem |  |
+| eng-Latn-US | stored energy, strain energy |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP |  |  |
-| jpn-Jpan-JP |  |  |
+| jpn-Hrkt-JP | ひずみエネルギー |  |
+| jpn-Jpan-JP | ひずみエネルギー |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

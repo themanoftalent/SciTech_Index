@@ -2,10 +2,10 @@
 |-|-|-|
 | arb-Arab-ZZ |  |  |
 | cmn-Hans-CN | 康托尔定理 |  |
-| cmn-Latn-CN | Kāngtuō'ěr dìnglǐ |  |
+| cmn-Latn-CN | Kāngtuō’ěr dìnglǐ |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Satz [m] von Cantor |  |
-| eng-Latn-US | Cantor’s theorem | [[power set]]; [[cardinality]] |
+| eng-Latn-US | Cantor’s theorem | [[cardinality]]; [[power set]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | théorème de Cantor |  |
 | heb-Hebr-IL |  |  |

@@ -7,7 +7,7 @@
 | deu-Latn-DE | _Maschinenbau_, _Maschinenwesen_ |
 | eng-Latn-US | _mechanical engineering_ |
 | fin-Latn-FI |  |
-| fra-Latn-FR | _génie [m] mécanique_, _l'ingénierie mécanique_ |
+| fra-Latn-FR | _génie [m] mécanique_, _l’ingénierie mécanique_ |
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |

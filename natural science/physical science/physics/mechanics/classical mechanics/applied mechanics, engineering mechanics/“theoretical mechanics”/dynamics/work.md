@@ -7,7 +7,7 @@
 | deu-Latn-DE | Arbeit |  |
 | eng-Latn-US | work | [[displacement]]; [[energy]]; [[force]]; [[physical object]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | travail d'une force |  |
+| fra-Latn-FR | travail d’une force |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 数轴、数线 |  |
-| cmn-Latn-CN | shù zhóu, shù xiàn |  |
+| cmn-Hans-CN | 数线、数轴 |  |
+| cmn-Latn-CN | shù xiàn, shù zhóu |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Zahlengerade, Zahlenstrahl [m] |  |
 | eng-Latn-US | number line | [[line]]; [[number (abstract identity)]] |

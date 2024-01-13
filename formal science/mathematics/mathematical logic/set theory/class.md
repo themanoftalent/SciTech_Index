@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | クラス、るい |  |
-| jpn-Jpan-JP | クラス、類 |  |
+| jpn-Hrkt-JP | るい、クラス |  |
+| jpn-Jpan-JP | 類、クラス |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

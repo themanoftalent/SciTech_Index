@@ -5,9 +5,9 @@
 | cmn-Latn-CN | fǎn sānjiǎo hánshù |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Arkusfunktion, inverse Winkelfunktion, zyklometrische Funktion |  |
-| eng-Latn-US | arcus function, antitrigonometric function, cyclometric function, inverse trigonometric function | [[inverse function]]; [[trigonometric function]] |
+| eng-Latn-US | antitrigonometric function, arcus function, cyclometric function, inverse trigonometric function | [[inverse function]]; [[trigonometric function]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | fonction trigonométrique inverse, fonction circulaire réciproque |  |
+| fra-Latn-FR | fonction circulaire réciproque, fonction trigonométrique inverse |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

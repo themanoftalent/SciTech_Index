@@ -2,7 +2,7 @@
 |-|-|-|
 | arb-Arab-ZZ |  |  |
 | cmn-Hans-CN | 玻尔兹曼输运方程、玻尔兹曼方程 |  |
-| cmn-Latn-CN | Bō'ěrzīmàn fāngchéng, Bō'ěrzīmàn shūyùn fāngchéng |  |
+| cmn-Latn-CN | Bō’ěrzīmàn fāngchéng, Bō’ěrzīmàn shūyùn fāngchéng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Boltzmann-Gleichung, Boltzmannsche Transportgleichung |  |
 | eng-Latn-US | Boltzmann equation, Boltzmann transport equation |  |

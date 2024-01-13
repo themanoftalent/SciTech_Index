@@ -7,7 +7,7 @@
 | deu-Latn-DE | Oxidationsmittel |  |
 | eng-Latn-US | oxidant, oxidizer, oxidizing agent | [[electron acceptor, electron recipient]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | agent d'oxydation, agent oxydant, oxydant |  |
+| fra-Latn-FR | agent d’oxydation, agent oxydant, oxydant |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

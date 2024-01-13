@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | じこうこうか、せきしゅつこうか、せきしゅつきょうか、ぶんさんきょうか |  |
+| jpn-Hrkt-JP | じこうこうか, せきしゅつこうか, せきしゅつきょうか, ぶんさんきょうか |  |
 | jpn-Jpan-JP | 時効硬化、析出硬化、析出強化、分散強化 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

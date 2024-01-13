@@ -5,7 +5,7 @@
 | cmn-Latn-CN | duōxiàng shì |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Polynom [n] |  |
-| eng-Latn-US | polynomial | [[mathematical expression]]; [[coefficient]]; [[indeterminate]] |
+| eng-Latn-US | polynomial | [[coefficient]]; [[indeterminate]]; [[mathematical expression]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | polynôme [m] |  |
 | heb-Hebr-IL |  |  |

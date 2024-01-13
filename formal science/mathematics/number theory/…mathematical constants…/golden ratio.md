@@ -7,7 +7,7 @@
 | deu-Latn-DE | Goldener Schnitt |  |
 | eng-Latn-US | golden ratio | [[ratio]]; [[sum]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | nombre [m] d'or, proportion dorée, section dorée |  |
+| fra-Latn-FR | nombre [m] d’or, proportion dorée, section dorée |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

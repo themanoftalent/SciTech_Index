@@ -7,7 +7,7 @@
 | deu-Latn-DE | _synthetische Geometrie_ |
 | eng-Latn-US | _axiomatic geometry_, _pure geometry_, _synthetic geometry_ |
 | fin-Latn-FI |  |
-| fra-Latn-FR | _géométrie synthétique_, _géométrie pure_ |
+| fra-Latn-FR | _géométrie pure_, _géométrie synthétique_ |
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |

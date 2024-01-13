@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 声波、声学波动 |  |
 | cmn-Latn-CN | shēng bō, shēngxué bōdòng |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Akustikwelle, akustische Welle, Schallwelle |  |
+| deu-Latn-DE | Akustikwelle, Schallwelle, akustische Welle |  |
 | eng-Latn-US | acoustic wave |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | onde [f] acoustique |  |

@@ -21,5 +21,5 @@
 | rus-Cyrl-RU | ко́мплексное/компле́ксное число́ |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
-| zxx-Zsym-ZZ | ℂ, م |  |
+| zxx-Zsym-ZZ | م, ℂ |  |
 |  |  |  |

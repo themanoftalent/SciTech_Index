@@ -5,7 +5,7 @@
 | cmn-Latn-CN |  |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
-| eng-Latn-US | Boolean-valued function | [[function]]; [[value]]; [[Boolean domain]] |
+| eng-Latn-US | Boolean-valued function | [[Boolean domain]]; [[function]]; [[value]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

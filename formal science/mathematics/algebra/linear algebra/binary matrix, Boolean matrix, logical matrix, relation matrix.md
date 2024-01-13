@@ -5,7 +5,7 @@
 | cmn-Latn-CN |  |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
-| eng-Latn-US | binary matrix, Boolean matrix, logical matrix, relation matrix |  |
+| eng-Latn-US | Boolean matrix, binary matrix, logical matrix, relation matrix |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

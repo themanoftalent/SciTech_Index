@@ -1,11 +1,11 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 物理性质、物性 |  |
-| cmn-Latn-CN | wùlǐ xìngzhì, wù xìng |  |
+| cmn-Hans-CN | 物性、物理性质 |  |
+| cmn-Latn-CN | wù xìng, wùlǐ xìngzhì |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Stoffeigenschaft |  |
-| eng-Latn-US | physical property | [[measurement]]; [[proprety]]; [[physical system]] |
+| eng-Latn-US | physical property | [[measurement]]; [[physical system]]; [[proprety]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | propriété physique |  |
 | heb-Hebr-IL |  |  |

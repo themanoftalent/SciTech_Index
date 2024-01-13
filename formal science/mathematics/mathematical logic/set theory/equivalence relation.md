@@ -5,7 +5,7 @@
 | cmn-Latn-CN |  |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
-| eng-Latn-US | equivalence relation | [[binary relation]]; [[reflexive relation]]; [[well-order, well-order relation, well-ordering]]; [[transitive relation]] |
+| eng-Latn-US | equivalence relation | [[binary relation]]; [[reflexive relation]]; [[transitive relation]]; [[well-order, well-order relation, well-ordering]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

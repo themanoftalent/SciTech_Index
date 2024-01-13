@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 立方体、正方体、正六面体 |  |
 | cmn-Latn-CN | lìfāng tǐ, zhèngfāng tǐ, zhèngliùmiàn tǐ |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | regelmäßiges Hexaeder, Würfel [m] |  |
+| deu-Latn-DE | Würfel [m], regelmäßiges Hexaeder |  |
 | eng-Latn-US | cube |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | cube |  |

@@ -4,7 +4,7 @@
 | cmn-Hans-CN | _凸几何_ |
 | cmn-Latn-CN | _tū jǐhé_ |
 | dan-Latn-DK |  |
-| deu-Latn-DE | _konvexe Geometrie_, _Konvexgeometrie_ |
+| deu-Latn-DE | _Konvexgeometrie_, _konvexe Geometrie_ |
 | eng-Latn-US | _convex geometry_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR | _géométrie convexe_ |

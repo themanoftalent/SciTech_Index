@@ -2,7 +2,7 @@
 |-|-|-|
 | arb-Arab-ZZ |  |  |
 | cmn-Hans-CN | 吉布斯-杜安方程 |  |
-| cmn-Latn-CN | Jíbùsī-Dù'ān fāngchéng |  |
+| cmn-Latn-CN | Jíbùsī-Dù–ān fāngchéng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Gibbs-Duhem-Gleichung |  |
 | eng-Latn-US | Gibbs–Duhem equation |  |

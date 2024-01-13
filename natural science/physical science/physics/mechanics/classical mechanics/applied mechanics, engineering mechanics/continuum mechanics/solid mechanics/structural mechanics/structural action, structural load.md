@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 荷载、结构荷重、负荷、载荷、载重 |  |
-| cmn-Latn-CN | hè zài, jiégòu hèzhòng, fù hè, zài hè, zài zhòng |  |
+| cmn-Hans-CN | 负荷、荷载、结构荷重、载荷、载重 |  |
+| cmn-Latn-CN | fù hè, hè zài, jiégòu hèzhòng, zài hè, zài zhòng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Lastannahme |  |
 | eng-Latn-US | structural action, structural load | [[Kepler’s first law]]; [[deformation]]; [[force]]; [[structural element]] |

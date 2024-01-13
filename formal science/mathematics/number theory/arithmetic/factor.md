@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 因数、约数 |  |
-| cmn-Latn-CN | yīn shù, yuě shù |  |
+| cmn-Hans-CN | 约数、因数 |  |
+| cmn-Latn-CN | yuě shù, yīn shù |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Faktor |  |
 | eng-Latn-US | factor | [[multiplication]]; [[operand]] |

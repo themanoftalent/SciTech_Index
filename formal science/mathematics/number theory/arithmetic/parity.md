@@ -2,7 +2,7 @@
 |-|-|-|
 | arb-Arab-ZZ |  |  |
 | cmn-Hans-CN | 奇偶性 |  |
-| cmn-Latn-CN | jī'ǒu xìng |  |
+| cmn-Latn-CN | jī’ǒu xìng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Parität |  |
 | eng-Latn-US | parity | [[counting number, natural number]]; [[remainder]] |

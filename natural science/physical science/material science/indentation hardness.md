@@ -7,7 +7,7 @@
 | deu-Latn-DE | Druckhärte, Eindruckhärte |  |
 | eng-Latn-US | indentation hardness | [hardness](hardness) |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | dureté d'indentation |  |
+| fra-Latn-FR | dureté d’indentation |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

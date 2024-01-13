@@ -5,7 +5,7 @@
 | cmn-Latn-CN |  |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
-| eng-Latn-US | well-ordering theorem, Zermelo’s theorem | [[well-order, well-order relation, well-ordering]] |
+| eng-Latn-US | Zermelo’s theorem, well-ordering theorem | [[well-order, well-order relation, well-ordering]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

@@ -1,18 +1,18 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 变形能、应变能 |  |
-| cmn-Latn-CN | biànxíng néng, yìngbiàn néng |  |
+| cmn-Hans-CN | 肖特基二极管 |  |
+| cmn-Latn-CN | Xiāotèjī èrjíguǎn |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE |  |  |
-| eng-Latn-US | strain energy, stored energy |  |
+| deu-Latn-DE | Schottky-Diode |  |
+| eng-Latn-US | Schottky diode, hot-carrier diode |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR |  |  |
+| fra-Latn-FR | diode [f] Schottky |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ひずみエネルギー |  |
-| jpn-Jpan-JP | ひずみエネルギー |  |
+| jpn-Hrkt-JP | ショットキーバリアダイオード |  |
+| jpn-Jpan-JP | ショットキーバリアダイオード |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

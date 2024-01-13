@@ -5,7 +5,7 @@
 | cmn-Latn-CN | zuìxiǎo gōngbèishù |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | kleinste gemeinsame Vielfache |  |
-| eng-Latn-US | least common denominator, lowest common denominator | [[integer]]; [[division]] |
+| eng-Latn-US | least common denominator, lowest common denominator | [[division]]; [[integer]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | plus petit commun multiple, plus petit multiple commun |  |
 | heb-Hebr-IL |  |  |

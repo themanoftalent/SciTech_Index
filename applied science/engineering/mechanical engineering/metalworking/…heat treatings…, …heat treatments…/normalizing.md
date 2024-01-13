@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | やきならし、しょうじゅん |  |
-| jpn-Jpan-JP | 焼準し／焼き準し／焼ならし／焼きならし、焼準 |  |
+| jpn-Hrkt-JP | しょうじゅん、やきならし |  |
+| jpn-Jpan-JP | 焼準、焼準し／焼き準し／焼ならし／焼きならし |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

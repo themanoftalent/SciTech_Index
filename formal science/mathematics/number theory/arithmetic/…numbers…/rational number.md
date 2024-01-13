@@ -21,5 +21,5 @@
 | rus-Cyrl-RU | рационáльное числó |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
-| zxx-Zsym-ZZ | ℚ, ن |  |
+| zxx-Zsym-ZZ | ن, ℚ |  |
 |  |  |  |

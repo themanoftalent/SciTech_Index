@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 入射平面、入射面 |  |
-| cmn-Latn-CN | rùshè píngmiàn, rùshè miàn |  |
+| cmn-Hans-CN | 入射面、入射平面 |  |
+| cmn-Latn-CN | rùshè miàn, rùshè píngmiàn |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Einfallsebene |  |
 | eng-Latn-US | incidence plane, plane of incidence |  |

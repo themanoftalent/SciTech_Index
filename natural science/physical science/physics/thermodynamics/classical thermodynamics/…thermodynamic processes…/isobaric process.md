@@ -11,7 +11,7 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ていあつかてい 、とうあつかてい |  |
+| jpn-Hrkt-JP | ていあつかてい、とうあつかてい |  |
 | jpn-Jpan-JP | 定圧過程、等圧過程 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |

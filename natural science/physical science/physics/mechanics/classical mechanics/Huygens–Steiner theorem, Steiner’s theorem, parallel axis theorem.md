@@ -4,10 +4,10 @@
 | cmn-Hans-CN | 平行轴定理 |  |
 | cmn-Latn-CN | píngxíngzhóu dìnglǐ |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Parallelachsen-Theorem [n], Satz [m] von Steiner, Steiner-Regel, Steinerscher Satz, Satz [m] von Huygens-Steiner |  |
-| eng-Latn-US | Huygens–Steiner theorem, parallel axis theorem, Steiner’s theorem |  |
+| deu-Latn-DE | Parallelachsen-Theorem [n], Satz [m] von Huygens-Steiner, Satz [m] von Steiner, Steiner-Regel, Steinerscher Satz |  |
+| eng-Latn-US | Huygens–Steiner theorem, Steiner’s theorem, parallel axis theorem |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | théorème de Huygens, théorème de Steiner, théorème des axes [m-pl] parallèles, théorème de transport [m] |  |
+| fra-Latn-FR | théorème de Huygens, théorème de Steiner, théorème de transport [m], théorème des axes [m-pl] parallèles |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

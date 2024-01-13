@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | スターリングエンジン、スターリングきかん |  |
-| jpn-Jpan-JP | スターリングエンジン、スターリング機関 |  |
+| jpn-Hrkt-JP | スターリングきかん、スターリングエンジン |  |
+| jpn-Jpan-JP | スターリング機関、スターリングエンジン |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

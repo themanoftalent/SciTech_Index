@@ -5,7 +5,7 @@
 | cmn-Latn-CN |  |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
-| eng-Latn-US | inverse Pythagoras' theorem, inverse Pythagorean theorem |  |
+| eng-Latn-US | Pythagoras’ theorem, Pythagorean theorem |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

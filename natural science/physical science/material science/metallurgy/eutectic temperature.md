@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 共熔温度、共晶温度 |  |
-| cmn-Latn-CN | gòngróng wēndù, gòngjīng wēndù |  |
+| cmn-Hans-CN | 共晶温度、共熔温度 |  |
+| cmn-Latn-CN | gòngjīng wēndù, gòngróng wēndù |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
 | eng-Latn-US | eutectic temperature |  |

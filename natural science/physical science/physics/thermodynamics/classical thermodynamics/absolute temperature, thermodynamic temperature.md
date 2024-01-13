@@ -7,7 +7,7 @@
 | deu-Latn-DE | absolute Temperatur, thermodynamische Temperatur |  |
 | eng-Latn-US | absolute temperature, thermodynamic temperature |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | température thermodynamique, température absolue |  |
+| fra-Latn-FR | température absolue, température thermodynamique |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

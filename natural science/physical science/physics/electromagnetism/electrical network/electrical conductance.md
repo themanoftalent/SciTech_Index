@@ -5,7 +5,7 @@
 | cmn-Latn-CN |  |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | elektrischer Leitwert |  |
-| eng-Latn-US | electrical conductance | [[electrical current]]; [[electric potential difference, electric pressure, electric tension, voltage]] |
+| eng-Latn-US | electrical conductance | [[electric potential difference, electric pressure, electric tension, voltage]], [[electrical current]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | conductance |  |
 | heb-Hebr-IL |  |  |

@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 被解释变量、反应变量、果变量、响应变量、依变量、因变量、应变量 |  |
-| cmn-Latn-CN | bèi jiěshì biànliàng, fǎnyìng biànliàng, guǒ biànliàng, xiǎngyìng biànliàng, yī biànliàng, yīn biànliàng, yìng biànliàng |  |
+| cmn-Hans-CN | 被解释变量、反应变量、果变量、响应变量、应变量、依变量、因变量 |  |
+| cmn-Latn-CN | bèi jiěshì biànliàng, fǎnyìng biànliàng, guǒ biànliàng, xiǎngyìng biànliàng, yìng biànliàng, yī biànliàng, yīn biànliàng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | abhängige Variable |  |
 | eng-Latn-US | dependent variable | [[variable]] |

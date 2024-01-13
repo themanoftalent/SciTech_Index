@@ -5,7 +5,7 @@
 | cmn-Latn-CN | zìrán shù |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | natürliche Zahl |  |
-| eng-Latn-US | counting number, natural number | [[integer]]; [[positive number]]; [[non-negative number]]; [[number set, number system]] |
+| eng-Latn-US | counting number, natural number | [[integer]]; [[non-negative number]]; [[number set, number system]]; [[positive number]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | entier naturel |  |
 | heb-Hebr-IL |  |  |
@@ -21,5 +21,5 @@
 | rus-Cyrl-RU | натура́льное число́ |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
-| zxx-Zsym-ZZ | ℕ, ط |  |
+| zxx-Zsym-ZZ | ط, ℕ |  |
 |  |  |  |

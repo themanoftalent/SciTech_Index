@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 凸面镜 |  |
 | cmn-Latn-CN | tūmiàn jìng |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Konvexspiegel [m], Zerstreuungsspiegel [m], Wölbspiegel [m] |  |
+| deu-Latn-DE | Konvexspiegel [m], Wölbspiegel [m], Zerstreuungsspiegel [m] |  |
 | eng-Latn-US | convex mirror, diverging mirror |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | miroir convexe |  |

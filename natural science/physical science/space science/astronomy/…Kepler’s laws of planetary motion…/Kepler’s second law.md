@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 等面积定律、开普勒第二定律 |  |
-| cmn-Latn-CN | děngmiànjī dìnglǜ, Kāipǔlè dì'èr dìnglǜ |  |
+| cmn-Hans-CN | 开普勒第二定律、等面积定律 |  |
+| cmn-Latn-CN | Kāipǔlè dì’èr dìnglǜ, děngmiànjī dìnglǜ |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | zweites keplersches Gesetz |  |
 | eng-Latn-US | Kepler’s second law |  |
@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ケプラーのだいにほうそく、めんせきそくどいっていのほうそく |  |
-| jpn-Jpan-JP | ケプラーの第二法則、面積速度一定の法則 |  |
+| jpn-Hrkt-JP | めんせきそくどいっていのほうそく、ケプラーのだいにほうそく |  |
+| jpn-Jpan-JP | 面積速度一定の法則、ケプラーの第二法則 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

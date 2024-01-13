@@ -7,12 +7,12 @@
 | deu-Latn-DE | Energieerhaltungssatz [m] |  |
 | eng-Latn-US | law of conservation of energy |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | loi de conservation de l'énergie |  |
+| fra-Latn-FR | loi de conservation de l’énergie |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | エネルギーほぞんのほうそく、エネルギーほぞんそく |  |
-| jpn-Jpan-JP | エネルギー保存の法則、エネルギー保存則 |  |
+| jpn-Hrkt-JP | エネルギーほぞんそく、エネルギーほぞんのほうそく |  |
+| jpn-Jpan-JP | エネルギー保存則、エネルギー保存の法則 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

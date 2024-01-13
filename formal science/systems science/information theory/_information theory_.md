@@ -7,7 +7,7 @@
 | deu-Latn-DE | _Informationstheorie_ |
 | eng-Latn-US | _information theory_ |
 | fin-Latn-FI |  |
-| fra-Latn-FR | _théorie de l'information_ |
+| fra-Latn-FR | _théorie de l’information_ |
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |

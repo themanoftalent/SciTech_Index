@@ -19,7 +19,7 @@
 | nob-Latn-NO |  |
 | pes-Aran-IR |  |
 | por-Latn-PT |  |
-| rus-Cyrl-RU | _социа́льная нау́ка_, _обще́ственная нау́ка_ |
+| rus-Cyrl-RU | _обще́ственная нау́ка_, _социа́льная нау́ка_ |
 | swe-Latn-SE |  |
 | spa-Latn-ES |  |
 | zxx-Zsym-ZZ |  |

@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 过滤 |  |
 | cmn-Latn-CN | guò lǜ |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Filtration, Filtern, Filterung, Filtrierung |  |
+| deu-Latn-DE | Filtern, Filterung, Filtration, Filtrierung |  |
 | eng-Latn-US | filtration |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | filtration |  |

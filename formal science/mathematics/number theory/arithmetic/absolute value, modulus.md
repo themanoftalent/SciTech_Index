@@ -5,7 +5,7 @@
 | cmn-Latn-CN | juéduì zhí, mó |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Absolutbetrag [m], Absolutwert [m], absoluter Betrag, absoluter Wert |  |
-| eng-Latn-US | absolute value, modulus | [[sign (mathematics)]]; [[real number]] |
+| eng-Latn-US | absolute value, modulus | [[real number]]; [[sign (mathematics)]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | module [m], valeur absolue |  |
 | heb-Hebr-IL |  |  |

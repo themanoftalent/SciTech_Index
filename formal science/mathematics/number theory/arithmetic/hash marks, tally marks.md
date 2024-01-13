@@ -5,7 +5,7 @@
 | cmn-Latn-CN | jìshù fúhào |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Strichliste |  |
-| eng-Latn-US | hash marks, tally marks | [[unary system]]; [[addition]] |
+| eng-Latn-US | hash marks, tally marks | [[addition]]; [[unary system]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | marques [m-pl] de dénombrement |  |
 | heb-Hebr-IL |  |  |

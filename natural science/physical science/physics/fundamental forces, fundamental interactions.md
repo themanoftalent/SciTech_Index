@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 基本交互作用、基本相互作用、宇宙基本力、自然界四力 |  |
 | cmn-Latn-CN | jīběn jiāohùzuòyòng, jīběn xiānghùzuòyòng, yǔzhòu jīběnlì, zìránjiè sì lì |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | fundamentale Wechselwirkungen [f-pl], Grundkräfte [f-pl] der Physik, Naturkräfte [f-pl] |  |
+| deu-Latn-DE | Grundkräfte [f-pl] der Physik, Naturkräfte [f-pl], fundamentale Wechselwirkungen [f-pl] |  |
 | eng-Latn-US | fundamental forces, fundamental interactions |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | forces [f-pl] fondamentales, interactions [f-pl] élémentaires |  |

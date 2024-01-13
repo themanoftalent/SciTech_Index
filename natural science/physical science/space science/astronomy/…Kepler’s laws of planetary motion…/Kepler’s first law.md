@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 轨道定律、开普勒第一定律、椭圆定律 |  |
-| cmn-Latn-CN | guǐdào dìnglǜ, Kāipǔlè dìyī dìnglǜ, tuǒyuán dìnglǜ |  |
+| cmn-Hans-CN | 开普勒第一定律、轨道定律、椭圆定律 |  |
+| cmn-Latn-CN | Kāipǔlè dìyī dìnglǜ, guǐdào dìnglǜ, tuǒyuán dìnglǜ |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | erstes keplersches Gesetz |  |
 | eng-Latn-US | Kepler’s first law |  |
@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ケプラーのだいいちほうそく、だえんきどうのほうそく |  |
-| jpn-Jpan-JP | ケプラーの第一法則、楕円軌道の法則 |  |
+| jpn-Hrkt-JP | だえんきどうのほうそく、ケプラーのだいいちほうそく |  |
+| jpn-Jpan-JP | 楕円軌道の法則、ケプラーの第一法則 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

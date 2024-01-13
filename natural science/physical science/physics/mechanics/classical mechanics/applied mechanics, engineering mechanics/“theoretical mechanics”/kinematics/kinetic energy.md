@@ -21,5 +21,5 @@
 | rus-Cyrl-RU | кинети́ческая эне́ргия |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
-| zxx-Zsym-ZZ | 𝐸_𝑘, 𝐾𝐸, 𝐾, 𝑇 |  |
+| zxx-Zsym-ZZ | 𝐸_𝑘, 𝐾, 𝐾𝐸, 𝑇 |  |
 |  |  |  |

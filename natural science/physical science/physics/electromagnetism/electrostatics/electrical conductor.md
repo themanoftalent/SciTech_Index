@@ -7,7 +7,7 @@
 | deu-Latn-DE | elektrischer Leiter |  |
 | eng-Latn-US | electrical conductor |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | conducteur d'électricité |  |
+| fra-Latn-FR | conducteur d’électricité |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

@@ -2,7 +2,7 @@
 |-|-|-|
 | arb-Arab-ZZ |  |  |
 | cmn-Hans-CN | 共轭复数 |  |
-| cmn-Latn-CN | gòng'è fùshù |  |
+| cmn-Latn-CN | gòng’è fùshù |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | komplexe Konjugation |  |
 | eng-Latn-US | complex conjugate | [[complex number]]; [[sign (mathematics)]] |

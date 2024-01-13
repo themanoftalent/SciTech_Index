@@ -7,7 +7,7 @@
 | deu-Latn-DE | Gleichgewichtskonstante, Massenwirkungskonstante |  |
 | eng-Latn-US | equilibrium constant |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | constante [f] d'équilibre [m] |  |
+| fra-Latn-FR | constante [f] d’équilibre [m] |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

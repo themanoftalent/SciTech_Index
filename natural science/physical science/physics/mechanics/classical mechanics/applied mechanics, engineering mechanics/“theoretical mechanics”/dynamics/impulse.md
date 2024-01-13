@@ -7,7 +7,7 @@
 | deu-Latn-DE | Kraftstoß [m] |  |
 | eng-Latn-US | impulse | [[force]]; [[integral]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | percussion, impulsion |  |
+| fra-Latn-FR | impulsion, percussion |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

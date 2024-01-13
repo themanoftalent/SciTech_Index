@@ -7,7 +7,7 @@
 | deu-Latn-DE | Zustandsgröße |  |
 | eng-Latn-US | function of state, point function, state function |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | fonction d'état |  |
+| fra-Latn-FR | fonction d’état |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

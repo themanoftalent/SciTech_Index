@@ -7,7 +7,7 @@
 | deu-Latn-DE | ohmsches Gesetz |  |
 | eng-Latn-US | Ohm’s law | [[electric current]]; [[proportionality]]; [[voltage]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | loi [f] d'Ohm |  |
+| fra-Latn-FR | loi [f] d’Ohm |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

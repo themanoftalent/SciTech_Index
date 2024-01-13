@@ -18,7 +18,7 @@
 | nld-Latn-NL |  |  |
 | nob-Latn-NO |  |  |
 | por-Latn-PT |  |  |
-| rus-Cyrl-RU | мензу́рки, ме́рный стака́н, ме́рный цили́ндр |  |
+| rus-Cyrl-RU | ме́рный стака́н, ме́рный цили́ндр, мензу́рки |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
 | zxx-Zsym-ZZ |  |  |

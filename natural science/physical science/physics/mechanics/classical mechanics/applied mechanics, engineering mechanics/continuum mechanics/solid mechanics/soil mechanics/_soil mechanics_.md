@@ -1,8 +1,8 @@
 | | |
 |-|-|
 | arb-Arab-ZZ |  |
-| cmn-Hans-CN | _土壤力学_、_土力学_ |
-| cmn-Latn-CN | _tǔrǎng lìxué_, _tǔ lìxué_ |
+| cmn-Hans-CN | _土力学_、_土壤力学_ |
+| cmn-Latn-CN | _tǔ lìxué_, _tǔrǎng lìxué_ |
 | dan-Latn-DK |  |
 | deu-Latn-DE | _Bodenmechanik_ |
 | eng-Latn-US | _soil mechanics_ |

@@ -4,7 +4,7 @@
 | cmn-Hans-CN | _物理化学_ |
 | cmn-Latn-CN | _wùlǐ huàxué_ |
 | dan-Latn-DK |  |
-| deu-Latn-DE | _physikalische Chemie_, _Physikochemie_ |
+| deu-Latn-DE | _Physikochemie_, _physikalische Chemie_ |
 | eng-Latn-US | _physical chemistry_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR | _chimie physique_ |

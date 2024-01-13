@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | こんげんじしょう、げんしじしょう |  |
-| jpn-Jpan-JP | 根元事象、原子事象 |  |
+| jpn-Hrkt-JP | げんしじしょう、こんげんじしょう |  |
+| jpn-Jpan-JP | 原子事象、根元事象 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

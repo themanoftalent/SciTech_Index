@@ -5,7 +5,7 @@
 | cmn-Latn-CN | sù lǜ |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Schnelligkeit |  |
-| eng-Latn-US | speed | [[physical body, physical object]]; [[magnitude]]; [[position]]; [[time]] |
+| eng-Latn-US | speed | [[magnitude]]; [[physical body, physical object]]; [[position]]; [[time]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | vitesse |  |
 | heb-Hebr-IL |  |  |

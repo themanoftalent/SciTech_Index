@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 小数部分 |  |
 | cmn-Latn-CN | xiǎoshù bùfen |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Dezimalstellen [f-pl], Dezimalen [f-pl], Nachkommastellen [f-pl], Nachkommaanteil [m] |  |
+| deu-Latn-DE | Dezimalen [f-pl], Dezimalstellen [f-pl], Nachkommaanteil [m], Nachkommastellen [f-pl] |  |
 | eng-Latn-US | decimal part, fractional part |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |

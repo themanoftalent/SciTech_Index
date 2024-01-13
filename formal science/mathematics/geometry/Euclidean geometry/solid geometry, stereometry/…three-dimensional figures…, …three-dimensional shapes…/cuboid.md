@@ -7,7 +7,7 @@
 | deu-Latn-DE | Quader |  |
 | eng-Latn-US | cuboid |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | pavé droit, parallélépipède [m] rectangle |  |
+| fra-Latn-FR | parallélépipède [m] rectangle, pavé droit |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

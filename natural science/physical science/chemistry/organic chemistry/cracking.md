@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | クラッキング、せっしょくぶんかい |  |
-| jpn-Jpan-JP | クラッキング、接触分解 |  |
+| jpn-Hrkt-JP | せっしょくぶんかい、クラッキング |  |
+| jpn-Jpan-JP | 接触分解、クラッキング |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

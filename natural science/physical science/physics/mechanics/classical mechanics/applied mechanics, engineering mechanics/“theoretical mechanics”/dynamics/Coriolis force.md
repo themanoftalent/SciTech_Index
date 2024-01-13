@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 地转偏向力、科里奥利力 |  |
-| cmn-Latn-CN | dìzhuàn piānxiàng lì, Kēlǐ'àolì lì |  |
+| cmn-Hans-CN | 科里奥利力、地转偏向力 |  |
+| cmn-Latn-CN | Kēlǐ’àolì lì, dìzhuàn piānxiàng lì |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Corioliskraft [f] |  |
 | eng-Latn-US | Coriolis force | [[fictitious force, inertial force, pseudo-force]] |

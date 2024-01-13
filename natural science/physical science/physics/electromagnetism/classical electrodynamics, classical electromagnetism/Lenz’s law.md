@@ -4,8 +4,8 @@
 | cmn-Hans-CN | 楞次定律 |  |
 | cmn-Latn-CN | Léngcì dìnglǜ |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Lenzsches Gesetz, Lenzsche Regel, Regel [f] von Lenz |  |
-| eng-Latn-US | Lenz’s law | [[electrical conductor]]; [[electric current]]; [[electromagnetic induction, magnetic induction]]; [[magnetic field]] |
+| deu-Latn-DE | Lenzsche Regel, Lenzsches Gesetz, Regel [f] von Lenz |  |
+| eng-Latn-US | Lenz’s law | [[electric current]], [[electrical conductor]], [[electromagnetic induction, magnetic induction]], [[magnetic field]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

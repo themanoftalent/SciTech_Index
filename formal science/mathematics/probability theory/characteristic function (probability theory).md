@@ -5,7 +5,7 @@
 | cmn-Latn-CN | tèzhēng hánshù (gàilǜ lùn) |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | charakteristische Funktion (Probabilistik) |  |
-| eng-Latn-US | characteristic function (probability theory) | [[random variable]]; [[probability distribution]] |
+| eng-Latn-US | characteristic function (probability theory) | [[probability distribution]]; [[random variable]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | fonction caractéristique (théorie des probabilités) |  |
 | heb-Hebr-IL |  |  |

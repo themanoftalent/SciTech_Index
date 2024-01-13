@@ -5,7 +5,7 @@
 | cmn-Latn-CN | sù shù, zhì shù |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Primzahl [f] |  |
-| eng-Latn-US | prime, prime number | [[product]]; [[counting number, natural number]] |
+| eng-Latn-US | prime, prime number | [[counting number, natural number]]; [[product]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | nombre premier |  |
 | heb-Hebr-IL |  |  |

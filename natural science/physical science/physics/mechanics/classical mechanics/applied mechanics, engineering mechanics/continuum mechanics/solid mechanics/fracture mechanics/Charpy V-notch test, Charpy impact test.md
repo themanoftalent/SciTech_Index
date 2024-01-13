@@ -5,7 +5,7 @@
 | cmn-Latn-CN | Xiàbǐ chōngjī shìyàn |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Kerbschlagbiegeversuch [m] |  |
-| eng-Latn-US | Charpy impact test, Charpy V-notch test | [[energy]]; [[fracture toughness]]; [[notch]]; [[strain rate]] |
+| eng-Latn-US | Charpy V-notch test, Charpy impact test | [[energy]]; [[fracture toughness]]; [[notch]]; [[strain rate]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | essai [m] de flexion par choc sur éprouvette entaillée Charpy |  |
 | heb-Hebr-IL |  |  |

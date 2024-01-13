@@ -2,9 +2,9 @@
 |-|-|-|
 | arb-Arab-ZZ |  |  |
 | cmn-Hans-CN | 笛卡尔积 |  |
-| cmn-Latn-CN | Díkǎ'ěr jī |  |
+| cmn-Latn-CN | Díkǎ’ěr jī |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | kartesisches Produkt, Mengenprodukt [n] |  |
+| deu-Latn-DE | Mengenprodukt [n], kartesisches Produkt |  |
 | eng-Latn-US | Cartesian product |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | produit cartésien |  |

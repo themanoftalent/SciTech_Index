@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 余角 |  |
 | cmn-Latn-CN | yú jiǎo |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Komplementärwinkel, Komplementwinkel |  |
+| deu-Latn-DE | Komplementwinkel, Komplementärwinkel |  |
 | eng-Latn-US | complementary angles |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | angle [m] complémentaire |  |

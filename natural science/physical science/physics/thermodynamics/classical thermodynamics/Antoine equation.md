@@ -7,7 +7,7 @@
 | deu-Latn-DE | Antoine-Gleichung |  |
 | eng-Latn-US | Antoine equation |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | équation d'Antoine |  |
+| fra-Latn-FR | équation d’Antoine |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

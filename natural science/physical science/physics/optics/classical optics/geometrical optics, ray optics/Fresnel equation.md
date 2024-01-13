@@ -2,7 +2,7 @@
 |-|-|-|
 | arb-Arab-ZZ |  |  |
 | cmn-Hans-CN | 菲涅耳方程 |  |
-| cmn-Latn-CN | Fēiniè'ěr fāngchéng |  |
+| cmn-Latn-CN | Fēiniè’ěr fāngchéng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | fresnelsche Formeln [f-pl] |  |
 | eng-Latn-US | Fresnel equations |  |

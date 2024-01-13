@@ -4,7 +4,7 @@
 | cmn-Hans-CN | _线性代数_ |
 | cmn-Latn-CN | _xiànxìng dàishù_ |
 | dan-Latn-DK |  |
-| deu-Latn-DE | _lineare Algebra_, _Vektoralgebra_ |
+| deu-Latn-DE | _Vektoralgebra_, _lineare Algebra_ |
 | eng-Latn-US | _linear algebra_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR | _algèbre [f] linéaire_ |

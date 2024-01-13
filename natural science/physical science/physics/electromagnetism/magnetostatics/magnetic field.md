@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | じば、じかい |  |
-| jpn-Jpan-JP | 磁場、磁界 |  |
+| jpn-Hrkt-JP | じかい、じば |  |
+| jpn-Jpan-JP | 磁界、磁場 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

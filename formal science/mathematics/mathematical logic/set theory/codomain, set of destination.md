@@ -7,7 +7,7 @@
 | deu-Latn-DE | Wertevorrat [m], Zielmenge |  |
 | eng-Latn-US | codomain, set of destination |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | ensemble [m] d'arrivée |  |
+| fra-Latn-FR | ensemble [m] d’arrivée |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

@@ -19,7 +19,7 @@
 | nob-Latn-NO |  |
 | pes-Aran-IR |  |
 | por-Latn-PT |  |
-| rus-Cyrl-RU | _описа́тельная стати́стика_, _дескрипти́вная стати́стик_ |
+| rus-Cyrl-RU | _дескрипти́вная стати́стик_, _описа́тельная стати́стика_ |
 | swe-Latn-SE |  |
 | spa-Latn-ES |  |
 | zxx-Zsym-ZZ |  |

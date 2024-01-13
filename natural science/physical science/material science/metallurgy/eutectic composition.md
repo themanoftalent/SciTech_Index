@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 共熔组成物、共晶组成物 |  |
-| cmn-Latn-CN | gòngróng zǔchéngwù, gòngjīng zǔchéngwù |  |
+| cmn-Hans-CN | 共晶组成物、共熔组成物 |  |
+| cmn-Latn-CN | gòngjīng zǔchéngwù, gòngróng zǔchéngwù |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
 | eng-Latn-US | eutectic composition |  |

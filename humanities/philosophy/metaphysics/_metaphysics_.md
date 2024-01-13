@@ -2,7 +2,7 @@
 |-|-|
 | arb-Arab-ZZ |  |
 | cmn-Hans-CN | _形而上学_ |
-| cmn-Latn-CN | _xíng'érshàng xué_ |
+| cmn-Latn-CN | _xíng’érshàng xué_ |
 | dan-Latn-DK |  |
 | deu-Latn-DE | _Metaphysik_ |
 | eng-Latn-US | _metaphysics_ |

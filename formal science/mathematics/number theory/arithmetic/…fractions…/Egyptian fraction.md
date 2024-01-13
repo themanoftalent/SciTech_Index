@@ -5,7 +5,7 @@
 | cmn-Latn-CN | Āijí fēnshù |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Stammbruchzerlegung |  |
-| eng-Latn-US | Egyptian fraction | [[unit fraction]]; [[sum]] |
+| eng-Latn-US | Egyptian fraction | [[sum]]; [[unit fraction]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | fraction égyptienne |  |
 | heb-Hebr-IL |  |  |

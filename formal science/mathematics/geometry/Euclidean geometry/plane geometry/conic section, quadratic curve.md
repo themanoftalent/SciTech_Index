@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 二次平面曲线、圆锥曲线 |  |
-| cmn-Latn-CN | èrcì píngmiàn qūxiàn, yuánzhuī qūxiàn |  |
+| cmn-Hans-CN | 圆锥曲线、二次平面曲线 |  |
+| cmn-Latn-CN | yuánzhuī qūxiàn, èrcì píngmiàn qūxiàn |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Kegelschnitt [n] |  |
 | eng-Latn-US | conic section, quadratic curve | [[conic section]]; [[curve]]; [[surface (geometry)]] |
@@ -18,7 +18,7 @@
 | nld-Latn-NL |  |  |
 | nob-Latn-NO |  |  |
 | por-Latn-PT |  |  |
-| rus-Cyrl-RU | кони́ческое сече́ние, ко́ника |  |
+| rus-Cyrl-RU | ко́ника, кони́ческое сече́ние |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
 | zxx-Zsym-ZZ |  |  |

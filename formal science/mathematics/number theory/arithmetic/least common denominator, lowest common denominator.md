@@ -5,7 +5,7 @@
 | cmn-Latn-CN | zuìxiǎo gōngfēnmǔ |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Generalnenner, Hauptnenner |  |
-| eng-Latn-US | least common denominator, lowest common denominator | [[long division]]; [[denominator]] |
+| eng-Latn-US | least common denominator, lowest common denominator | [[denominator]]; [[long division]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

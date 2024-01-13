@@ -11,8 +11,8 @@
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | ねつしんど、ねつうんどう |  |
-| jpn-Jpan-JP | 熱振動、熱運動 |  |
+| jpn-Hrkt-JP | ねつうんどう、ねつしんど |  |
+| jpn-Jpan-JP | 熱運動、熱振動 |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

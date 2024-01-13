@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 乘法逆元、倒数 |  |
 | cmn-Latn-CN | chéngfǎ nìyuán, dào shù |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Kehrwert [m], reziprokes Wert, Reziproke [n] |  |
+| deu-Latn-DE | Kehrwert [m], Reziproke [n], reziprokes Wert |  |
 | eng-Latn-US | multiplicative inverse, reciprocal | [[multiplication]]; [[reciprocation]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | inverse [m] |  |

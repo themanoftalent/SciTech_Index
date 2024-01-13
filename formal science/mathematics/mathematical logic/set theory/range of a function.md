@@ -7,7 +7,7 @@
 | deu-Latn-DE | Wertebereich |  |
 | eng-Latn-US | range of a function |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | image [f] d'une application |  |
+| fra-Latn-FR | image [f] d’une application |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

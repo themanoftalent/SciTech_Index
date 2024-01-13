@@ -5,7 +5,7 @@
 | cmn-Latn-CN | shì jiàn, suíjī shìjiàn |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Ereignis, Zufallsereignis |  |
-| eng-Latn-US | event | [[subset]]; [[sample space]] |
+| eng-Latn-US | event | [[sample space]]; [[subset]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | événement |  |
 | heb-Hebr-IL |  |  |

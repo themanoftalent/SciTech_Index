@@ -4,15 +4,15 @@
 | cmn-Hans-CN | 黑铅、石墨 |  |
 | cmn-Latn-CN | hēi qiān, shí mò |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Graphit [m], Grafit [m] |  |
+| deu-Latn-DE | Grafit [m], Graphit [m] |  |
 | eng-Latn-US | graphite |  |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | graphite |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |
-| jpn-Hrkt-JP | せきぼく、グラファイト、こくえん |  |
-| jpn-Jpan-JP | 石墨、グラファイト、黒鉛 |  |
+| jpn-Hrkt-JP | こくえん、せきぼく、グラファイト |  |
+| jpn-Jpan-JP | 黒鉛、石墨、グラファイト |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |

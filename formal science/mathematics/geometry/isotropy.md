@@ -18,7 +18,7 @@
 | nld-Latn-NL |  |  |
 | nob-Latn-NO |  |  |
 | pes-Aran-IR |  |  |
-| rus-Cyrl-RU | изотропи́я, изотро́пность |  |
+| rus-Cyrl-RU | изотро́пность, изотропи́я |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
 | zxx-Zsym-ZZ |  |  |

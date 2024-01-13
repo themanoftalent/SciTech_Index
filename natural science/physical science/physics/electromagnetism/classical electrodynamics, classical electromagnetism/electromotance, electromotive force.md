@@ -7,7 +7,7 @@
 | deu-Latn-DE | elektromotorische Kraft |  |
 | eng-Latn-US | electromotance, electromotive force | [[electric charge]]; [[energy]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | électromotance, force électromotrice |  |
+| fra-Latn-FR | force électromotrice, électromotance |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

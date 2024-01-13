@@ -5,7 +5,7 @@
 | cmn-Latn-CN | wútiáojiàn jiǎnhuà |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE |  |  |
-| eng-Latn-US | direct rounding | [[rounding away from zero, rounding towards infinity]]; [[rounding down]]; [[rounding away from infinity, rounding towards zero]]; [[rounding up]] |
+| eng-Latn-US | direct rounding | [[rounding away from infinity, rounding towards zero]]; [[rounding away from zero, rounding towards infinity]]; [[rounding down]]; [[rounding up]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR |  |  |
 | heb-Hebr-IL |  |  |

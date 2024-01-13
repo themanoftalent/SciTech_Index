@@ -5,9 +5,9 @@
 | cmn-Latn-CN | Fàn-Tèhuòfū fāngchéng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Van-’t-Hoff-Gleichung |  |
-| eng-Latn-US | van 't Hoff equation |  |
+| eng-Latn-US | van ’t Hoff equation |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | relation de van 't Hoff |  |
+| fra-Latn-FR | relation de van ’t Hoff |  |
 | ita-Latn-IT |  |  |
 | jpn-Hrkt-JP | ファントホッフのしき |  |
 | jpn-Jpan-JP | ファントホッフの式 |  |

@@ -5,7 +5,7 @@
 | cmn-Latn-CN | zǐwài xiàn |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Ultraviolettstrahlung |  |
-| eng-Latn-US | ultraviolet | [[electromagnetic radiation]]; [[camera obscura [camerae obscurae]]]; [[spatial period, wavelength]]; [[X-radiation, X-ray]] |
+| eng-Latn-US | ultraviolet | [[X-radiation, X-ray]]; [[camera obscura [camerae obscurae]]]; [[electromagnetic radiation]]; [[spatial period, wavelength]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | ultraviolet |  |
 | heb-Hebr-IL |  |  |

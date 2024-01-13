@@ -4,7 +4,7 @@
 | cmn-Hans-CN | _生存分析_ |
 | cmn-Latn-CN | _shēngcún fēnxī_ |
 | dan-Latn-DK |  |
-| deu-Latn-DE | _Ereigniszeitanalyse_, _Verweildaueranalyse_, _Verlaufsdatenanalyse_, _Ereignisdatenanalyse_ |
+| deu-Latn-DE | _Ereignisdatenanalyse_, _Ereigniszeitanalyse_, _Verlaufsdatenanalyse_, _Verweildaueranalyse_ |
 | eng-Latn-US | _survival analysis_ |
 | fin-Latn-FI |  |
 | fra-Latn-FR | _analyse [f] de survie. analyse [f] de la survie_ |

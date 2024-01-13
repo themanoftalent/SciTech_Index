@@ -7,7 +7,7 @@
 | deu-Latn-DE | _Anorganik_, _anorganische Chemie_ |
 | eng-Latn-US | _inorganic chemistry_ |
 | fin-Latn-FI |  |
-| fra-Latn-FR | _chimie minérale_, _chimie inorganique_ |
+| fra-Latn-FR | _chimie inorganique_, _chimie minérale_ |
 | heb-Hebr-IL |  |
 | hin-Deva-IN |  |
 | ita-Latn-IT |  |

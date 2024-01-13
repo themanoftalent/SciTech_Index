@@ -5,9 +5,9 @@
 | cmn-Latn-CN | Yángshì móliàng |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Dehnungsmodul [m], Young’scher Modul |  |
-| eng-Latn-US | Young’s modulus | [[stress]]; [[strain]] |
+| eng-Latn-US | Young’s modulus | [[strain]]; [[stress]] |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | module [m] de Young, module [m] de traction, module [m] d'élasticité longitudinale |  |
+| fra-Latn-FR | module [m] de Young, module [m] de traction, module [m] d’élasticité longitudinale |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

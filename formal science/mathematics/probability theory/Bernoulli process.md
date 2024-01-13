@@ -4,7 +4,7 @@
 | cmn-Hans-CN | 伯努利过程 |  |
 | cmn-Latn-CN | Bónǔlì guòchéng |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Bernoulli-Prozess [m], Bernoulli-Kette |  |
+| deu-Latn-DE | Bernoulli-Kette, Bernoulli-Prozess [m] |  |
 | eng-Latn-US | Bernoulli process | [[random process, stochastic process]] |
 | fin-Latn-FI |  |  |
 | fra-Latn-FR | processus de Bernoulli |  |

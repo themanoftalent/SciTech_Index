@@ -4,10 +4,10 @@
 | cmn-Hans-CN | 安培环路定律 |  |
 | cmn-Latn-CN | Ānpéi huánlù dìnglǜ |  |
 | dan-Latn-DK |  |  |
-| deu-Latn-DE | Ampèresche Gesetz [n], Durchflutungssatz [m], Durchflutungsgesetz [n] |  |
-| eng-Latn-US | Ampère’s circuital law, Ampère–Maxwell law |  |
+| deu-Latn-DE | Ampèresche Gesetz [n], Durchflutungsgesetz [n], Durchflutungssatz [m] |  |
+| eng-Latn-US | Ampère–Maxwell law, Ampère–s circuital law |  |
 | fin-Latn-FI |  |  |
-| fra-Latn-FR | théorème d'Ampère |  |
+| fra-Latn-FR | théorème d’Ampère |  |
 | heb-Hebr-IL |  |  |
 | hin-Deva-IN |  |  |
 | ita-Latn-IT |  |  |

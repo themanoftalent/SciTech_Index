@@ -1,8 +1,8 @@
 | | | |
 |-|-|-|
 | arb-Arab-ZZ |  |  |
-| cmn-Hans-CN | 线积分、曲线积分 |  |
-| cmn-Latn-CN | xiàn jīfēn, qūxiàn jīfēn |  |
+| cmn-Hans-CN | 曲线积分、线积分 |  |
+| cmn-Latn-CN | qūxiàn jīfēn, xiàn jīfēn |  |
 | dan-Latn-DK |  |  |
 | deu-Latn-DE | Kurvenintegral, Linienintegral, Wegintegral |  |
 | eng-Latn-US | line integral |  |
