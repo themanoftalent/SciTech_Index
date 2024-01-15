@@ -8,9 +8,11 @@ if s_added_locale == '':
 top_path = Path.cwd()
 for s_file_path in glob(f'{top_path}/**/*.md', recursive=True):
 	s_file_text = Path(s_file_path).read_text()
+	if s_added_locale in s_file_text:
+		continue
 	ls_line = s_file_text.splitlines()
 	ls_content_line = ls_line[2:-1]
-	if '_' in s_file_path:
+	if s_file_path.endswith('_.md'):
 		ls_content_line.append(f'| {s_added_locale} |  |')
 	else:
 		ls_content_line.append(f'| {s_added_locale} |  |  |')

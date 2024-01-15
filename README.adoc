@@ -2,8 +2,8 @@ This is a collection of scientific and technical terms with their prerequisites.
 
 Simple ways of the visualisation are
 
-* https://logseq.com/[Logseq]
 * https://foambubble.github.io/[Foam] for https://vscodium.com/[VSCodium]
+* https://logseq.com/[Logseq]
 * https://mdsilo.com/[mdSilo]
 
 == Content
@@ -48,5 +48,5 @@ Simple ways of the visualisation are
 * Commas are used to separate synonyms;
 * Round brackets with text inside are used to indicate a specific meaning of a polyseme;
 * Square brackets with text inside are used to indicate gender, plural form, pitch accent and other linguistic features of a word;
-* Curly brackets with text inside are used to indicate entry in another anchor locale;
+* Curly brackets with text inside are used to indicate entry in another anchor locale, when the term is unavailable in the anchor locale;
 * Doubled punctuations are used to indicate the escape from other punctuation rules;
