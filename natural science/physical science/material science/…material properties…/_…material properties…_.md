@@ -20,7 +20,7 @@
 | pes-Aran-IR |  |
 | por-Latn-PT |  |
 | rus-Cyrl-RU | _…сво́йства [с-мн] материа́ла…_ |
-| swe-Latn-SE |  |
 | spa-Latn-ES |  |
+| swe-Latn-SE |  |
 | zxx-Zsym-ZZ |  |
 |  |  |

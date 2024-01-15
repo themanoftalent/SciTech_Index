@@ -20,7 +20,7 @@
 | pes-Aran-IR |  |
 | por-Latn-PT |  |
 | rus-Cyrl-RU | _ве́кторный ана́ли_ |
-| swe-Latn-SE |  |
 | spa-Latn-ES |  |
+| swe-Latn-SE |  |
 | zxx-Zsym-ZZ |  |
 |  |  |

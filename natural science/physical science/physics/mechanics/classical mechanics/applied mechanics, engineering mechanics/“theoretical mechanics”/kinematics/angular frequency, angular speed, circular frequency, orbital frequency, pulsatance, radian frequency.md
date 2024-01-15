@@ -20,9 +20,8 @@
 | por-Latn-PT |  |  |
 | rus-Cyrl-RU | углова́я частота́ |  |
 | spa-Latn-ES |  |  |
-| swe-Latn-SE |  |  |
-| zxx-Zsym-ZZ | 𝜔 |  |
 | spa-Latn-ES |  |  |
 | swe-Latn-SE |  |  |
 | zxx-Zsym-ZZ |  |  |
+| zxx-Zsym-ZZ | 𝜔 |  |
 |  |  |  |

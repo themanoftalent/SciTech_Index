@@ -20,7 +20,7 @@
 | pes-Aran-IR |  |
 | por-Latn-PT |  |
 | rus-Cyrl-RU | _полити́ческая нау́ка_, _политоло́гия_ |
-| swe-Latn-SE |  |
 | spa-Latn-ES |  |
+| swe-Latn-SE |  |
 | zxx-Zsym-ZZ |  |
 |  |  |

@@ -20,7 +20,7 @@
 | pes-Aran-IR |  |
 | por-Latn-PT |  |
 | rus-Cyrl-RU | _ана́лиз констру́кции_, _структу́рный ана́лиз_ |
-| swe-Latn-SE |  |
 | spa-Latn-ES |  |
+| swe-Latn-SE |  |
 | zxx-Zsym-ZZ |  |
 |  |  |

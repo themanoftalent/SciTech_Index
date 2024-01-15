@@ -20,7 +20,7 @@
 | pes-Aran-IR |  |
 | por-Latn-PT |  |
 | rus-Cyrl-RU | _дескрипти́вная стати́стик_, _описа́тельная стати́стика_ |
-| swe-Latn-SE |  |
 | spa-Latn-ES |  |
+| swe-Latn-SE |  |
 | zxx-Zsym-ZZ |  |
 |  |  |

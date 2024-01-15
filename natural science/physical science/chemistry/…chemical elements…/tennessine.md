@@ -14,12 +14,12 @@
 | jpn-Hrkt-JP |  |  |
 | jpn-Jpan-JP |  |  |
 | kor-Hang-KR |  |  |
-| kor-Kore-KR |  |  |
-| nld-Latn-NL |  |  |
-| nob-Latn-NO |  |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
+| kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
 | nob-Latn-NO |  |  |
 | por-Latn-PT |  |  |
 | rus-Cyrl-RU |  |  |

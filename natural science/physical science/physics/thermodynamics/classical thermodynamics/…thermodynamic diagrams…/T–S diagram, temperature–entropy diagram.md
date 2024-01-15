@@ -14,12 +14,12 @@
 | jpn-Hrkt-JP | おんどーエントロピーず, ティーエスせんず |  |
 | jpn-Jpan-JP | 温度-エントロピー図、TS線図 |  |
 | kor-Hang-KR |  |  |
-| kor-Kore-KR |  |  |
-| nld-Latn-NL |  |  |
-| nob-Latn-NO |  |  |
 | kor-Hang-KR |  |  |
 | kor-Kore-KR |  |  |
+| kor-Kore-KR |  |  |
 | nld-Latn-NL |  |  |
+| nld-Latn-NL |  |  |
+| nob-Latn-NO |  |  |
 | nob-Latn-NO |  |  |
 | por-Latn-PT |  |  |
 | rus-Cyrl-RU | TS-диаграмма, диагра́мма температу́рно-энтропи́йная |  |

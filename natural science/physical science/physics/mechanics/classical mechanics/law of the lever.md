@@ -18,4 +18,5 @@
 | nob-Latn-NO |  |  |
 | por-Latn-PT |  |  |
 | rus-Cyrl-RU |  |  |
+| swe-Latn-SE |  |  |
 |  |  |
