@@ -1,5 +1,7 @@
 This is a collection of scientific and technical terms with their prerequisites.
 
+Run `python export_to_md.py` to export TSV files to Markdown.
+
 Simple ways of the visualisation are
 
 * https://foambubble.github.io/[Foam] for https://vscodium.com/[VSCodium]

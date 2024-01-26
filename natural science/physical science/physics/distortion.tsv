@@ -1,0 +1,23 @@
+locale	concept	prerequisite
+arb-Arab-ZZ		
+cmn-Hans-CN	失真	
+cmn-Latn-CN	shī zhēn	
+dan-Latn-DK		
+deu-Latn-DE	Verzerrung	
+eng-Latn-US	distortion	signal
+fin-Latn-FI		
+fra-Latn-FR	distorsion	
+heb-Hebr-IL		
+hin-Deva-IN		
+ita-Latn-IT		
+jpn-Hrkt-JP	ひずみ [0]	
+jpn-Jpan-JP	歪み	
+kor-Hang-KR	디스토션	
+kor-Kore-KR	디스토션	
+nld-Latn-NL		
+nob-Latn-NO		
+por-Latn-PT		
+rus-Cyrl-RU	искаже́ния сигна́ла	
+spa-Latn-ES		
+swe-Latn-SE		
+zxx-Zsym-ZZ		

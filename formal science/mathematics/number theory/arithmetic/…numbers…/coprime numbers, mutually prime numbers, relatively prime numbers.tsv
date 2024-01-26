@@ -1,0 +1,23 @@
+locale	concept	prerequisite
+arb-Arab-ZZ		
+cmn-Hans-CN	互质数	
+cmn-Latn-CN	hùzhì shù	
+dan-Latn-DK		
+deu-Latn-DE	teilerfremde Zahlen [f-pl]	
+eng-Latn-US	coprime numbers, mutually prime numbers, relatively prime numbers	divisor
+fin-Latn-FI		
+fra-Latn-FR	nombres [m-pl] premiers entre eux	
+heb-Hebr-IL		
+hin-Deva-IN		
+ita-Latn-IT		
+jpn-Hrkt-JP	たがいにそ	
+jpn-Jpan-JP	互いに素	
+kor-Hang-KR		
+kor-Kore-KR		
+nld-Latn-NL		
+nob-Latn-NO		
+por-Latn-PT		
+rus-Cyrl-RU	взаи́мно просты́е чи́сла	
+spa-Latn-ES		
+swe-Latn-SE		
+zxx-Zsym-ZZ		
