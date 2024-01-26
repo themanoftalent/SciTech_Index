@@ -18,9 +18,9 @@ def check(s_sort_item, s_item_separator):
 def s_get_item_separator(s_writing_system, s_punctuation_type):
 	if s_punctuation_type == 'comma':
 		if s_writing_system in ['Arab', 'Aran']:
-			return '،'
+			return '، '
 		elif s_writing_system == 'Bamu':
-			return '꛵'
+			return '꛵ '
 		elif s_writing_system in ['Bopo', 'Hrkt']:
 			if len(ls_entry) == 2:
 				s_sort_item = s_subject
@@ -31,34 +31,34 @@ def s_get_item_separator(s_writing_system, s_punctuation_type):
 			else:
 				return '、'
 		elif s_writing_system == 'Ethi':
-			return '፣'
+			return '፣ '
 		elif s_writing_system == 'Hmng':
-			return '𖬹'
+			return '𖬹 '
 		elif s_writing_system == 'Lisu':
-			return '꓾'
+			return '꓾ '
 		elif s_writing_system == 'Medf':
-			return '𖺗'
+			return '𖺗 '
 		elif s_writing_system == 'Mong':
 			if len(ls_entry) == 2:
 				s_sort_item = s_subject
 			else:
 				s_sort_item = s_concept + s_prerequisite
 			if '᠈' in s_sort_item:
-				return '᠈'
+				return '᠈ '
 			else:
-				return '᠂'
+				return '᠂ '
 		elif s_writing_system == 'Newa':
-			return '𑑍'
+			return '𑑍 '
 		elif s_writing_system == 'Nkoo':
-			return '߸'
+			return '߸ '
 		elif s_writing_system == 'Sgnw':
-			return '𝪇'
+			return '𝪇 '
 		elif s_writing_system == 'Tibt':
-			return '༔'
+			return '༔ '
 		elif s_writing_system == 'Vaii':
-			return '꘍'
+			return '꘍ '
 		else:
-			return ','
+			return ', '
 	elif s_punctuation_type == 'semicolon':
 		if s_writing_system in ['Arab', 'Aran']:
 			if len(ls_entry) == 2:
@@ -66,23 +66,23 @@ def s_get_item_separator(s_writing_system, s_punctuation_type):
 			else:
 				s_sort_item = s_concept + s_prerequisite
 			if '⁏' in s_sort_item:
-				return '⁏'
+				return '⁏ '
 			else:
-				return '؛'
+				return '؛ '
 		elif s_writing_system == 'Armn':
-			return '․'
+			return '․ '
 		elif s_writing_system == 'Bamu':
-			return '꛶'
+			return '꛶ '
 		elif s_writing_system in ['Bopo', 'Hani', 'Hans', 'Hant', 'Jpan']:
 			return '；'
 		elif s_writing_system == 'Grek':
-			return '·'
+			return '· '
 		elif s_writing_system == 'Ethi':
-			return '፤'
+			return '፤ '
 		elif s_writing_system == 'Sgnw':
 			return '𝪉'
 		else:
-			return ';'
+			return '; '
 
 for s_file_path in glob(f'{top_path}/**/*.tsv', recursive=True):
 	s_text = Path(s_file_path).read_text()

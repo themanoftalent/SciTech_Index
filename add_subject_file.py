@@ -2,16 +2,18 @@ from glob import glob
 from pathlib import Path
 
 
-ls_all_locale = Path('locale.txt').read_text().splitlines()
-for i_locale_index in range(len(ls_all_locale)):
-	s_locale = ls_all_locale[i_locale_index]
+s_locale_file = 'locale.txt'
+
+ls_locale = Path(s_locale_file).read_text().splitlines()
+for i_locale_index in range(len(ls_locale)):
+	s_locale = ls_locale[i_locale_index]
 	if s_locale.startswith(' '):
 		s_anchor_locale = s_locale.lstrip(' ')
-		ls_all_locale[i_locale_index] = s_anchor_locale
+		ls_locale[i_locale_index] = s_anchor_locale
 		break
 
 s_text = 'locale\tsubject\n'
-for s_locale_entry in ls_all_locale:
+for s_locale_entry in ls_locale:
 	s_text += s_locale_entry + '\t\n'
 
 top_path = Path.cwd()
