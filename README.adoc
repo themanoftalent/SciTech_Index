@@ -50,4 +50,6 @@ Simple ways of the visualisation are
 * Commas are used to separate synonyms;
 * Round brackets with text inside are used to indicate a specific meaning of a polyseme;
 * Square brackets with text inside are used to indicate gender, plural form, pitch accent and other linguistic features of a word;
+* Underlines are used to indicate a subject for a file;
+* Backticks are used to indicate a collection of concepts;
 * Doubled punctuations are used to indicate the escape from other punctuation rules;

@@ -1,0 +1,24 @@
+locale	concept	prerequisite
+arb-Arab-ZZ		
+cmn-Hans-CN		
+cmn-Latn-CN		
+dan-Latn-DK		
+deu-Latn-DE	Analogtechnik	
+eng-Latn-US	analog circuit	
+fin-Latn-FI		
+fra-Latn-FR	électronique analogique	
+heb-Hebr-IL		
+hin-Deva-IN		
+ita-Latn-IT		
+jpn-Hrkt-JP	アナログかいろ	
+jpn-Jpan-JP	アナログ回路	
+kor-Hang-KR		
+kor-Kore-KR		
+nld-Latn-NL		
+nob-Latn-NO		
+pes-Aran-IR	الکترونیک آنالوگ	
+por-Latn-PT		
+rus-Cyrl-RU		
+spa-Latn-ES		
+swe-Latn-SE		
+zxx-Zsym-ZZ		
