@@ -9,8 +9,8 @@ ls_locale = Path(s_locale_file).read_text().splitlines()
 for i_locale_index in range(len(ls_locale)):
 	s_locale = ls_locale[i_locale_index]
 	if s_locale.startswith(' '):
-		s_anchor_locale = s_locale.lstrip(' ')
-		ls_locale[i_locale_index] = s_anchor_locale
+		s_principal_locale = s_locale.lstrip(' ')
+		ls_locale[i_locale_index] = s_principal_locale
 		break
 
 s_text = Path(s_subject_header_file).read_text().strip() + '\n'
@@ -28,4 +28,4 @@ for s_file_directory_path in glob(f'{top_path}/**/*/', recursive=True):
 	file_path = Path(s_file_directory_path).joinpath(s_file_name)
 	if not file_path.is_file():
 		print(file_path)
-		file_path.write_text(s_text.replace(s_anchor_locale + '\t', s_anchor_locale + '\t' + s_file_name.removesuffix('.tsv')))
+		file_path.write_text(s_text.replace(s_principal_locale + '\t', s_principal_locale + '\t' + s_file_name.removesuffix('.tsv')))

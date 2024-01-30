@@ -9,7 +9,7 @@ s_locale_file = 'locale.txt'
 ls_locale = Path(s_locale_file).read_text().splitlines()
 for s_locale in ls_locale:
 	if s_locale.startswith(' '):
-		s_anchor_locale = s_locale.strip()
+		s_principal_locale = s_locale.strip()
 		break
 
 def s_get_item_separator(s_writing_system):
@@ -47,7 +47,7 @@ for s_file_path in glob(f'{top_path}/**/*.tsv', recursive=True):
 	else:
 		for s_line in ls_text_in_line:
 			ls_line = s_line.split('\t')
-			if ls_line[0] != s_anchor_locale or ls_line[-1] == '':
+			if ls_line[0] != s_principal_locale or ls_line[-1] == '':
 				s_file_text += '|' + s_line.replace('\t', '|') + '|\n'
 				continue
 

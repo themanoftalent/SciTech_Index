@@ -8,8 +8,8 @@ ls_locale = Path(s_locale_file).read_text().splitlines()
 for i_locale_index in range(len(ls_locale)):
 	s_locale = ls_locale[i_locale_index]
 	if s_locale.startswith(' '):
-		s_anchor_locale = s_locale.lstrip(' ')
-		ls_locale[i_locale_index] = s_anchor_locale
+		s_principal_locale = s_locale.lstrip(' ')
+		ls_locale[i_locale_index] = s_principal_locale
 		break
 
 top_path = Path.cwd()
