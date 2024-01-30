@@ -1,24 +1,52 @@
-arb-Arab-ZZ
-cmn-Hans-CN
-cmn-Latn-CN
-dan-Latn-DK
-deu-Latn-DE
- eng-Latn-US
-fin-Latn-FI
-fra-Latn-FR
-heb-Hebr-IL
-hin-Deva-IN
-ita-Latn-IT
-jpn-Hrkt-JP
-jpn-Jpan-JP
-kor-Hang-KR
-kor-Kore-KR
-nld-Latn-NL
-nob-Latn-NO
-pes-Aran-IR
-por-Latn-PT
-rus-Cyrl-RU
-swe-Latn-SE
-spa-Latn-ES
-tur-Latn-TR
-zxx-Zsym-ZZ
+arb-Arab-ZZ: Arabic language using the Arabic script, unspecified country/region
+cmn-Hans-CN: Mandarin Chinese language using the Simplified Chinese script, China
+cmn-Latn-CN: Mandarin Chinese language using the Latin script, China
+dan-Latn-DK: Danish language using the Latin script, Denmark
+deu-Latn-DE: German language using the Latin script, Germany
+eng-Latn-US: English language using the Latin script, United States
+fin-Latn-FI: Finnish language using the Latin script, Finland
+fra-Latn-FR: French language using the Latin script, France
+heb-Hebr-IL: Hebrew language using the Hebrew script, Israel
+hin-Deva-IN: Hindi language using the Devanagari script, India
+ita-Latn-IT: Italian language using the Latin script, Italy
+jpn-Hrkt-JP: Japanese language using the Hiragana and Katakana scripts, Japan
+jpn-Jpan-JP: Japanese language using the Japanese script, Japan
+kor-Hang-KR: Korean language using the Hangul script, South Korea
+kor-Kore-KR: Korean language using the Korean script, South Korea
+nld-Latn-NL: Dutch language using the Latin script, Netherlands
+nob-Latn-NO: Norwegian (Bokmål) language using the Latin script, Norway
+pes-Aran-IR: Persian (Iranian Persian) language using the Arabic script, Iran
+por-Latn-PT: Portuguese language using the Latin script, Portugal
+rus-Cyrl-RU: Russian language using the Cyrillic script, Russia
+swe-Latn-SE: Swedish language using the Latin script, Sweden
+spa-Latn-ES: Spanish language using the Latin script, Spain
+tur-Latn-TR: Turkish language using the Latin script, Turkey
+zxx-Zsym-ZZ: No linguistic content, no script specified, unspecified country/region
+aze-Latn-AZ: Azerbaijani language using the Latin script, Azerbaijan
+bel-Cyrl-BY: Belarusian language using the Cyrillic script, Belarus
+ben-Beng-BD: Bengali language using the Bengali script, Bangladesh
+cat-Latn-ES: Catalan language using the Latin script, Spain
+ces-Latn-CZ: Czech language using the Latin script, Czech Republic
+ell-Grek-GR: Greek language using the Greek script, Greece
+est-Latn-EE: Estonian language using the Latin script, Estonia
+eus-Latn-ES: Basque language using the Latin script, Spain
+gle-Latn-IE: Irish language using the Latin script, Ireland
+hun-Latn-HU: Hungarian language using the Latin script, Hungary
+isl-Latn-IS: Icelandic language using the Latin script, Iceland
+lav-Latn-LV: Latvian language using the Latin script, Latvia
+lit-Latn-LT: Lithuanian language using the Latin script, Lithuania
+mal-Mlym-IN: Malayalam language using the Malayalam script, India
+mar-Deva-IN: Marathi language using the Devanagari script, India
+mkd-Cyrl-MK: Macedonian language using the Cyrillic script, North Macedonia
+msa-Latn-MY: Malay language using the Latin script, Malaysia
+pan-Guru-IN: Punjabi language using the Gurmukhi script, India
+ron-Latn-RO: Romanian language using the Latin script, Romania
+slk-Latn-SK: Slovak language using the Latin script, Slovakia
+slv-Latn-SI: Slovenian language using the Latin script, Slovenia
+tam-Taml-IN: Tamil language using the Tamil script, India
+tel-Telu-IN: Telugu language using the Telugu script, India
+tha-Thai-TH: Thai language using the Thai script, Thailand
+ukr-Cyrl-UA: Ukrainian language using the Cyrillic script, Ukraine
+urd-Arab-PK: Urdu language using the Arabic script, Pakistan
+vie-Latn-VN: Vietnamese language using the Latin script, Vietnam
+yor-Latn-NG: Yoruba language using the Latin script, Nigeria
